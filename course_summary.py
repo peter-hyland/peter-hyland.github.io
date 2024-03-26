@@ -64,43 +64,24 @@ def get_summary_from_openai(file_path):
         train_contents = file.read()
 
     assistant_prompt = """{
-  "Overview": {
-    "Module 1": "Schedule and Gym Session Plans",
-    "Module 2": "Pitch Setting Exercises"
-  },
-  "Module 1": {
-    "Title": "Schedule and Gym Session Plans",
-    "Description": "This module focuses on the weekly schedule and gym session plans for a summer pre-season training program.",
-    "Submodules": {
-      "Weekley Schedule": {
-        "Info": "Outlined a detailed daily schedule including recovery, training, skills session, team meetings, and game day preparations.",
-      },
-      "Monday full body gym": {
-        "Info": "Focused on compound movements like squats, bench press, deadlifts, and pull-ups for a full-body workout."
-      },
-      "Tuesday upper body gym": {
-        "Info": "Included exercises like bench press, bent-over rows, overhead press, and pull-ups to target upper body muscle groups."
-      },
-      "Thursday lower body gym": {
-        "Info": "Consisted of exercises such as squats, deadlifts, lunges, and leg press to strengthen and tone the lower body muscles."
-      }
-    }
-  },
-  "Module 2": {
-    "Title": "Pitch Setting Exercises",
-    "Description": "This module demonstrates various exercises to enhance running form, speed, agility, and acceleration to deceleration skills.",
-    "Submodules": {
-      "A-Skip": {
-        "Info": "A drill designed to enhance knee lift, rhythm, and coordination crucial for sprinting and agility."
-      },
-      "A-March": {
-        "Info": "Focuses on high knee lift and proper foot mechanics to improve running form and promote better movement."
-      },
-      "Acceleration to Deceleration": {
-        "Info": "Drill aimed at improving the ability to gain speed rapidly and slow down efficiently, essential for sports with quick speed changes."
-      }
-    }
-  }
+  "Overview": [
+    "How to Create an Account",
+    "How to Sign In",
+    "Changing your Password",
+    "Using the Dashboard",
+    "User Management",
+    "Course Management",
+    "Submodule Templates",
+    "Troubleshooting"
+  ],
+  "How to Create an Account": "To sign into the Operator Dashboard, it is necessary to have an account created by contacting info@skillsbase.io.",
+  "How to Sign In": "Navigate to https://operator.skillsbase.io/ and enter login details received via email.",
+  "Changing your Password": "Change password by accessing 'My Account' and selecting 'Change Password'.",
+  "Using the Dashboard": "Dashboard provides quick view options for Users, Groups, Courses, Modules, Products, and Resources.",
+  "User Management": "View, create, and manage user accounts including assigning courses and viewing training progress.",
+  "Course Management": "Overview of courses, modules, creation, editing, and filtering options.",
+  "Submodule Templates": "Various submodule templates available like Title Slide, Web Viewer, Video Player, Image Gallery, Mini Quiz, etc., for creating content.",
+  "Troubleshooting": "Guide for common issues like sign-in problems, password reset, user login trouble, push notification errors, team member addition, email correction, and contact information for unlisted issues."
 }
 """
     """
@@ -111,6 +92,8 @@ def get_summary_from_openai(file_path):
                                               messages=[
                                                   {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (summary of topic 1),\"(name of topic 2)\" (summary of topic 2) and so on"},
                                                   {"role":"user","content":file_contents},
+                                                  {"role":"assistant","content":assistant_prompt},
+                                                  {"role":"user","content":train_contents}
                                         
                                               ])
     summary = response.choices[0].message.content

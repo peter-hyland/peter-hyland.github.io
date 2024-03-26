@@ -62,13 +62,15 @@ def get_summary_from_openai(file_path):
     # prompt = create_prompt()  # Assuming create_prompt returns the desired text
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                               messages=[
-                                                  {"role":"system","content":"Given a information about a certain topic, provide a summary of the information"},
+                                                  {"role":"system","content":"Given a large amount of information, provide a summary like a 'lessons learned'"},
                                                   {"role":"user","content":file_contents}
                                               ])
     summary = response.choices[0].message.content
     write_summary_to_html(summary)  # Save the summary to summary.html
     return summary
 
+# prompts
+# {"role":"system","content":"Given a training course from Skillsbase Ltd, provide a summary by picking out the main goals of the course"}
 
 # Example usage:
 summary = get_summary_from_openai("/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/test_contents.txt")

@@ -109,10 +109,9 @@ def get_summary_from_openai(file_path):
     # prompt = create_prompt()  # Assuming create_prompt returns the desired text
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                               messages=[
-                                                  {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (all main topics), \"Title of Topic 1\" (summary of topic 1),\"Title of Topic 2\" (summary of topic 2) and so on"},
-                                                  {"role":"user","content":train_contents},
-                                                  {"role":"assistant","content":assistant_prompt},
-                                                  {"role":"user","content":file_contents}
+                                                  {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (all main topics), \"(name of topic 1)\" (summary of topic 1),\"(name of topic 2)\" (summary of topic 2) and so on"},
+                                                  {"role":"user","content":file_contents},
+                                        
                                               ])
     summary = response.choices[0].message.content
     write_summary_to_html(summary)  # Save the summary to summary.html

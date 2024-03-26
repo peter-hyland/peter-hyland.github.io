@@ -58,7 +58,7 @@ def write_summary_to_html(summary_json):
             for sub_key, sub_value in value.items():
                 html.extend(handle_value(sub_key, sub_value, indent_level))
         else:  # Handle simple strings
-            html.append(f"{'  '*indent_level} {value}</p>")
+            html.append(f"{'  '*indent_level}<p><strong>{sub_key}:</strong> {value}</p>")
         return html
 
     for section_title, section_content in summary_data.items():

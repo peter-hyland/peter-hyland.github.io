@@ -60,7 +60,7 @@ def get_summary_from_openai():
     prompt = create_prompt()  # Assuming create_prompt returns the desired text
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                               messages=[
-                                                  {"role":"system","content":"Given a training course from Skillsbase Ltd, provide a summary of the course in a JSON dict, where applicable: \"Course Name\" (course name), \"Summary\" (course summary)"},
+                                                  {"role":"system","content":"Given a training course from Skillsbase Ltd, provide a summary of the course content after the user is done in a JSON dict"},
                                                   {"role":"user","content":prompt}
                                               ])
     summary = response.choices[0].message.content

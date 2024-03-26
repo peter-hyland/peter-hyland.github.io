@@ -3,6 +3,7 @@ import openai
 from dotenv import load_dotenv
 from git import Repo
 from pathlib import Path
+import json 
 
 # Load environment variables and set OpenAI API key
 load_dotenv()
@@ -27,13 +28,30 @@ def update_summary(commit_message='Updates summary'):
     origin = repo.remote(name='origin')
     origin.push()
 
-def write_summary_to_html(summary):
+def write_summary_to_html(summary_json):
     """
-    Writes the provided summary to summary.html in the content directory.
+    Writes the provided summary JSON to summary.html in the content directory,
+    with course names as headings and their content as paragraphs.
     """
-    html_content = f"<html><head><title>Course Summary</title></head><body><h1>Course Summary</h1><p>{summary}</p></body></html>"
+    try:
+        summary_data = json.loads(summary_json)
+    except json.JSONDecodeError:
+        print("Failed to decode summary JSON. Please check the format.")
+        return
+
+    html_content = ["<html><head><title>Course Summary</title></head><body><h1>Course Summary</h1>"]
+    
+    for key, value in summary_data.items():
+        if isinstance(value, dict):
+            for sub_key, sub_value in value.items():
+                html_content.append(f"<h2>{sub_key}</h2><p>{sub_value}</p>")
+        else:
+            html_content.append(f"<h2>{key}</h2><p>{value}</p>")
+    
+    html_content.append("</body></html>")
+    
     with open(PATH_TO_SUMMARY, 'w') as file:
-        file.write(html_content)
+        file.write('\n'.join(html_content))
 
 def get_summary_from_openai():
     """

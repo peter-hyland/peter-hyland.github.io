@@ -73,6 +73,6 @@ def get_summary_from_openai(file_path):
 # {"role":"system","content":"Given a training course from Skillsbase Ltd, provide a summary by picking out the main goals of the course"}
 
 # Example usage:
-summary = get_summary_from_openai("/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/test_contents.txt")
+summary = get_summary_from_openai("/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt")
 print(summary)
 update_summary('Updates course summary on website')

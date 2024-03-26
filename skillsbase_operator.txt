@@ -1,0 +1,945 @@
+SkillsBase App
+For Experts
+Operator Dashboard
+A “How to use” Guide
+Prepared by: Mark Horgan (info@skillsbase.io)
+Version 4 – 14th March 2023
+2
+skillsbase.io info@skillsbase.io
+Contents
+1. How to Create an Account ........................................................................................................................................................................................................................................ 3
+2. How to Sign In ............................................................................................................................................................................................................................................................. 4
+3. Changing your Password ............................................................................................................................................................................................................................................................................... 5
+4. Using the Dashboard ...................................................................................................................................................................................................................................................................................... 6
+Home Screen ................................................................................................................................................................................................................................................................................................. 6
+Sidebar menu ................................................................................................................................................................................................................................................................................................. 7
+5. User Management........................................................................................................................................................................................................................................................................................... 8
+Viewing users ................................................................................................................................................................................................................................................................................................ 8
+Creating Users ............................................................................................................................................................................................................................................................................................... 9
+Setting a Users’ Password ........................................................................................................................................................................................................................................................................ 10
+Assigning Courses to a User ..................................................................................................................................................................................................................................................................... 10
+Viewing Users Training Course Progress .............................................................................................................................................................................................................................................. 11
+6. Course Management .................................................................................................................................................................................................................................................................................... 12
+Courses Overview ...................................................................................................................................................................................................................................................................................... 12
+Course Blocks .............................................................................................................................................................................................................................................................................................. 13
+How to Create a Course ........................................................................................................................................................................................................................................................................... 14
+How to Create a Module .......................................................................................................................................................................................................................................................................... 15
+How to Create Submodules ..................................................................................................................................................................................................................................................................... 17
+Progression Settings .................................................................................................................................................................................................................................................................................. 18
+7. Submodule Templates .................................................................................................................................................................................................................................................................................. 19
+List of Submodule Types ........................................................................................................................................................................................................................................................................... 19
+7.1 Title Slide ............................................................................................................................................................................................................................................................................................... 21
+7.2 Web Viewer .......................................................................................................................................................................................................................................................................................... 21
+7.3 Video Player .......................................................................................................................................................................................................................................................................................... 22
+7.3.1 YouTube ...................................................................................................................................................................................................................................................................................... 22
+7.3.2 Vimeo .......................................................................................................................................................................................................................................................................................... 22
+7.3.3 Source Upload ........................................................................................................................................................................................................................................................................... 23
+7.4 Image Gallery ........................................................................................................................................................................................................................................................................................ 24
+7.5 Itemised list ........................................................................................................................................................................................................................................................................................... 25
+7.6 Dos and Don'ts Scenarios .................................................................................................................................................................................................................................................................. 26
+7.7 Mini Quiz ............................................................................................................................................................................................................................................................................................... 28
+7.8 Step-by-Step Video Guide ................................................................................................................................................................................................................................................................. 29
+7.8.1 YouTube ...................................................................................................................................................................................................................................................................................... 29
+7.8.2 Vimeo .......................................................................................................................................................................................................................................................................................... 29
+7.8.3 Source Upload ........................................................................................................................................................................................................................................................................... 30
+7.9 Hotspot Image ...................................................................................................................................................................................................................................................................................... 32
+7.10 Simple Question ................................................................................................................................................................................................................................................................................ 34
+7.11 Hotspot Uploader ............................................................................................................................................................................................................................................................................. 35
+7.12 Question Bank Quiz .......................................................................................................................................................................................................................................................................... 36
+7.13 Upload Media ..................................................................................................................................................................................................................................................................................... 40
+7.14 Checklist .............................................................................................................................................................................................................................................................................................. 41
+7.15 Document Viewer ............................................................................................................................................................................................................................................................................. 41
+7. Troubleshooting ............................................................................................................................................................................................................................................................................................ 42
+I can’t sign into the dashboard. ................................................................................................................................................................................................................................................................ 42
+I have forgotten my password. ................................................................................................................................................................................................................................................................ 42
+My users are having trouble logging in. ................................................................................................................................................................................................................................................. 42
+Push Notifications are not sending. ........................................................................................................................................................................................................................................................ 42
+How do I add a team member? ................................................................................................................................................................................................................................................................ 42
+A user registered with an incorrect email, how do I change it? ........................................................................................................................................................................................................ 42
+My problem is not listed. .......................................................................................................................................................................................................................................................................... 42
+3
+skillsbase.io info@skillsbase.io
+1. How to Create an Account
+To sign into the Operator Dashboard (Expert), it is first necessary to have an
+account. There is no facility to create an account at this stage automatically.
+Please email info@skillsbase.io to have an account registered in your name.
+You will receive the login details after the account has been created.
+NOTE: Your operator account credentials cannot be used for the SkillsBase
+App. You will need to register separately for an account on that platform.
+4
+skillsbase.io info@skillsbase.io
+2. How to Sign In
+Once an account has been created, you need to open your web browser and
+navigate to:
+https://operator.skillsbase.io/
+Enter your login details that have been sent to your email address.
+5
+skillsbase.io info@skillsbase.io
+3. Changing your Password
+Once you log in, you will see the Dashboard home screen. We recommend
+that you change your password.
+You can change your password by:
+1. Clicking the "My Account" button on the right-hand side.
+2. Clicking your profile picture in the top right and selecting “My Account”.
+Once in My Account, scroll down the page and click Change Password.
+6
+skillsbase.io info@skillsbase.io
+4. Using the Dashboard
+Home Screen
+After logging in, you will see this page. Use this page to navigate the dashboard.
+There are six quick view options with your unique statistics on top of the page.
+1. Users: List all users with an account on the app.
+2. Groups: List of specific user groups.
+3. Courses: View and Edit all your courses.
+4. Modules: View and Edit all your courses.
+5. Products: List of all your Products.
+6. Resources: List of all Resources (Image, PDF, YouTube, Vimeo and Source).
+7
+skillsbase.io info@skillsbase.io
+Sidebar menu
+On the sidebar menu, you can click the following:
+1. Dashboard: Home screen with six quick view options.
+2. Courses: View and Edit all your courses.
+3. Users: Manage Users, Manage Groups, and Manage Assessors.
+4. Products: List of all your Products.
+5. Product Types: Create product types to assign to products.
+6. Resources: List of all Resources (Image, PDF, YouTube, Vimeo, and Source).
+7. Jobs: See the jobs (practical content) users have uploaded for review by an
+admin.
+8. News: List of News articles on the app.
+9. Reports: List of useful reporting templates to give insights into your system.
+• Partial Completion: This shows a list of users who have started but
+still need to complete a course fully.
+• Not Started Any Courses: This shows a list of users who have logged
+in but have not started any courses.
+• Never Logged In: This shows a list of users that have created an
+account but have never logged in.
+• Low Completion Rate: This lists users with the lowest overall
+completion rate for available courses.
+10. Team Management: Manage Team Members.
+11. My Account: Basic info, Change Password, Notification Settings.
+8
+skillsbase.io info@skillsbase.io
+5. User Management
+Viewing users
+Here you can view the list of all users with an account on the app.
+1. Use the "Filter" drop-down menu button for better search results.
+2. Filter the list by clicking the arrows on top.
+3. Refine the result by typing information into the search bars on the columns.
+4. Export the list of data to CSV/ Excel by clicking the “Export” button.
+5. If you have an Excel database of Users, use the “Import” button.
+6. You can create new user accounts by clicking the “Create User” button.
+You will find the following three dots on each user list item. Click these to open
+the pop-out “Action” menu:
+These icons allow you to (In order from
+top to bottom):
+1. View users’ account details.
+2. Edit users’ account details.
+3. Delete users' accounts.
+4. View users’ training course
+progress.
+5. Resend sign-up info to the users’
+email.
+9
+skillsbase.io info@skillsbase.io
+Creating Users
+Creating a New User is simple. On the “Manage Users” page, click the “Create
+User” button.
+1. You must enter a Name and an Email into the fields. (Required)
+2. Select what Group you want this user to be a part of.
+3. Activate the user's account.
+4. Decide if you want the user to be an assessor.
+After creating a user account, the user will be emailed a temporary password.
+These buttons allow you to (In order from left to right):
+1. Cancel your progress and exit “Create User”.
+2. “Save & Next” saves the user account and then navigates to the "Assign
+Courses" page.
+3. “Save” saves the user and navigates to the "Manage Users" page.
+The status slider allows you to
+disable (the slider is grey) and
+enable (the slider is red) user
+accounts.
+When you have created your users' accounts, they will
+receive an email asking them to verify their accounts. Once
+they have verified their emails, they will have a green check
+next to their name.
+10
+skillsbase.io info@skillsbase.io
+Setting a Users’ Password
+1. You can manually create a user password by clicking the "Change user's
+password" checkbox.
+2. Input the user's password. The password must contain 8-20 digits with at least
+one uppercase, one lowercase, and one special character.
+Assigning Courses to a User
+On the “Manage Users” page, click the three dots on a User and select “Edit”.
+This will take you to the “Edit user” page.
+1. Click the “Assign Courses” Tab. Once a course is created, it will appear here.
+2. Filter the list by clicking the arrows on top.
+3. Select the checkbox of the course you would like to assign to your user, then
+click “Save”.
+11
+skillsbase.io info@skillsbase.io
+Viewing Users Training Course Progress
+On the “Manage Users” page,
+under the “Action” column, click
+the three dots beside the user’s
+name.
+Then click “View Training Course Progress” to be
+brought to the “View Training Course Progress”
+page.
+The “View Training Course Progress” page will show a list of all the courses the
+user is assigned to and their current progress:
+You can see individual submodule progress by clicking on the module name. You
+can also:
+1. Reset module progression.
+2. Reset submodule progression.
+3. Download the mini-quiz or question bank quiz PDF results from a whole
+module or a specific submodule.
+12
+skillsbase.io info@skillsbase.io
+6. Course Management
+Courses Overview
+A course is made up of different Modules (Lessons). Modules are then made up
+of varying Submodule Templates (Content), e.g., Image Gallery, Video Guides,
+Quizzes, etc.
+When you click the “Courses” tab in the sidebar menu, you will be brought to the
+"Course" page, where you can see an overview of the courses you have created:
+1. Course Assign Links enables you to generate a link to a specific course.
+This link can be used to create a QR code which users can scan to assign
+themselves to a course.
+2. Create a Course brings you to the "Create Course" page, where you can
+create a new course.
+Course
+Module Module
+Submodule Submodule Submodule Submodule
+13
+skillsbase.io info@skillsbase.io
+3. Filter courses by clicking the drop-down menu. You
+can select from various filtering options that will alter
+the courses' display order.
+4. To filter courses by their name and date of creation,
+click the funnel button to open a pop-out menu that
+allows you to search by course title and date range.
+5. To view or modify a course, click on the
+course block to be brought to the course
+page.
+Course Blocks
+1. This label indicates that a course has been marked as default for users.
+Users will receive a push notification on their devices for this course.
+2. This label is an indicator if a course is published or a draft.
+3. The status slider indicates if a course is active (red) or
+inactive (grey).
+4. Duplicate an existing course to use as a template for a new one.
+5. Delete a course.
+6. This is the number of modules inside a course.
+14
+skillsbase.io info@skillsbase.io
+How to Create a Course
+Click the “Create a Course” button on the “Courses” page to be taken to
+the course creation page.
+1. You can mark a course as default for your users. This means users must
+complete this course first before starting a new one.
+2. Enter your course title.
+3. Give an overview description of the course contents.
+4. You can customise the display order of the training courses on the app by
+selecting which position you would like your course to be in.
+5. Upload a primary course image.
+6. Enter keywords that can be used as key search words whilst on the app.
+7. Click the status slider to activate the course. When the slider is red, the
+course is active; when it's grey, it's inactive.
+8. Choose to publish the course instantly or on a specific date and time you
+choose.
+9. Click “Save” when you have completed creating your course. You will
+then be taken back “Courses” page, where you can see your new course.
+Note: To save a draft, select “Publish Now" and ensure the status slider is
+inactive (grey).
+15
+skillsbase.io info@skillsbase.io
+How to Create a Module
+On the “Courses” overview page, click on a courses tile to be brought to
+that courses overview page.
+1. Delete will delete a course and its contents.
+2. Edit Course brings you to the "Edit Course" page, which lets you edit
+course details.
+3. Generate and Copy Course Assign Link will generate a link to a specific
+course. This link can be used to create a QR code which users can scan to
+assign themselves to a course.
+4. Create a Module brings you to the "Add Module" page, where you can
+create your module.
+5. Add Modules from Other Courses enables you to add pre-existing
+modules from other courses.
+16
+skillsbase.io info@skillsbase.io
+To create a module, click “Create a Module” to be brought to the module
+creation page:
+1. You can choose to notify users of updates. When enabled, this sends a
+push notification to users’ devices when a module has been updated.
+2. Enter your module title.
+3. Give an overview description of the module contents.
+4. You must upload a primary module image.
+5. Click the status slider to activate the module. When the slider is red, the
+module is active; when it's grey, it's inactive.
+6. You can set a custom to unlock date & time if other modules are
+available for prerequisite.
+7. Click “Save” when you have completed creating the module. You will then
+return to the course page, where you will see your new module.
+Note: If you want to edit module content, click the course tile on the "Courses"
+page to be brought to the module page. Click the "Edit Module Settings" button
+below the module description to be brought to the "Edit Module" page.
+17
+skillsbase.io info@skillsbase.io
+How to Create Submodules
+On the “Courses” page, click on the course tile you want to edit. Click the
+module tile you wish to create content for. You will then be taken to the
+submodule creation page. The "Title Slide" template is the default template.
+Here is a "Title Slide" template example from our test course:
+When creating a new submodule, three elements must be completed despite the
+template:
+1. Input submodule name. Generally, submodules' names are related to the
+content inside them.
+2. Upload a thumbnail image. The thumbnail is the picture the user will see
+when looking at the submodule on the app.
+3. The info field is where you can provide a brief overview of the submodule
+content. Users will also be able to see this on the app.
+On the right-hand side, you can see the list order of your submodules. Each
+submodule item will show you the submodule name and info. There are also
+helpful icons to help you when creating your submodule.
+These icons allow you to (In order from left to right):
+1. Change the Submodule Template settings.
+2. Paste the Submodule contents into a different course module.
+3. Duplicate the Submodule Template.
+4. Delete the Submodule.
+5. The status slider enables you to turn submodules on and off for users.
+Note: You can click and drag to modify the order of
+Submodules.
+18
+skillsbase.io info@skillsbase.io
+Progression Settings
+Custom progression settings are located at the bottom of every
+submodule template. These settings allow you to customise how users
+progress through a module.
+1. Unlock Submodule Criteria enables you to set a custom unlock date and
+time. The submodule will unlock for users on the selected date and time.
+2. You can Select Prerequisite Submodules to prevent users from skipping to
+different submodules. For example, suppose you have a quiz and want to
+ensure people complete pre-training. In that case, you can set the pre-
+training submodules as prerequisites. Drag the prerequisite modules into the
+“Selected Sub Modules” box to use this feature.
+3. When you’ve chosen a prerequisite module(s), you can also define the
+percentage completion of that submodule. For example, you can allow a user
+to finish half of a submodule with the percentage at 50% to unlock this
+submodule.
+4. Enabling time spend to unlock opens
+a progress completion percentage
+menu, which allows you to
+customise the criteria for users to
+achieve 100% completion. For
+example, you can set a module to
+automatically go to 100% after a
+period of time, regardless of the
+users’ interactions with the content.
+Note: Each submodule template has a different completion method for users to
+complete a module to 100%. Please refer to the submodule template guide to
+learn more about these.
+19
+skillsbase.io info@skillsbase.io
+7. Submodule Templates
+List of Submodule Types
+When adding a new Submodule to a Module, there are various Submodule
+Templates available to use:
+1. Title Slide: Shows a
+simple Title and
+Subtitle with a
+confirmation button.
+2. Web View: Show an
+embedded web page.
+3. Video Player: Shows
+either streamed video
+or upload your own.
+4. Image Gallery: Show a
+carousel of images, or just
+one, with a caption.
+5. Itemised List: Show a
+list of items useful for
+displaying a catalogue
+of products or
+ingredients.
+6. Do and Don’ts
+Scenarios: Show
+scenarios with dos and
+don’ts. Display an
+image or video with a
+text caption under each
+scenario.
+7. Mini Quiz: Ask your
+users a list of
+predefined questions.
+Useful for a mini-quiz
+or getting a user’s
+feedback.
+8. Step-by-Step Video
+Guide: Stream a video, or
+upload your own, and
+enable bite-sized learning
+via short clips. Ideal for
+knowledge refreshing and
+teaching key parts of
+videos.
+9. Hotspot Image:
+Image with Hotspot.
+20
+skillsbase.io info@skillsbase.io
+10. Simple Question:
+Ask your user a simple
+two answered
+question. Ideal for
+asking a Yes/No
+question.
+11. Hotspot Photo
+Uploader: Tag an image
+with hotspots and ask
+the user to upload a
+photo to that region –
+ideal for testing a user’s
+competency to ensure
+that their practical
+work looks like the
+master image.
+12. Question Bank
+Quiz: Upload a custom
+question bank of
+questions and
+categories. Randomized
+order ensures non-
+repeating questions and
+anti-plagiarising. Full
+reporting is generated
+to prove learnings.
+13. Upload Media:
+Users can upload media
+and fill out data about
+the upload for approval
+by you. Useful for
+technicians uploading
+work samples or for
+users to upload
+essential documents
+relating to the course.
+14. Checklist: Show the
+user a list of questions
+or statements with a
+checkmark next to
+each. Users must click
+all of these to continue;
+this is useful as a
+checklist.
+15. Document Viewer:
+Upload a single PDF,
+PPT, Doc or TXT file for
+viewing.
+21
+skillsbase.io info@skillsbase.io
+7.1 Title Slide
+The Title Slide is the default submodule template you see when creating
+submodule content. A title slide is suitable for introducing a module.
+1. You must input the "Title" text for your Title Slide. This will be the
+heading of the title slide.
+2. You must input the subtitle text for the slide. This is the text that appears
+below the heading.
+3. You must input the button text. This text will appear on the button below
+the subtitle content.
+Note: Users will receive 100% completion by clicking the button on the Title
+Slide.
+7.2 Web Viewer
+The Web View template allows you to embed a web page for users to view and
+interact with.
+Paste the link to your desired website in the URL field.
+Note: You must define progress completion conditions for the web view
+template. You can customise these settings by the time spent and/or touch
+count. If a user fulfils these conditions, they will receive 100% completion.
+1
+2
+3
+22
+skillsbase.io info@skillsbase.io
+7.3 Video Player
+The Video Player template allows you to upload a video from Vimeo, YouTube or
+your files.
+You must choose a resource type. The resource type refers to the location of the
+video that you want to include in your submodule. There are three resource
+types:
+7.3.1 YouTube
+1. Paste the video link into the YouTube URL field.
+2. You can enable auto play which starts playing the video automatically
+when the user views the submodule.
+3. If you only want to show a specific part of a video, you can choose a start
+and end time.
+7.3.2 Vimeo
+1. Paste the video link into the Vimeo URL field.
+2. You can enable auto play which starts playing the video automatically
+when the user views the submodule.
+1
+2
+3
+1
+2
+23
+skillsbase.io info@skillsbase.io
+7.3.3 Source Upload
+1. Source Upload lets you upload a video by clicking the grey box and
+choosing a video from your files. The file types accepted are .mov and
+.mp4.
+2. Enter the title of the video into the Title field.
+Note: Users will receive 100% completion by opening the submodule.
+1
+2
+24
+skillsbase.io info@skillsbase.io
+7.4 Image Gallery
+The Image Gallery template allows you to upload images with captions
+and customise their swiping direction.
+1. You can choose if you want your images displayed the pictures
+horizontally or vertically.
+2. To create your image gallery, drag and drop your images or click the grey
+box to upload an image from your files.
+3. You must input a caption for your image in the caption field. There is a
+limit of 256 characters when creating a caption. This ensures that users
+across all mobile devices get the same experience.
+4. Click "Add" to add the picture and caption to the gallery once saved.
+To remove an image and its caption, click "Remove
+Section" below the image you want to remove.
+To add more images and captions to your image gallery, click
+"Add a Section" to continue creating your image gallery.
+Note: Users will receive 100% completion by swiping through all the images.
+1
+2
+3
+4
+25
+skillsbase.io info@skillsbase.io
+7.5 Itemised list
+The itemised list allows you to upload items with descriptions. It can be
+used as a step-by-step image guide, a recipe list, a packing list or even a
+list of kit contents for technical training.
+1. You must upload an item image. You can drag and drop an image or click
+the grey box to upload an image from your files.
+2. Enter the Item Name.
+3. Enter the Item's Code. This can be an abbreviation of the item or an actual
+item code to help users find the exact item.
+4. You must describe the item. This can be as long or short as you want.
+5. Click "Add" to add the item to the list.
+Once an item has been added to your list, it will appear in a list near the bottom
+of the page:
+Here, you can edit an item by clicking the pencil button ( ), which will reopen
+the item creation menu, and delete an item by clicking the bin button ( ), which
+will remove the item from the list.
+To add more items to your list, click "Add Product" below
+the list.
+Note: Users will receive 100% completion by opening all the items in the list.
+1
+2 3
+4
+5
+26
+skillsbase.io info@skillsbase.io
+7.6 Do and Don'ts Scenarios
+The Do and Don’ts Scenario template allows you to show scenarios with
+corresponding dos and don’ts. You can display an image or video with a
+text caption underneath each scenario.
+First, you must create your scenario:
+1. Input the scenario title into the Title field.
+2. Upload a thumbnail image. You can drag and drop an image or click the
+grey box to upload an image from your files.
+Next, you must create your Do and Don't scenario:
+1
+2
+1
+2
+3
+4
+5
+6
+7
+27
+skillsbase.io info@skillsbase.io
+1. You must select the resource type of the scenario content. The
+resource type refers to the location of the video that you want to
+include in your submodule. There are three resource types:
+YouTube, Vimeo and Source Upload.
+2. Paste the video link into the link URL field or click the grey box to upload
+the source video. Uploading scenario content follows the same steps as
+the "Video Player" template.
+3. You can enable auto play which starts playing the video automatically
+when the user views the scenario. This option is also available on Vimeo.
+4. If you only want to show a specific part of a video, you can choose a start
+and end time. This option is only available for YouTube videos.
+5. You must describe the scenario. This description can be as long or short
+as you want.
+6. After creating your Do scenario, click the "Add a scenario: Don't" drop-
+down arrow. This will enable you to make the corresponding "Don't"
+scenario. Follow the same process as above to create this.
+7. When you finish creating your scenarios, click the “Add” button below the
+description text box to add the scenario to your scenarios list.
+To remove a scenario and its Dos and Don'ts, click
+"Remove Section" below the scenario you want to
+remove.
+To add more scenarios to your submodule, click "Add a
+Section" to create more Dos and Don'ts scenarios.
+Note: Users will receive 100% completion by watching all the Dos and Don'ts
+scenarios.
+28
+skillsbase.io info@skillsbase.io
+7.7 Mini Quiz
+The Mini Quiz template enables you to ask users a list of predefined
+questions. This template is useful for a mini-quiz or getting a user’s
+feedback.
+1. Input the question into the "Enter Question" field.
+2. Select the question type:
+a. Free text allows users to type in their answers.
+b. Ratings allow users to select a number of stars out of five.
+c. Single Selections allow users to select one answer out of several
+options. To add answer options to your question, click the + icon at
+the end of the option field. To delete an option, click the bin icon.
+( ).
+d. Multi Selections enables users to select multiple answers out of
+several options.
+3. You can choose an answer type for each question. The required answer
+type requires users to answer the question, whereas the optional answer
+type allows users to skip the question.
+4. Click "Add" to add the question to your mini-quiz.
+To remove a question, click "Delete" below the
+question you want to remove.
+To add more questions to your mini-quiz, click "Add
+Question" to create more questions.
+To view users' answers, click "View User Responses",
+which can be found at the bottom of the page.
+Note: Users will receive 100% completion by completing and submitting the mini
+quiz.
+1
+2
+3
+4
+29
+skillsbase.io info@skillsbase.io
+7.8 Step-by-Step Video Guide
+The step-by-step video guide template enables you to upload videos with
+a step-by-step guide. This template is ideal for refreshing knowledge and
+teaching essential parts of videos.
+First, you must enter the title of your video into the "Video Title" field:
+Next, you must choose a resource type. The resource type refers to the location
+of the video that you want to include in your submodule. There are three
+resource types:
+7.8.1 YouTube
+1. Paste the video link into the YouTube URL field.
+2. You can enable auto play which starts playing the video automatically
+when the user views the submodule.
+3. If you only want to show a specific part of a video, you can choose a start
+and end time.
+7.8.2 Vimeo
+1. Paste the video link into the Vimeo URL field.
+2. You can enable auto play which starts playing the video automatically
+when the user views the submodule.
+1
+2
+3
+1
+2
+30
+skillsbase.io info@skillsbase.io
+7.8.3 Source Upload
+1. Source Upload lets you upload a video by clicking the grey box and
+choosing a video from your files. The file types accepted are .mov and
+.mp4.
+2. Enter the title of the video into the Title field.
+After choosing and uploading your video resource, click
+"+ Video" to add your video to the step-by-step Guide.
+After adding your video to your step-by-step Guide, begin creating your steps by
+clicking the drop-down arrow beside the video you just uploaded and scrolling
+down to the "Add Step(s)" drop-down:
+1
+2
+1
+2
+3
+4
+5
+6
+31
+skillsbase.io info@skillsbase.io
+1. Input the step title into the "Step Title" field.
+2. You must choose the resource type to accompany the step. The
+resource types are the same as video resource types, with the added
+addition of an image resource type.
+3. Upload your chosen resource content.
+4. You must describe the step itself. The description can be as long or short
+as desired.
+5. Click "+ Step" to add the step to your video guide.
+6. To remove the video and its steps, click "- Video".
+To remove a step, click "- Step" below the step you want
+to remove.
+To add more videos and steps to your step-by-step, click
+"Add a Video".
+Note: Users will receive 100% completion by clicking each video step.
+32
+skillsbase.io info@skillsbase.io
+7.9 Hotspot Image
+The hotspot image template lets you upload a picture and tag certain
+areas to show information when tapped.
+First, you must upload a square image from your files by either dragging and
+dropping or by clicking the grey box to select it from your files.
+After uploading your image, the "Add a Section" menu will appear below your
+uploaded image:
+1. You can add a picture or video to your hotspot, which users can see when
+they click the hotspot. You can also choose not to
+add any media to the hotspot.
+2. Upload your section media.
+3. You must edit the region. Editing the region enables
+you to customise where the hotspot will be on the
+picture by resizing and dragging the box on the
+image. When you have decided where your hotspot
+will be, click “Save” to save your region.
+1
+2
+3
+4
+6
+33
+skillsbase.io info@skillsbase.io
+4. You must input a caption for your hotspot in the caption field.
+There is a limit of 256 characters when creating a caption. This
+ensures that users across all mobile devices get the same experience.
+5. Click "+ Add" to add your hotspot to your image.
+To remove a hotspot region, click "Delete this Section"
+below the region you want to remove.
+To add more hotspot regions images, click "Add a
+Section".
+Note: Users will receive 100% completion by clicking on all the hotspots.
+34
+skillsbase.io info@skillsbase.io
+7.10 Simple Question
+The simple question template lets you ask a user a two-answered
+question. This template is ideal for asking a yes/no question.
+1. Input the question you want to ask users into the "Title" field.
+2. Input your first answer button into the "Button 1" field.
+3. Input your second answer button into the "Button 2" field.
+4. You can select which answer users must choose to finish the submodule.
+Note: Users who select the wrong answer will not receive 100% completion.
+1
+2
+3
+4
+35
+skillsbase.io info@skillsbase.io
+7.11 Hotspot Uploader
+The simple hotspot photo uploader enables you to tag an image with
+hotspots and ask users to upload their photo to that region.
+First, you must upload a square image from your files by either dragging and
+dropping or by clicking the grey box to select it from your files.
+To start adding hotspot regions to your image, click "Add a
+Region" to open the region editing menu:
+Editing the region enables you to customise where your
+hotspot will be on the picture by resizing and dragging
+the box on the image. When you have decided where
+your hotspot will be, click “Save” to save your region.
+After saving your hotspot region, it will appear in a list below the image:
+To delete a hotspot region, click the bin icon ( ) at the end of the region you
+want to delete.
+To add more hotspot regions to your image, click "Add a
+Region" to open the region editing menu.
+Note: Users will receive 100% completion when they upload media into the
+hotspots.
+36
+skillsbase.io info@skillsbase.io
+7.12 Question Bank Quiz
+The Question Bank Quiz template allows you to upload custom question
+banks containing various questions and categories. This is ideal for
+creating fun quizzes or testing users’ knowledge.
+To begin creating your Question Bank Quiz, you must either import your
+question bank or create your own.
+The Import Question Bank option lets you import a
+CSV file with your question categories, questions, and
+answers for your quiz.
+To create your question banks, first, you
+must create your categories by clicking
+“Add a Category”:
+After creating your categories, they will appear like the below:
+To add your questions and answers to your category,
+click “Manage Question Bank” to be brought to the
+“Manage Question Bank” page.
+1. You can Export a CSV containing all your question categories, questions
+and answers.
+2. You can Import a CSV containing all your questions categories, questions
+and answers. This allows you to upload everything all at once quickly.
+3. Add Categories creates a question category to which you can add your
+questions and answers.
+1 2 3
+5 4
+37
+skillsbase.io info@skillsbase.io
+4. The Status Slider tells you if a question bank is active (red ) or
+inactive (grey ).
+5. Filter your question banks by “Category Name” or “Total
+Questions”.
+Beside each question bank category, there are three dots. Click here to open the
+pop-out “Action” menu:
+To create questions and answers for your category, click “View” from the pop-
+out “Action” menu to be brought to the “View Category” page.
+To create your questions, click “Add Question”.
+1. Input your question into the “Enter Question” field.
+2. Upload an image for your question. Users will see this image when answering
+the question on the app.
+These icons allow you to (In
+order from top to bottom):
+1. View and create
+questions.
+2. Edit the category
+name.
+3. Delete the category.
+1
+2
+3
+4 5
+38
+skillsbase.io info@skillsbase.io
+3. Input your answer options. To add more answer options, click the +
+icon ( ) at the end of the option field. To delete an answer option,
+click the bin icon ( ). You also must select the correct answer to your
+question by clicking the circle icon ( ) at the front of the correct answer.
+4. Upload a correct answer explanation image.
+5. Input a correct answer explanation. Users will see both the explanation and
+the explanation image in their PDF results, which is available after completing
+the quiz.
+To add your question and answers to your question category, click
+“+ Add”.
+To remove a question and its answers from your question
+category, click "- Remove".
+To edit your questions and answers, click the drop-down arrow at the
+end of the question you want to edit.
+To create more questions and answers, click “Add Question”.
+Finally, click “Save” to save your questions and answers and to be
+brought back to the “Manage Question Bank” page.
+Note: To begin creating your question bank quiz submodule, you must create the
+submodule again, as it does not save during the question creation process.
+39
+skillsbase.io info@skillsbase.io
+1. Set a time limit for your quiz. You can select a pre-set time limit from the
+drop-down list or create a custom time limit.
+2. Limit the number of attempts that can be made on a quiz. The quiz will
+lock itself if a user exceeds the specified attempts. This option can also
+be left blank.
+3. Choose the duration until attempts reset. A quiz will lock itself after a
+user makes the specified number of attempts. The quiz will unlock itself
+again after the specified duration of time. Select a pre-set duration from
+the drop-down list or create a custom duration.
+4. Select the question categories that you want to include in your quiz.
+5. Define the passing criteria. The passing criteria is the percentage you
+must get in the quiz to proceed.
+6. Enabling users to retake all questions on fail ensures that all the
+questions will be asked again when retaken. When this option isn’t
+selected, only the questions that were answered wrong will be asked
+when the quiz is retaken.
+7. Disabling Results and PDF Report for learners disables the generation of
+a PDF of results that users can access on the results page after taking a
+quiz.
+8. You can choose to receive an email notification if the user fails the test
+several times. The number of failed attempts before a notification is sent
+can be customised.
+Note: Users will receive 100% completion when they pass the quiz.
+1
+2
+3
+4
+5
+6
+7
+8
+40
+skillsbase.io info@skillsbase.io
+7.13 Upload Media
+The Upload Media template allows users to upload media and provide
+details for your approval. It’s useful for users to upload essential
+documents relating to the course.
+1. Specify the number of items required to be uploaded.
+2. Specify the upload type. This can be an image or a video.
+3. Decide if the user must input a unique reference number with the upload.
+If a unique reference number is required, users can only upload their
+media once they have input the number. If it is optional, users will not
+have to input a code.
+4. Input a task topic. The task topic is the purpose for which the media is
+being uploaded.
+5. Decide if you want the media uploads to be automatically approved as
+soon as they’re uploaded. If you choose to leave this feature off, you will
+have to approve every media upload manually.
+6. Allow users to upload multiple tasks in one go by enabling multiple task
+uploads.
+Note: Users will receive 100% completion when they upload media. This
+submodule template can also accept perpetual uploads.
+1
+2
+3
+4
+5
+6
+41
+skillsbase.io info@skillsbase.io
+7.14 Checklist
+The Checklist Template shows users a list of questions or statements with
+a checkmark next to each. Users must click all of these to continue.
+1. Upload confirmation box images. You can drag and drop your photo or
+click the grey box to upload an image from your files.
+2. Input the title text.
+3. Click “+ Add” to add your item to the checklist.
+To delete an item from your checklist, click “Remove this
+Section” below the item you want to delete.
+Note: Users will receive 100% completion when all the items are checked on the
+list.
+7.15 Document Viewer
+The document viewer template allows you to upload a single PDF, PPT, Doc or
+txt file for users to view.
+1. Select the resource type. The resource type refers to the format of the
+document you are uploading. You can choose from four resource types:
+DOCX, PDF, PPT, and TXT.
+2. Upload your document from your files by clicking the grey box.
+Note: You must define progress completion conditions for the document viewer
+template. You can customise these settings by the time spent and/or touch
+count. If a user fulfils these conditions, they will receive 100% completion.
+1
+2
+3
+1
+2
+42
+skillsbase.io info@skillsbase.io
+7. Troubleshooting
+I can’t sign into the dashboard.
+Double-check the following:
+• You are using the correct URL to access the supervisor dashboard:
+https://operator.skillsbase.io/
+• You have an account created; you will have received an email. Please
+check your spam box.
+I have forgotten my password.
+To reset your password, go to the sign-in page and click “Forgot your
+password?” to be taken to the password reset page.
+My users are having trouble logging in.
+If your users have not received their sign-up information email, you can
+resend this email to users by navigating to the "Manage Users" page and
+selecting the "Resend Sign-up Info" option from the pop-out action menu of
+your selected user. This can also be found on page nine.
+Push Notifications are not sending.
+Ensure that your notification settings are on. Notification settings can be
+found in “My Account”.
+How do I add a team member?
+You can add a team member by clicking “Team Management” on the sidebar
+menu, where you will be taken to the "Manage Team Members" page. Here
+you can add and view team members and manage roles.
+A user registered with an incorrect email, how do I change it?
+You can change a user’s email by navigating to the "Manage Users" page and
+selecting "Edit" from the pop-out action menu. You will then be taken to the
+“Edit User” page where you can edit the users email and choose to set a
+manual password for the user. When you’re finished, click “Save” to be
+brough back to the “Manage Users” page. Resend the sign-up email to the
+user by selecting the "Resend Sign-up Info" option from the pop-out action
+menu of your selected user.
+My problem is not listed.
+If your problem is not listed, please get in touch with Mark Horgan
+(info@skillsbase.io), who will respond to your query.

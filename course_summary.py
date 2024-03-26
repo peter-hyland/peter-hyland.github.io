@@ -105,7 +105,7 @@ def get_summary_from_openai(file_path):
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                               messages=[
                                                   {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (summary of topic 1),\"(name of topic 2)\" (summary of topic 2) and so on"},
-                                                  {"role":"user","content":file_contents},
+                                                  {"role":"user","content":product_catalogue},
                                     
                                     
                                               ])

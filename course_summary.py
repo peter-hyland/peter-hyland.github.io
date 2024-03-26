@@ -83,7 +83,18 @@ def get_summary_from_openai(file_path):
   "Submodule Templates": "Various submodule templates available like Title Slide, Web Viewer, Video Player, Image Gallery, Mini Quiz, etc., for creating content.",
   "Troubleshooting": "Guide for common issues like sign-in problems, password reset, user login trouble, push notification errors, team member addition, email correction, and contact information for unlisted issues."
 }
-"""
+    """
+    course_overview = """{
+    "Overview": [
+        "Summer Pre-season Course",
+        "Schedule and Gym Session Plans",
+        "Pitch Setting Exercises"
+    ],
+    "Summer Pre-season Course": "Provides a detailed weekly schedule for summer pre-season training activities.",
+    "Schedule and Gym Session Plans": "Includes submodules for Monday full body gym, Tuesday upper body gym, and Thursday lower body gym.",
+    "Pitch Setting Exercises": "Focuses on exercises like A-Skip, A-March, and Acceleration to Deceleration for improving running form and speed.",
+    }
+    """
     """
     Fetches the course summary using the OpenAI API and writes it to summary.html.
     """
@@ -94,7 +105,6 @@ def get_summary_from_openai(file_path):
                                                   {"role":"user","content":file_contents},
                                                   {"role":"assistant","content":assistant_prompt},
                                                   {"role":"user","content":train_contents}
-                                        
                                               ])
     summary = response.choices[0].message.content
     write_summary_to_html(summary)  # Save the summary to summary.html

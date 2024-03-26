@@ -65,69 +65,44 @@ def get_summary_from_openai(file_path):
 
     assistant_prompt = """{
   "Overview": {
-    "title": "SkillsBase App for Experts",
-    "description": "A comprehensive guide on how to use the SkillsBase App for Experts Operator Dashboard, including creating an account, signing in, changing passwords, using the dashboard, user management, course management, submodule templates, and troubleshooting.",
-    "prepared_by": "Mark Horgan",
-    "email": "info@skillsbase.io",
-    "version": "Version 4 – 14th March 2023"
+    "Module 1": "Schedule and Gym Session Plans",
+    "Module 2": "Pitch Setting Exercises"
   },
-  "How to Create an Account": {
-    "summary": "To sign into the Operator Dashboard, you need to have an account created manually by contacting info@skillsbase.io. Once created, login details will be sent to you.",
-    "steps": [
-      "Contact info@skillsbase.io to request an account",
-      "Login details will be sent after the account is created"
-    ]
+  "Module 1": {
+    "Title": "Schedule and Gym Session Plans",
+    "Description": "This module focuses on the weekly schedule and gym session plans for a summer pre-season training program.",
+    "Submodules": {
+      "Weekley Schedule": {
+        "Info": "Outlined a detailed daily schedule including recovery, training, skills session, team meetings, and game day preparations.",
+      },
+      "Monday full body gym": {
+        "Info": "Focused on compound movements like squats, bench press, deadlifts, and pull-ups for a full-body workout."
+      },
+      "Tuesday upper body gym": {
+        "Info": "Included exercises like bench press, bent-over rows, overhead press, and pull-ups to target upper body muscle groups."
+      },
+      "Thursday lower body gym": {
+        "Info": "Consisted of exercises such as squats, deadlifts, lunges, and leg press to strengthen and tone the lower body muscles."
+      }
+    }
   },
-  "How to Sign In": {
-    "summary": "After creating an account, access the dashboard at https://operator.skillsbase.io/ and log in using the provided credentials.",
-    "steps": [
-      "Visit https://operator.skillsbase.io/",
-      "Use the provided login details to sign in"
-    ]
-  },
-  "Changing your Password": {
-    "summary": "Upon logging in, change your password by accessing 'My Account' and selecting 'Change Password' to set a new password.",
-    "steps": [
-      "Access 'My Account'",
-      "Choose 'Change Password'",
-      "Set a new password"
-    ]
-  },
-  "Using the Dashboard": {
-    "summary": "The Dashboard contains quick view options for users, groups, courses, modules, products, and resources. Navigate using the sidebar menu.",
-    "features": [
-      "View users, groups, courses, modules, products, and resources",
-      "Use the sidebar menu for navigation"
-    ]
-  },
-  "User Management": {
-    "summary": "View, create, enable, disable, and manage users on the platform. Assign courses and monitor user progress.",
-    "steps": [
-      "View users list, create new users, and set user passwords",
-      "Assign courses, track training progress"
-    ]
-  },
-  "Course Management": {
-    "summary": "Create, edit, and manage courses, modules, and submodules. Utilize different templates for varied content.",
-    "features": [
-      "Create courses, generate links, filter, and view course details",
-      "Manage modules, add submodules, set progression settings"
-    ]
-  },
-  "Submodule Templates": {
-    "summary": "Includes various submodule types like Title Slide, Web Viewer, Video Player, Image Gallery, Mini Quiz, and more for interactive content creation.",
-    "templates": [
-      "Title Slide, Web Viewer, Video Player, Image Gallery, etc."
-    ]
-  },
-  "Troubleshooting": {
-    "summary": "Addresses common issues like login problems, forgotten passwords, user login errors, push notification failures, team member addition, email corrections, and provides a contact point for unlisted problems.",
-    "issues": [
-      "Login errors, password resets, user issues, notification problems",
-      "Team member addition, email corrections, contact details"
-    ]
+  "Module 2": {
+    "Title": "Pitch Setting Exercises",
+    "Description": "This module demonstrates various exercises to enhance running form, speed, agility, and acceleration to deceleration skills.",
+    "Submodules": {
+      "A-Skip": {
+        "Info": "A drill designed to enhance knee lift, rhythm, and coordination crucial for sprinting and agility."
+      },
+      "A-March": {
+        "Info": "Focuses on high knee lift and proper foot mechanics to improve running form and promote better movement."
+      },
+      "Acceleration to Deceleration": {
+        "Info": "Drill aimed at improving the ability to gain speed rapidly and slow down efficiently, essential for sports with quick speed changes."
+      }
+    }
   }
-}"""
+}
+"""
     """
     Fetches the course summary using the OpenAI API and writes it to summary.html.
     """
@@ -135,9 +110,9 @@ def get_summary_from_openai(file_path):
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                               messages=[
                                                   {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (all main topics), \"Title of Topic 1\" (summary of topic 1),\"Title of Topic 2\" (summary of topic 2) and so on"},
-                                                  {"role":"user","content":train_contents}
-                                                #   {"role":"assistant","content":assistant_prompt},
-                                                #   {"role":"user","content":file_contents}
+                                                  {"role":"user","content":train_contents},
+                                                  {"role":"assistant","content":assistant_prompt},
+                                                  {"role":"user","content":file_contents}
                                               ])
     summary = response.choices[0].message.content
     write_summary_to_html(summary)  # Save the summary to summary.html

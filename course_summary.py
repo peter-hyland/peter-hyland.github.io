@@ -65,7 +65,7 @@ def get_summary_from_openai(file_path):
     # prompt = create_prompt()  # Assuming create_prompt returns the desired text
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                               messages=[
-                                                  {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict: \"Overview\" (all main topics), \"Topic 1\" (summary of topic 1),\"Topic 2\" (summary of topic 2)"},
+                                                  {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict: \"Overview\" (all main topics), \"Title of Topic 1\" (summary of topic 1),\"Title of Topic 2\" (summary of topic 2)"},
                                                   {"role":"user","content":file_contents}
                                               ])
     summary = response.choices[0].message.content

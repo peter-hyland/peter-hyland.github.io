@@ -41,7 +41,7 @@ def write_summary_to_html(summary_json):
         print("Failed to decode summary JSON. Please check the format.")
         return
 
-    html_content = ["<html><head><title>SkillsBase Summary</title></head><body><h1>SkillsBase Summary</h1>"]
+    html_content = ["<html><head><title>Information Summary</title></head><body><h1>Information Summary</h1>"]
 
     # Function to handle recursive lists or sub-dictionaries
     def handle_value(key, value, indent_level=0):

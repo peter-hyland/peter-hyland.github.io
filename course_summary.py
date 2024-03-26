@@ -45,9 +45,7 @@ def write_summary_to_html(summary_json):
         if isinstance(value, dict):
             for sub_key, sub_value in value.items():
                 html_content.append(f"<h2>{sub_key}</h2><p>{sub_value}</p>")
-                if isinstance(value, dict):
-                    for sub_key, sub_value in value.items():
-                        html_content.append(f"<h3>{sub_key}</h3><p>{sub_value}</p>")
+
         else:
             html_content.append(f"<h2>{key}</h2><p>{value}</p>")
     

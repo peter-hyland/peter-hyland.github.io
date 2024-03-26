@@ -63,6 +63,9 @@ def get_summary_from_openai(file_path):
     with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/test_contents.txt', 'r') as file:
         train_contents = file.read()
 
+    with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/product_cata.txt', 'r') as file:
+        product_catalogue = file.read()
+
     assistant_prompt = """{
   "Overview": [
     "How to Create an Account",
@@ -103,8 +106,8 @@ def get_summary_from_openai(file_path):
                                               messages=[
                                                   {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (summary of topic 1),\"(name of topic 2)\" (summary of topic 2) and so on"},
                                                   {"role":"user","content":file_contents},
-                                                  {"role":"assistant","content":assistant_prompt},
-                                                  {"role":"user","content":train_contents}
+                                    
+                                    
                                               ])
     summary = response.choices[0].message.content
     write_summary_to_html(summary)  # Save the summary to summary.html

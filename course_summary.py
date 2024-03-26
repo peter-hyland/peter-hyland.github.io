@@ -30,9 +30,10 @@ def update_summary(commit_message='Updates summary'):
 
 
 def write_summary_to_html(summary_json):
+    
     """
-    Writes the provided summary JSON to summary.html in the content directory.
-    The summary is expected to have an "Overview" followed by topics and their summaries.
+    Writes the provided structured summary JSON to summary.html in the content directory.
+    Dynamically handles sections, including lists, displaying them as bullet points.
     """
     try:
         summary_data = json.loads(summary_json)
@@ -40,17 +41,30 @@ def write_summary_to_html(summary_json):
         print("Failed to decode summary JSON. Please check the format.")
         return
 
-    html_content = ["<html><head><title>Course Summary</title></head><body><h1>Course Summary</h1>"]
+    html_content = ["<html><head><title>SkillsBase Summary</title></head><body><h1>SkillsBase Summary</h1>"]
 
-    # Handling the Overview separately
-    if "Overview" in summary_data:
-        html_content.append(f"<h2>Overview</h2><p>{summary_data['Overview']}</p>")
-    
-    # Handling other topics
-    for key, value in summary_data.items():
-        if key != "Overview":  # Skip the Overview since it's already handled
-            html_content.append(f"<h2>{key}</h2><p>{value}</p>")
-    
+    # Function to handle recursive lists or sub-dictionaries
+    def handle_value(key, value, indent_level=0):
+        html = []
+        if isinstance(value, list):  # Handle lists
+            html.append(f"{'  '*indent_level}<h3>{key}</h3><ul>")
+            for item in value:
+                if isinstance(item, (dict, list)):
+                    html.extend(handle_value(key, item, indent_level+1))
+                else:
+                    html.append(f"{'  '*(indent_level+1)}<li>{item}</li>")
+            html.append(f"{'  '*indent_level}</ul>")
+        elif isinstance(value, dict):  # Handle dictionaries
+            for sub_key, sub_value in value.items():
+                html.extend(handle_value(sub_key, sub_value, indent_level))
+        else:  # Handle simple strings
+            html.append(f"{'  '*indent_level}<p><strong>{key}:</strong> {value}</p>")
+        return html
+
+    for section_title, section_content in summary_data.items():
+        html_content.append(f"<h2>{section_title}</h2>")
+        html_content.extend(handle_value(section_title, section_content))
+
     html_content.append("</body></html>")
     
     with open(PATH_TO_SUMMARY, 'w') as file:

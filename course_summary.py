@@ -58,7 +58,7 @@ def write_summary_to_html(summary_json):
             for sub_key, sub_value in value.items():
                 html.extend(handle_value(sub_key, sub_value, indent_level))
         else:  # Handle simple strings
-            html.append(f"{'  '*indent_level}<p><strong>{sub_key}:</strong> {value}</p>")
+            html.append(f"{'  '*indent_level}<p><strong>{key}:</strong> {value}</p>")
         return html
 
     for section_title, section_content in summary_data.items():
@@ -118,7 +118,7 @@ def get_summary_from_openai(file_path):
     # prompt = create_prompt()  # Assuming create_prompt returns the desired text
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                               messages=[
-                                                  {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (summary of topic 1),\"(name of topic 2)\" (summary of topic 2) and so on"},
+                                                  {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on"},
                                                   {"role":"user","content":product_catalogue},
                                     
                                     

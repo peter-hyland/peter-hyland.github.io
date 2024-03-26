@@ -28,10 +28,11 @@ def update_summary(commit_message='Updates summary'):
     origin = repo.remote(name='origin')
     origin.push()
 
+
 def write_summary_to_html(summary_json):
     """
-    Writes the provided summary JSON to summary.html in the content directory,
-    with course names as headings and their content as paragraphs.
+    Writes the provided summary JSON to summary.html in the content directory.
+    The summary is expected to have an "Overview" followed by topics and their summaries.
     """
     try:
         summary_data = json.loads(summary_json)
@@ -40,13 +41,14 @@ def write_summary_to_html(summary_json):
         return
 
     html_content = ["<html><head><title>Course Summary</title></head><body><h1>Course Summary</h1>"]
-    
-    for key, value in summary_data.items():
-        if isinstance(value, dict):
-            for sub_key, sub_value in value.items():
-                html_content.append(f"<h2>{sub_key}</h2><p>{sub_value}</p>")
 
-        else:
+    # Handling the Overview separately
+    if "Overview" in summary_data:
+        html_content.append(f"<h2>Overview</h2><p>{summary_data['Overview']}</p>")
+    
+    # Handling other topics
+    for key, value in summary_data.items():
+        if key != "Overview":  # Skip the Overview since it's already handled
             html_content.append(f"<h2>{key}</h2><p>{value}</p>")
     
     html_content.append("</body></html>")
@@ -63,7 +65,7 @@ def get_summary_from_openai(file_path):
     # prompt = create_prompt()  # Assuming create_prompt returns the desired text
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                               messages=[
-                                                  {"role":"system","content":"Given a large amount of information, provide a summary like a 'lessons learned' in json dict format"},
+                                                  {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict: \"Overview\" (all main topics), \"Topic 1\" (summary of topic 1),\"Topic 2\" (summary of topic 2)"},
                                                   {"role":"user","content":file_contents}
                                               ])
     summary = response.choices[0].message.content

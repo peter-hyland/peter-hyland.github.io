@@ -60,7 +60,7 @@ def write_summary_to_html(summary_json):
     def handle_value(key, value, indent_level=0):
         html = []
         if isinstance(value, list):
-            # html.append(f"{'  '*indent_level}<h3>{key}</h3><ul>")
+            html.append(f"{'  '*indent_level}")
             for item in value:
                 if isinstance(item, (dict, list)):
                     html.extend(handle_value(key, item, indent_level+1))

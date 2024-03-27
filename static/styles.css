@@ -1,7 +1,6 @@
-/* Define CSS variables for easy theme customization */
 :root {
-    --primary-color: #007bff;
-    --secondary-color: #6c757d;
+    --primary-color: #13A8B6;
+    --secondary-color: #EF525B;
     --background-color: #f8f9fa;
     --text-color: #212529;
     --font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -40,17 +39,24 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-size: 2.5rem;
+    color: var(--secondary-color);
 }
 
 h2 {
     font-size: 2rem;
+    color: var(--primary-color);
+    margin-top: 1em;
 }
 
 h3 {
     font-size: 1.75rem;
+    color: var(--secondary-color);}
+
+h4 {
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    
 }
-
-
 
 p {
     text-align: center;
@@ -58,16 +64,19 @@ p {
     margin-bottom: 1rem;
 }
 
+.list-container { /* New container class for the list */
+    text-align: center;
+}
+
 ul {
-    text-align: center;
-    padding-left: 20px;
+    display: inline-block; /* Center the list */
+    text-align: left; /* Align list items to the left */
+    padding-left: 20px; /* Adjust padding to suit */
+    margin: 0 auto; /* Center the block */
 }
+
 li {
-    text-align: center;
-}
-ul li {
-    text-align: center;
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.25rem; /* Space between list items */
 }
 
 .header {

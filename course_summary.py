@@ -13,7 +13,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"summary.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreen_summary.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -32,7 +32,7 @@ def update_summary(commit_message='Updates summary'):
 def write_summary_to_html(summary_json):
     """
     Writes the provided structured summary JSON to summary.html in the specified directory.
-    Dynamically handles sections, including lists, displaying them as bullet points, and includes specified head elements.
+    Dynamically handles sections, including lists and paragraphs, displaying them with appropriate styling and heading levels.
     """
     try:
         summary_data = json.loads(summary_json)
@@ -40,7 +40,7 @@ def write_summary_to_html(summary_json):
         print("Failed to decode summary JSON. Please check the format.")
         return
 
-    # Updated HTML content initialization to include the specified head elements
+    # HTML content initialization
     html_content = [
         """
         <!DOCTYPE html>
@@ -50,35 +50,50 @@ def write_summary_to_html(summary_json):
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Information Summary</title>
             <link rel="stylesheet" href="../static/styles.css">
-            <script src="script.js" defer></script>
         </head>
         <body>
-            <h1>Information Summary</h1>
-        """
+            <div class="center-content">
+        """,
+        "<h1>Information Summary</h1>"
     ]
 
-    def handle_value(key, value, indent_level=0):
+    def handle_value(key, value, heading_level=2):
+        """
+        Recursively handles values in the summary, adjusting heading levels for nested content and aligning paragraphs.
+        """
         html = []
+        heading_tag = f"h{min(heading_level, 6)}"  # Limit heading level to h6
+        
+        # Wrap each section in a div for alignment
+        html.append(f"<div class='content-section'>")
+        
         if isinstance(value, list):
-            html.append(f"{'  '*indent_level}")
+            html.append(f"<{heading_tag}>{key}</{heading_tag}><div class='list-container'><ul>")
             for item in value:
                 if isinstance(item, (dict, list)):
-                    html.extend(handle_value(key, item, indent_level+1))
+                    # Increment heading level for nested lists/dicts
+                    html.extend(handle_value(key, item, heading_level+1))
                 else:
-                    html.append(f"{'  '*(indent_level+1)}<li>{item}</li>")
-            html.append(f"{'  '*indent_level}</ul>")
+                    html.append(f"<li>{item}</li>")
+            html.append("</ul></div>")  # Close both the ul and the div here
         elif isinstance(value, dict):
+            html.append(f"<{heading_tag}>{key}</{heading_tag}>")
             for sub_key, sub_value in value.items():
-                html.extend(handle_value(sub_key, sub_value, indent_level))
+                # Increment heading level for nested dicts
+                html.extend(handle_value(sub_key, sub_value, heading_level+1))
         else:
-            html.append(f"{'  '*indent_level}<p><strong>{key}:</strong> {value}</p>")
+            # Use paragraph for non-list/dict values
+            html.append(f"<p><strong>{key}:</strong> {value}</p>")
+        
+        # Close the section div
+        html.append("</div>")
+        
         return html
 
     for section_title, section_content in summary_data.items():
-        html_content.append(f"<h2>{section_title}</h2>")
-        html_content.extend(handle_value(section_title, section_content))
+        html_content.extend(handle_value(section_title, section_content, 2))  # Start with h3 for the top level
 
-    html_content.append("</body></html>")
+    html_content.append("</div></body></html>")
     
     with open(PATH_TO_SUMMARY, 'w') as file:
         file.write('\n'.join(html_content))
@@ -114,7 +129,7 @@ def get_summary_from_openai(file_path):
 # Example usage:
 summary = get_summary_from_openai("/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt")
 print(summary)
-# update_summary('Updates course summary on website')
+update_summary('Updates course summary on website')
 
 
 assistant_prompt = """{

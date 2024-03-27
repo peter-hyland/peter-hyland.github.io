@@ -123,7 +123,7 @@ def get_summary_from_openai(file_path):
     summary = response.choices[0].message.content
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                             messages=[
-                                                {"role":"system","content":"Given a json dict, if lists in the dict are more than 5 items long format it in json in a more natural way"},
+                                                {"role":"system","content":"Given a json dict, if lists in the dict are more than 5 items long turn it into a sentence"},
                                                 {"role":"user","content":summary},
                                 
                                 

@@ -60,7 +60,7 @@ def write_summary_to_html(summary_json):
     def handle_value(key, value, indent_level=0):
         html = []
         if isinstance(value, list):
-            html.append(f"{'  '*indent_level}<h3>{key}</h3><ul>")
+            # html.append(f"{'  '*indent_level}<h3>{key}</h3><ul>")
             for item in value:
                 if isinstance(item, (dict, list)):
                     html.extend(handle_value(key, item, indent_level+1))
@@ -93,38 +93,6 @@ def get_summary_from_openai(file_path):
     with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/product_cata.txt', 'r') as file:
         product_catalogue = file.read()
 
-    assistant_prompt = """{
-  "Overview": [
-    "How to Create an Account",
-    "How to Sign In",
-    "Changing your Password",
-    "Using the Dashboard",
-    "User Management",
-    "Course Management",
-    "Submodule Templates",
-    "Troubleshooting"
-  ],
-  "How to Create an Account": "To sign into the Operator Dashboard, it is necessary to have an account created by contacting info@skillsbase.io.",
-  "How to Sign In": "Navigate to https://operator.skillsbase.io/ and enter login details received via email.",
-  "Changing your Password": "Change password by accessing 'My Account' and selecting 'Change Password'.",
-  "Using the Dashboard": "Dashboard provides quick view options for Users, Groups, Courses, Modules, Products, and Resources.",
-  "User Management": "View, create, and manage user accounts including assigning courses and viewing training progress.",
-  "Course Management": "Overview of courses, modules, creation, editing, and filtering options.",
-  "Submodule Templates": "Various submodule templates available like Title Slide, Web Viewer, Video Player, Image Gallery, Mini Quiz, etc., for creating content.",
-  "Troubleshooting": "Guide for common issues like sign-in problems, password reset, user login trouble, push notification errors, team member addition, email correction, and contact information for unlisted issues."
-}
-    """
-    course_overview = """{
-    "Overview": [
-        "Summer Pre-season Course",
-        "Schedule and Gym Session Plans",
-        "Pitch Setting Exercises"
-    ],
-    "Summer Pre-season Course": "Provides a detailed weekly schedule for summer pre-season training activities.",
-    "Schedule and Gym Session Plans": "Includes submodules for Monday full body gym, Tuesday upper body gym, and Thursday lower body gym.",
-    "Pitch Setting Exercises": "Focuses on exercises like A-Skip, A-March, and Acceleration to Deceleration for improving running form and speed.",
-    }
-    """
     """
     Fetches the course summary using the OpenAI API and writes it to summary.html.
     """
@@ -147,3 +115,37 @@ def get_summary_from_openai(file_path):
 summary = get_summary_from_openai("/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt")
 print(summary)
 update_summary('Updates course summary on website')
+
+
+assistant_prompt = """{
+"Overview": [
+"How to Create an Account",
+"How to Sign In",
+"Changing your Password",
+"Using the Dashboard",
+"User Management",
+"Course Management",
+"Submodule Templates",
+"Troubleshooting"
+],
+"How to Create an Account": "To sign into the Operator Dashboard, it is necessary to have an account created by contacting info@skillsbase.io.",
+"How to Sign In": "Navigate to https://operator.skillsbase.io/ and enter login details received via email.",
+"Changing your Password": "Change password by accessing 'My Account' and selecting 'Change Password'.",
+"Using the Dashboard": "Dashboard provides quick view options for Users, Groups, Courses, Modules, Products, and Resources.",
+"User Management": "View, create, and manage user accounts including assigning courses and viewing training progress.",
+"Course Management": "Overview of courses, modules, creation, editing, and filtering options.",
+"Submodule Templates": "Various submodule templates available like Title Slide, Web Viewer, Video Player, Image Gallery, Mini Quiz, etc., for creating content.",
+"Troubleshooting": "Guide for common issues like sign-in problems, password reset, user login trouble, push notification errors, team member addition, email correction, and contact information for unlisted issues."
+}
+"""
+course_overview = """{
+"Overview": [
+    "Summer Pre-season Course",
+    "Schedule and Gym Session Plans",
+    "Pitch Setting Exercises"
+],
+"Summer Pre-season Course": "Provides a detailed weekly schedule for summer pre-season training activities.",
+"Schedule and Gym Session Plans": "Includes submodules for Monday full body gym, Tuesday upper body gym, and Thursday lower body gym.",
+"Pitch Setting Exercises": "Focuses on exercises like A-Skip, A-March, and Acceleration to Deceleration for improving running form and speed.",
+}
+"""

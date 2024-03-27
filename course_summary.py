@@ -49,7 +49,7 @@ def write_summary_to_html(summary_json):
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Information Summary</title>
-            <link rel="stylesheet" href="styles.css">
+            <link rel="stylesheet" href="../static/styles.css">
             <script src="script.js" defer></script>
         </head>
         <body>
@@ -114,7 +114,7 @@ def get_summary_from_openai(file_path):
 # Example usage:
 summary = get_summary_from_openai("/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt")
 print(summary)
-update_summary('Updates course summary on website')
+# update_summary('Updates course summary on website')
 
 
 assistant_prompt = """{

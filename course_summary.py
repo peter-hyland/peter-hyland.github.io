@@ -117,24 +117,25 @@ def get_summary_from_openai(file_path):
     # prompt = create_prompt()  # Assuming create_prompt returns the desired text
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                               messages=[
-                                                  {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on. Do not create a list above 5 items in json dict, make a sentence if it is"},
+                                                  {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on."},
                                                   {"role":"user","content":skillsbase_contents},
                                               ])
     summary = response.choices[0].message.content
-    # response = openai.chat.completions.create(model="gpt-3.5-turbo",
-    #                                         messages=[
-    #                                             {"role":"system","content":"Given a json dict, you are to make the dict seem more natual, to be implemented into a website and give back the more natual json dict e.g use 50 percent less lists"},
-    #                                             {"role":"user","content":summary},
+    response = openai.chat.completions.create(model="gpt-3.5-turbo",
+                                            messages=[
+                                                {"role":"system","content":"Given a json dict, if lists in the dict are more than 5 items long format it in json in a more natural way"},
+                                                {"role":"user","content":summary},
                                 
                                 
-    #                                         ])
-    # summary = response.choices[0].message.content
+                                            ])
+    summary = response.choices[0].message.content
 
     write_summary_to_html(summary)  # Save the summary to summary.html
     return summary
 
 # prompts
 # {"role":"system","content":"Given a training course from Skillsbase Ltd, provide a summary by picking out the main goals of the course"}
+# {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on. Do not create a list above 5 items in json dict, make a sentence if it is"},
 
 # Example usage:
 summary = get_summary_from_openai("/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt")

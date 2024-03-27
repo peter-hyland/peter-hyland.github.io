@@ -30,10 +30,9 @@ def update_summary(commit_message='Updates summary'):
 
 
 def write_summary_to_html(summary_json):
-    
     """
-    Writes the provided structured summary JSON to summary.html in the content directory.
-    Dynamically handles sections, including lists, displaying them as bullet points.
+    Writes the provided structured summary JSON to summary.html in the specified directory.
+    Dynamically handles sections, including lists, displaying them as bullet points, and includes specified head elements.
     """
     try:
         summary_data = json.loads(summary_json)
@@ -41,12 +40,26 @@ def write_summary_to_html(summary_json):
         print("Failed to decode summary JSON. Please check the format.")
         return
 
-    html_content = ["<html><head><title>Information Summary</title></head><body><h1>Information Summary</h1>"]
+    # Updated HTML content initialization to include the specified head elements
+    html_content = [
+        """
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Information Summary</title>
+            <link rel="stylesheet" href="styles.css">
+            <script src="script.js" defer></script>
+        </head>
+        <body>
+            <h1>Information Summary</h1>
+        """
+    ]
 
-    # Function to handle recursive lists or sub-dictionaries
     def handle_value(key, value, indent_level=0):
         html = []
-        if isinstance(value, list):  # Handle lists
+        if isinstance(value, list):
             html.append(f"{'  '*indent_level}<h3>{key}</h3><ul>")
             for item in value:
                 if isinstance(item, (dict, list)):
@@ -54,10 +67,10 @@ def write_summary_to_html(summary_json):
                 else:
                     html.append(f"{'  '*(indent_level+1)}<li>{item}</li>")
             html.append(f"{'  '*indent_level}</ul>")
-        elif isinstance(value, dict):  # Handle dictionaries
+        elif isinstance(value, dict):
             for sub_key, sub_value in value.items():
                 html.extend(handle_value(sub_key, sub_value, indent_level))
-        else:  # Handle simple strings
+        else:
             html.append(f"{'  '*indent_level}<p><strong>{key}:</strong> {value}</p>")
         return html
 

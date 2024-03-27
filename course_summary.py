@@ -54,7 +54,7 @@ def write_summary_to_html(summary_json):
         <body>
             <div class="center-content">
         """,
-        "<h1>Information Summary</h1>"
+        "<h1>Skillsbase Course Summary</h1>"
     ]
 
     def handle_value(key, value, heading_level=2):

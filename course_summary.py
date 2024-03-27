@@ -13,7 +13,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreen_summary.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"skillsbase_summary.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -48,7 +48,7 @@ def write_summary_to_html(summary_json):
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Information Summary</title>
+            <title>Skillsbase Course Summary</title>
             <link rel="stylesheet" href="../static/styles.css">
         </head>
         <body>
@@ -108,6 +108,9 @@ def get_summary_from_openai(file_path):
     with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/product_cata.txt', 'r') as file:
         product_catalogue = file.read()
 
+    with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt', 'r') as file:
+        skillsbase_contents = file.read()
+
     """
     Fetches the course summary using the OpenAI API and writes it to summary.html.
     """
@@ -115,7 +118,7 @@ def get_summary_from_openai(file_path):
     response = openai.chat.completions.create(model="gpt-3.5-turbo",
                                               messages=[
                                                   {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on"},
-                                                  {"role":"user","content":product_catalogue},
+                                                  {"role":"user","content":skillsbase_contents},
                                     
                                     
                                               ])

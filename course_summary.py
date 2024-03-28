@@ -166,35 +166,43 @@ print(summary)
 update_summary('Updates course summary on website')
 
 
-assistant_prompt = """{
-"Overview": [
-"How to Create an Account",
-"How to Sign In",
-"Changing your Password",
-"Using the Dashboard",
-"User Management",
-"Course Management",
-"Submodule Templates",
-"Troubleshooting"
-],
-"How to Create an Account": "To sign into the Operator Dashboard, it is necessary to have an account created by contacting info@skillsbase.io.",
-"How to Sign In": "Navigate to https://operator.skillsbase.io/ and enter login details received via email.",
-"Changing your Password": "Change password by accessing 'My Account' and selecting 'Change Password'.",
-"Using the Dashboard": "Dashboard provides quick view options for Users, Groups, Courses, Modules, Products, and Resources.",
-"User Management": "View, create, and manage user accounts including assigning courses and viewing training progress.",
-"Course Management": "Overview of courses, modules, creation, editing, and filtering options.",
-"Submodule Templates": "Various submodule templates available like Title Slide, Web Viewer, Video Player, Image Gallery, Mini Quiz, etc., for creating content.",
-"Troubleshooting": "Guide for common issues like sign-in problems, password reset, user login trouble, push notification errors, team member addition, email correction, and contact information for unlisted issues."
-}
-"""
-course_overview = """{
-"Overview": [
-    "Summer Pre-season Course",
-    "Schedule and Gym Session Plans",
-    "Pitch Setting Exercises"
-],
-"Summer Pre-season Course": "Provides a detailed weekly schedule for summer pre-season training activities.",
-"Schedule and Gym Session Plans": "Includes submodules for Monday full body gym, Tuesday upper body gym, and Thursday lower body gym.",
-"Pitch Setting Exercises": "Focuses on exercises like A-Skip, A-March, and Acceleration to Deceleration for improving running form and speed.",
-}
-"""
+
+# Folder containing the HTML files
+contents_folder = 'contents'
+# Output file name
+output_file = 'index.html'
+
+# HTML template for the index page
+html_template = """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contents Index</title>
+</head>
+<body>
+    <h1>Contents Index</h1>
+    <ul>
+        {links}
+    </ul>
+</body>
+</html>"""
+
+# Generate the list items as links for the HTML files
+links = []
+for filename in os.listdir(contents_folder):
+    if filename.endswith('.html'):
+        filepath = os.path.join(contents_folder, filename)
+        links.append(f'<li><a href="{filepath}">{filename}</a></li>')
+
+# Join the links into a single string
+links_html = '\n        '.join(links)
+
+# Write the index.html file
+with open(output_file, 'w', encoding='utf-8') as f:
+    f.write(html_template.format(links=links_html))
+
+print(f'{output_file} has been generated with links to all HTML files in the {contents_folder} folder.')
+
+
+

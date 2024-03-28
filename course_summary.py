@@ -14,12 +14,12 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreencata_t1_p1.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"cspcourse_t1_p1.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
 
-course_name = 'Dexgreeen Catalogue Summary'
+course_name = 'Skillsbase CSP Course Summary'
 
 def update_summary(commit_message='Updates summary'):
     """
@@ -158,7 +158,7 @@ def get_summary_from_openai(file_path):
                                               response_format={ "type": "json_object" }, 
                                               messages=[
                                                   {"role":"system","content":skillsbase_role_2},
-                                                  {"role":"user","content":dexgreen_course_prompt1}
+                                                  {"role":"user","content":csp_course_prompt1}
                                               ],
                                               temperature=1
                                               )

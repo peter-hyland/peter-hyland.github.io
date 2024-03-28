@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreencata_only_content.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"practice_content.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -25,6 +25,7 @@ def update_summary(commit_message='Updates summary'):
     """
     Update and push changes to the repository.
     """
+    update_index()
     repo = Repo(PATH_TO_BLOG_REPO)
     repo.git.add(all=True)
     repo.index.commit(commit_message)
@@ -172,43 +173,43 @@ print(summary)
 
 
 
+def update_index():
+    # Folder containing the HTML files
+    contents_folder = 'content'
+    # Output file name
+    output_file = 'index.html'
 
-# Folder containing the HTML files
-contents_folder = 'content'
-# Output file name
-output_file = 'index.html'
+    # HTML template for the index page
+    html_template = """<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contents Index</title>
+    </head>
+    <body>
+        <h1>Contents Index</h1>
+        <ul>
+            {links}
+        </ul>
+    </body>
+    </html>"""
 
-# HTML template for the index page
-html_template = """<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contents Index</title>
-</head>
-<body>
-    <h1>Contents Index</h1>
-    <ul>
-        {links}
-    </ul>
-</body>
-</html>"""
+    # Generate the list items as links for the HTML files
+    links = []
+    for filename in os.listdir(contents_folder):
+        if filename.endswith('.html'):
+            filepath = os.path.join(contents_folder, filename)
+            links.append(f'<li><a href="{filepath}">{filename}</a></li>')
 
-# Generate the list items as links for the HTML files
-links = []
-for filename in os.listdir(contents_folder):
-    if filename.endswith('.html'):
-        filepath = os.path.join(contents_folder, filename)
-        links.append(f'<li><a href="{filepath}">{filename}</a></li>')
+    # Join the links into a single string
+    links_html = '\n        '.join(links)
 
-# Join the links into a single string
-links_html = '\n        '.join(links)
+    # Write the index.html file
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(html_template.format(links=links_html))
 
-# Write the index.html file
-with open(output_file, 'w', encoding='utf-8') as f:
-    f.write(html_template.format(links=links_html))
-
-print(f'{output_file} has been generated with links to all HTML files in the {contents_folder} folder.')
+    print(f'{output_file} has been generated with links to all HTML files in the {contents_folder} folder.')
 
 
 update_summary('Updates course summary on website')

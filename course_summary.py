@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreencata_t1_p1_4.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreencata_t1_p1_4_role1.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -122,7 +122,7 @@ csp_course = process_csv_data(filename)
     
 general_role = "Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on."
 
-skillsbase_role_1 = "Given information from"
+skillsbase_role_1 ="Given a training course from Skillsbase Ltd, provide a summary by picking an 'overview' of the course and then the information, format the summary in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on. This summary is meant for someone that has just finished the course and wants to review the main learning points."
 
 skillsbase_role_2 = "Given a training course from Skillsbase Ltd, provide a summary by picking an 'overview' of the course and then the information, format the summary in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on."
 
@@ -157,7 +157,7 @@ def get_summary_from_openai(file_path):
     response = openai.chat.completions.create(model="gpt-4-turbo-preview",
                                               response_format={ "type": "json_object" }, 
                                               messages=[
-                                                  {"role":"system","content":skillsbase_role_2},
+                                                  {"role":"system","content":skillsbase_role_1},
                                                   {"role":"user","content":dexgreen_course_prompt1}
                                               ],
                                               temperature=1

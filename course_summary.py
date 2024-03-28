@@ -168,7 +168,7 @@ update_summary('Updates course summary on website')
 
 
 # Folder containing the HTML files
-contents_folder = 'contents'
+contents_folder = 'content'
 # Output file name
 output_file = 'index.html'
 

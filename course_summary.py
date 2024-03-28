@@ -134,7 +134,7 @@ def get_summary_from_openai(file_path):
                                               response_format={ "type": "json_object" }, 
                                               messages=[
                                                   {"role":"system","content":skillsbase_course_prompt2},
-                                                  {"role":"user","content":csp_course}
+                                                  {"role":"user","content":skillsbase_contents}
                                               ])
     
     summary = response.choices[0].message.content

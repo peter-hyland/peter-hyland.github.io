@@ -1,5 +1,3 @@
-x2 1 0
-OPTICAL FIBRE & COPPER
 P R O D U C T
 C AT A L O G U E
 TELECOMMUNICATIONS CONNECTIVITY
@@ -1572,3 +1570,1457 @@ Pole Stay Set
 increase anchoring and pole loading.
 • Withstand a loading of over 45KN.
 • Yellow stay guard, environmentally hardened.
+• Hot dipped galvanised with no sharp edges.
+CODE 3.3.6
+3. POLE BRACKETS
+3. AERIAL NETWORK
+Pole Steps
+• M10 coach screws can be used with these pole steps.
+Recommended coach screw length = 75mm.
+• Conforms to BS16.
+• Hot dipped galvanised with no sharp edges and designed
+to support a max weight of 300Kg.
+CODE 3.3.7
+Elephants Foot & Capping Steel
+Ap p lication: used to protect cable and sub-duct from the
+underground as it rises up the pole.
+M at erial: Manufactured from 2mm steel, hot dipped galvanised
+iron 86μm coating
+Elephants Foot provided for use at Distribution Points for
+connecting up to 90mm ducts.
+Fas tening method to pole: Pre-drilled.
+Includes Galvanised screws or nails to secure the capping steel
+to the pole.
+CODE 3.3.8
+J-Hook
+Ap p lication: Provides a suspension for 10 to 20mm aerial ADSS
+cables at intermediate poles on cable routes with angle < 20°
+on access networks (spans up to 100m).
+Easily adjoins to DexGreen Aerial Extender Brackets
+M at erial: Consists of a galvanised steel J hook and a neoprene
+sleeve.
+CODE 3.3.9
+Pole Head Ring
+O v erview: facilitates multiple drops in 360 degrees
+M ou nting: Screwed through centre of pole
+CODE 3.3.10
+4. AERIAL CLAMPS
+3. AERIAL NETWORK
+Spiral Wrap – 3mm (Green)
+O v erview: Hot dip galvanised steel helical dead-end clamp
+designed for anchoring 3.0mm round optical fibre drop cable
+within aerial telecommunication distribution network
+Friction coating is provided on inner wraps of clamp in order to
+provide better grip on the cable
+Breaking Strength designed to be ≤2kN
+Span designed up to 90m
+Compatible cable diameter range is 3-3.5mm
+CODE 3.4.1
+Spiral Wrap – 5mm (Black)
+O v erview: Hot dip galvanised steel helical dead-end clamp
+designed for anchoring 5.0mm round optical fibre drop cable
+within aerial telecommunication distribution network
+Friction coating is provided on inner wraps of clamp in order to
+provide better grip on the cable
+Breaking Strength designed to be ≤2kN
+Span designed up to 90m
+Compatible cable diameter range is 4.5-5.2mm
+CODE 3.4.2
+Spiral Clamp – 7mm (Purple)
+O v erview: Hot dip galvanised steel helical dead-end clamp
+designed for anchoring 7.0mm round optical fibre drop cable
+within aerial telecommunication distribution network
+Friction coating is provided on inner wraps of clamp in order to
+provide better grip on the cable
+Breaking Strength designed to be ≤2kN
+Span designed up to 90m
+Compatible cable diameter range is 6.5-8mm
+CODE 3.4.3
+Hypoclamp
+O v erview: A cable clamp capable of accepting cables of
+diameters up
+Con figurations: Material: Alloy material lightweight and
+robust. It’s manufactured from UV plastic suitable for
+deployment in aerial telecom networks.
+CODE 3.4.4
+Mandrel Aerial Clamp
+O v erview: Mandrel-shaped body with a bail that can be
+locked into the clamp body. It’s manufactured from UV
+plastic suitable for deployment in aerial telecom networks.
+Designed for anchoring/suspending round drop cable on
+poles and buildings installation. Roll cable through clamp
+and around the mandrel. For example 3 times for 3mm
+diameter cable.
+Accepts 3 & 5mm cable.
+CODE 3.4.5
+5. OVERHEAD CABLES
+3. AERIAL NETWORK
+xFOD HDPE – 1f, 4f, 8f, 12f 5.0mm
+O v erview: Round profile drop cable containing a single tight
+jacketed fibre that is intended for both underground (UG) and
+overhead (OH) installation in the network.
+Con struction:
+• Non-metallic/ dielectric construction.
+• UV stabilised HDPE outer jacket
+• 2x strength members provide excellent mechanical
+properties
+• Water blocking tape for moisture barrier
+• Aramid Yarn provides excellent mechanical properties
+• 4,8,12 x 250um fibre modules // Single 900um tight buffer
+xFOD LSZH– 1f, 4f, 8f, 12f 5.0mm
+O v erview: Round profile drop cable containing a single tight
+jacketed fibre that is intended for both underground (UG) and
+overhead (OH) installation in the network.
+Con struction:
+• Non-metallic/ dielectric construction.
+• UV stabilised LSZH outer jacket
+• 2x strength members provide excellent mechanical
+properties
+• Water blocking tape for moisture barrier
+• Aramid Yarn provides excellent mechanical properties
+• 4,8,12 x 250um fibre modules // Single 900um tight buffer
+CODE 3.5.1 CODE 3.5.2
+5. OVERHEAD CABLES
+3. AERIAL NETWORK
+ADSS Aerial Distribution Cable
+O v erview: Round Aerial ADSS containing modular tubes @ 12 fibres /
+tube. The cable is designed for both Overhead (OH) and Underground
+(UG) installation in telecommunication network infrastructures.
+Construction:
+• Non-metallic/ dielectric construction
+• UV stabilised HDPE outer jacket
+• 2x strength members provide excellent mechanical properties
+• Ripcords provided for sheath stripping
+• Water blocking tape for moisture barrier
+• Aramid Yarn provides excellent mechanical properties
+• 12 fibres per module – 72f, 120f, 144f options available
+CODE 3.5.7
+ULW – Ultra Light Weight Cable
+O v erview: Round profile distribution cable intended for both
+underground (UG) and overhead (OH) installation in the network.
+Construction:
+• Non-metallic & Metallic variants available
+• UV stabilised HDPE outer jacket with stripping stripe
+• 2x strength members provide excellent mechanical properties
+(metallic/non-metallic variations)
+• Water blocking tape for moisture barrier
+• Fibre capacity options available; 2f, 4f, 8f, 12f, 24f, 36f, 48f, 72f, 96f
+CODE 3.5.8
+ULW – Ultra Light Weight Cable
+Non-Metallic
+O v erview: Round profile distribution cable intended for both
+underground (UG) and overhead (OH) installation in the
+network.
+Con struction:
+• Non-metallic & Metallic variants available
+• UV stabilised HDPE outer jacket with stripping stripe
+• 2x strength members provide excellent mechanical
+properties (metallic/non-metallic variations)
+• Water blocking tape for moisture barrier
+• Fibre capacity options available; 2f, 4f, 8f, 12f, 24f, 36f, 48f,
+72f, 96f
+CODE 3.5.9
+Want More Information?
+Our sales team would be happy to
+discuss product solutions with you!
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+26-Mar-24
+4. SMDU – SMALL MULTI DWELLING UNIT
+2
+3
+4
+5
+6
+7
+1 BEP – BUILDING ENTRANCE POINT
+BACKBONE FIBRE
+DISTRIBUTION ENCLOSURE
+DISTRIBUTION CABLE
+DEMARCATION/POINT OF ENTRY
+CUSTOMER LEAD IN CABLE
+INTERNAL WALL BOX
+1
+2
+3
+4
+5
+6
+3
+Extra Small Node - 2.2mm LT - 96f
+The Oval Port allows two discrete cable ends to be installed.
+Circular ports accept a range of cable and BFTs. Port sealing is capable of
+being re-entered to enable fitting of subsequent cables up to maximum
+capacity.
+Splitter options can be configured as required by the Network Operator.
+Closure can be used in aerial and underground environments.
+Fully UV stabilised, suitable for continual exposure in overhead/above ground
+installations for their complete service lifetime.
+298mm (H) x 234mm (L) x 160mm (W)
+CODE 4.1.1
+Small Node- 2.2mm LT - 144f
+The Oval Port allows two discrete cable ends to be installed.
+Circular ports accept a range of cable and BFT’s. Port sealing is
+capable of being re-entered to enable fitting of subsequent cables up
+to maximum capacity.
+Splitter options can be configured as required by the Network
+Operator.
+Closure can be used in aerial and underground environments.
+Fully UV stabilised, suitable for continual exposure in overhead/above
+ground installations for their complete service lifetime.
+328mm (H) x 234mm (L) x 160mm (W)
+CODE 4.1.2
+Small Node Ribbon - 216f Ribbon +
+24f SE Hybrid
+Identical to 2.1.2 with the exception of tray design
+6 tray Ribbon Hybrid = 3 x Ribbon + 4 x SE allowing for 216f ribbon & 24f
+Single Element fibre capacity
+CODE 4.1.3
+Medium Node - 2.2mm LT - 288f
+The Oval Port allows two discrete cable ends to be installed.
+Circular ports accept a range of cable and BFT’s. Port sealing
+is capable of being re-entered to enable fitting of
+subsequent cables up to maximum capacity.
+Splitter options can be configured as required by the
+Network Operator.
+Closure can be used in aerial and underground
+environments.
+Fully UV stabilised, suitable for continual exposure in
+overhead/above ground installations for their complete
+service lifetime.
+418mm (H) x 234mm (L) x 160mm (W)
+CODE 4.1.4
+Medium Node Ribbon - 432f
+Ribbon + 48f SE Hybrid
+Identical to 2.1.4 with the exception of tray design
+12 tray Ribbon Hybrid = 3 x Ribbon + 4 x SE allowing for 432f
+ribbon & 48f Single Element fibre capacity
+CODE 4.1.5
+Circular Port Kits - 4 x 8mm
+Sealing kits enables the coverage of a wide range of cable
+installation. The Mechanical seal design allows plug and play
+capability, reducing installation time and reducing labour
+costs.
+• Suitable for 4.5 - 8.5mm cable
+• 4 entry ports
+• Can be deployed in a variety of environments including
+underground pits and aerial settings
+• Suitable for all kinds of cable construction
+• Permits re-entry into the closure without breaking the
+drop seals
+• Easy installation – no special tools required
+CODE 4.1.6
+1. BEP – BUILDING ENTRANCE POINT
+4. FAÇADE / SMDU
+Circular Port Kits - 8 x 6mm
+Sealing kits enables the coverage of a wide range of cable installation.
+The Mechanical seal design allows plug and play capability, reducing
+installation time and reducing labour costs
+• Suitable for 3 - 6.5mm
+• 8 entry ports
+• Can be deployed in a variety of environments including
+underground pits and aerial settings
+• Suitable for all kinds of cable construction
+• Easy installation – no special tools required
+CODE 4.1.7
+Circular Port Kits - 2 x 12mm
+Sealing kits enables the coverage of a wide range of cable installation.
+The Mechanical seal design allows plug and play capability, reducing
+installation time and reducing labour costs
+• Suitable for 8 – 12.5mm
+• 2 entry ports
+• Can be deployed in a variety of environments including
+underground pits and aerial settings
+• Suitable for all kinds of cable construction
+• Easy installation – no special tools required
+CODE 4.1.8
+Circular Port Kits - 1 x 20mm
+Sealing kits enables the coverage of a wide range of cable installation. The
+Mechanical seal design allows plug and play capability, reducing installation
+time and reducing labour costs
+• Suitable for 15 – 20.5mm cable
+• 1 entry port
+• Can be deployed in a variety of environments including underground pits
+and aerial settings
+• Suitable for all kinds of cable construction
+• Permits re-entry into the closure without breaking the drop seals
+• Easy installation – no special tools required
+CODE 4.1.9
+Oval Port Kit - 2 x 14mm
+Sealing kits enables the coverage of a wide range of cable
+installation. The Mechanical seal design allows plug and play
+capability, reducing installation time and reducing labour
+costs
+• Suitable for 7 - 16.5mm
+• 2 entry ports
+• Can be deployed in a variety of environments including
+underground pits and aerial settings
+• Suitable for all kinds of cable construction
+• Easy installation – no special tools required
+CODE 4.1.10
+Pole / Wall Mounting Kit
+CODE 4.1.11
+Mobra Arm Mounting Kit
+CODE 4.1.12
+1. BEP – BUILDING ENTRANCE POINT
+4. FAÇADE / SMDU
+Mounting kit to allow for small and medium joint closures to be
+mounted onto a Pole.
+1 x Pole Mounting Cradle
+2x Split Pins retained by Metal Chain
+Mounting kit to allow for small and medium joint closures to be
+mounted onto a Mobra arm.
+1 x Mobra Mounting Cradle
+1x Split Pin retained by Metal Chain
+1x Metal pin retained by Metal Chain
+Mounting brackets - Large / Extra
+Large
+Mounting kit to allow for large and extra-large nodes to be mounted to
+the Mobra arm
+Mounting Bracket
+Clamp
+Fixing bolt
+Wings nuts and bolts
+CODE 4.1.13
+Large Fibre Node
+The Oval Port allows two discrete cable ends to be installed.
+Circular ports accept a range of cable and BFT’s. Port sealing is
+capable of being re-entered to enable fitting of subsequent cables up
+to maximum capacity.
+Splitter options can be configured as required by the Network
+Operator.
+Closure can be used in aerial and underground environments.
+Fully UV stabilised, suitable for continual exposure in overhead/above
+ground installations for their complete service lifetime.
+505mm (H) x 320mm (L) x 320mm (W)
+CODE 4.1.14
+Extra Large Fibre Node
+The Oval Port allows two discrete cable ends to be installed.
+Circular ports accept a range of cable and BFT’s. Port sealing is capable
+of being re-entered to enable fitting of subsequent cables up to
+maximum capacity.
+Splitter options can be configured as required by the Network
+Operator.
+Closure can be used in aerial and underground environments.
+Fully UV stabilised, suitable for continual exposure in overhead/above
+ground installations for their complete service lifetime.
+638mm (H) x 320mm (L) x 320mm (W)
+CODE 4.1.15
+Large Oval Ports
+Sealing kits enables the coverage of a wide range of cable
+installation. The Mechanical seal design allows plug and play
+capability, reducing installation time and reducing labour
+costs.
+• Suitable for 7 - 16.5mm
+• 2 entry ports
+• Can be deployed in a variety of environments including
+underground pits and aerial settings
+• Suitable for all kinds of cable construction
+• Easy installation – no special tools required
+CODE 4.1.16
+XS/S/M Single Element Fibre
+Trays
+• 12f splice capacity per tray
+• 4 trays provided per pack
+• High density loose tube tray
+• Compliant with standard splice protectors
+• Overlength storage and bend management within tray
+• Hinge allows a tray to rotate and lock in place to access trays
+below
+CODE 4.1.17
+XS/S/M Ribbon Fibre Trays
+• 3 ribbons per tray
+• 2 trays provided per pack
+• High density ribbon tray
+• Compliant with standard splice protectors
+• Overlength storage and bend management within tray
+• Hinge allows a tray to rotate and lock in place to access trays
+below
+CODE 4.1.18
+1. BEP – BUILDING ENTRANCE POINT
+4. FAÇADE / SMDU
+L/XL SE Splice Tray
+6x Single Element splice trays compatible with the Large & X-Large
+optical fibre nodes.
+Each tray allows for 12x splices
+CODE 4.1.19
+L/XL Hybrid Ribbon Splice Tray
+4x Hybrid Ribbon splice trays compatible with the Large & X-Large
+optical fibre nodes.
+Each tray allows for 8x SE splices and 2x Ribbon mass fusion splices
+CODE 4.1.20
+1. BEP – BUILDING ENTRANCE POINT
+4. FAÇADE / SMDU
+Need Something Custom?
+We offer bespoke solutions and would
+be happy to tailor products to your
+needs.
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+PRODUCT HIGHLIGHT BACKBONE FIBRE
+Rapid.
+Versatile.
+DexGreen.
+Multicore Backbone Cable - 12f to 144f
+• FRP strength member
+• Coated FRP
+• Primary coated fibre
+• Loose tubes
+• Dummy Filler elements
+• Ripcords
+• Water Blocking Aramid Yarn
+• Outer Sheathing LSZH
+• Water Blocking Tape
+CODE 4.2.1
+2. BACKBONE FIBRE
+4. FAÇADE / SMDU
+The fibre optic cable components include an FRP Strength Member, providing mechanical support and
+securing the cable, and Coated FRP, which reinforces and achieves the desired geometry for loose tubes.
+The Primary Coated Fibre consists of silica, acrylate-coated, color-coded fibers, and the Loose Tubes have
+thixotropic gel-filled, bend-resistant fibers organized in 12f tubes, easily removable for splicing. Dummy Filler
+Elements are available for empty tubes, and Ripcords aid in longitudinal cable stripping.
+Water Blocking Aramid Yarn offers excellent mechanical characteristics, while the LSZH Outer Sheath comes in
+multiple colors and meets CPR EuroClass CCA-s1b, d2, a2 standards.
+FEATURES
+DESCRIPTION
+CODE 4.3.3
+3. DISTRIBUTION ENCLOSURE
+4. FAÇADE / SMDU
+CODE 4.3.1 CODE 4.3.4
+CODE 4.3.2
+Internal / External Splice Box
+- up to 288f splice point
+Strain Relief for multiple outgoing distribution cables.
+Facilitates loop storage of fibre tubes and routing cable
+out of closure . Fibre tubes are stored before being
+spliced . Fibre tubes are stripped down to bare fibres to
+be spliced . Holds 8 x splitters (i.e. 8 x 32 way splitters) .
+Incoming fibre tubes are spliced onto the A-legs of
+splitters . B-legs are routed directly to Distribution trays
+for splicing to distribution cables . Trays are colour coded
+for identification purposes. Total splice capacity is 288f
+(12f/tray @ 24 trays) . Outgoing cable overlength storage .
+Internal / External 60 port ODF
+A large capacity external ODF suited to MDU scenarios.
+Capable of 60 connectorised drops this enclosure is
+ideal for large external MDUs. IP65 - suitable for aerial
+use by mounting directly on to walls/poles.
+• Caters for multiple configurations .
+• Pre-connectorized terminations (LC/APC adapters
+can be installed inside) .
+• Integrated PLC splitters (at multiple split ratios) .
+• Adapter: 30 LC Duplex Adapters .
+• Splice: 60 fibres (4 trays @ 24 fibres/tray).
+Internal / External 120 port ODF
+A large capacity external ODF suited to MDU scenarios.
+Capable of 120 connectorised drops this enclosure is
+ideal for large external MDUs. IP65 - suitable for aerial
+use by mounting directly on to walls/poles.
+• Caters for multiple configurations .
+• Pre-connectorized terminations (LC/APC adapters
+can be installed inside) .
+• Integrated PLC splitters (at multiple split ratios) .
+• Adapter: 60 LC Duplex Adaptors .
+Universal Building Box
+Universal Building Box is a fully modular, low footprint solution
+that caters for multiple configurations, i.e. Splitter (in various
+counts), connectorised.
+The enclosure achieves this via a series of interchangeable entry
+ports and grommets, which make it suitable to receive all cable
+structures in the network at the same time in one compact
+consolidated closure.
+These ports can accommodate a multitude of cables in various
+diameters. These are all supplied with closure as standard.
+4. DISTRIBUTION CABLE
+4. FAÇADE / SMDU
+2.0mm 12f – External UV Stabilised
+• Application: Surface-mounted fibre cable, usable as a
+distribution or feeder cable with extractable 250um primary
+coated fibres.
+• Variations: Available in both G657A2 or G657B3 fibre types –
+bending insensitive.
+• Mechanical Performance: Aramid yarn.
+• Installation Conditions: Surface Mounted: External conduit
+(i.e., DexTidy), glue and tacking.
+• Internal Duct: Conventional microduct.
+• Drum Length: 1000 metres.
+• Fibre Protection: Flame retardant, material.
+• UV Stabilised: for external use
+CODE 4.4.1
+3.0mm 24f – External UV Stabilised
+• Application: Surface-mounted fibre cable, usable as a
+distribution or feeder cable with extractable 250um primary
+coated fibres.
+• Variations: Available in both G657A2 or G657B3 fibre types –
+bending insensitive.
+• Mechanical Performance: Aramid yarn.
+• Installation Conditions: Surface Mounted: External conduit
+(i.e., DexTidy), glue and tacking.
+• Internal Duct: Conventional microduct.
+• Drum Length: 1000 metres.
+• Fibre Protection: Flame retardant, material.
+• UV Stabilised: for external use
+CODE 4.4.2
+Ruggedised 6.0mm (1 -
+12f) cable
+This cable meets fire safety, water resistance, UV stability, and
+optical performance needs, suitable for both indoor and outdoor
+use. Its LSZH materials, water-blocking aramid yarn, and MPO
+connectors emphasize durability, easy installation, and lasting
+efficiency, making it versatile and reliable for various
+communication setups.
+CODE 4.5.3
+Want More Information?
+Our sales team would be happy to
+discuss product solutions with you!
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+26-Mar-24
+PRODUCT HIGHLIGHT RUGGEDISED 6MM CABLE
+Rapid.
+Reliable.
+DexGreen.
+5. DEMARCATION / POINT OF ENTRY ENCLOSURE
+4. FAÇADE / SMDU
+Inline façade enclosure
+An external customer service point.
+• Splicing functionality – capacity up to 8x splices (x4 splice
+protectors double stacked)
+• Removable Tray – Tray is removable for ease of use when
+installing spliced connections
+• 4x SC/APC adaptors – provided with 4xSC/APC adaptors
+providing up to 4 subscriber ports
+• Overlength Manager – Stores incoming cable and pigtail
+overlength up to 5 metres (2mm cable)
+CODE 4.5.1
+SMDU wall box with 4x SC/APC
+• Splicing functionality – capacity up to 8x splices (x4 splice
+protectors double stacked)
+• Standoff at rear – 5mm
+• Incoming 900um SC/APC pigtails
+• 4x SC/APC adaptors
+• Adaptor bracket
+• Outgoing 900um SC/APC pigtails
+• Cable entry/ exit ports
+• Inner overlength storage
+• Outer overlength storage
+• Logo – Box can be custom branded to operators' requirements
+• Material – ASA UV stabilised.
+• Dimensions - (W)144 x (L)156 x (H)37.5mm
+• Spiral Wrapping
+CODE 4.5.2
+Fibre wall entry cover
+A compact wall entry cover for masking entry to the home. This
+enclosure prevents water ingress and masks wall ‘blow-out’ as
+fibre is routed into the home
+CODE 4.5.3
+Inside/out cable
+Inside/out customer lead in cable suitable for installation
+within the most challenging installation scenarios.
+• Cable can be customised further per any unique end
+user requirements; i.e. cable jacket colour; properties;
+fiber count
+• Connectorised – cable is available connectorized and
+packaged per various end user requirements
+CODE 4.6.1
+6. CUSTOMER LEAD IN CABLE
+26-Mar-24
+PRODUCT HIGHLIGHT SMDU WALL BOX
+Orderly.
+Secure.
+DexGreen.
+26-Mar-24
+PRODUCT HIGHLIGHT WALL ENTRY COVER
+Neat.
+Tidy.
+DexGreen.
+7. INTERNAL WALL BOX
+4. FAÇADE / SMDU
+Internal CSP – Small Customer
+Service Point
+The small internal CSP is a reversible inline
+enclosure capable of servicing 8 customer
+drops.
+It features a toolless snapfit lid which can be
+installed in two directions.
+It also features a large figure of 8 overlength
+bay, 8x splice capacity cradle and 8 cable
+retaining flaps.
+CODE 4.7.1
+Internal CSP – Medium
+Customer Service Point
+The medium internal CSP is a minimally
+invasive discrete enclosure.
+• Materials – UL94 V-0 25-year life
+expectancy white ABS
+• Dimensions – 85mm x 140mm
+CODE 4.7.2
+Internal CSP – Large Customer
+Service Point
+• Connectivity – 1x SC/APC Adapter
+• Strain Relief – Cable tie points included
+for strain relief
+• Cable Ports – 4 outgoing ports and 1
+incoming port
+• Splicing – 8 x splice protector cradles
+• Removable Lid – Snap fit lid promotes
+ease of install
+• Logo
+• Fibre Optic Symbol – molded into lid
+CODE 4.7.3
+Type 1 - Standard
+O v erview: Compact termination box that
+houses Huawei EchoLife HG8010H ONT,
+model number.
+In d icative Dimensions:
+215(H)*100(W)*45(D)mm .
+CODE 4.7.4
+Type 2 – Covered Enclosure
+Compact termination box that contains a
+pre-determined length patch cord and a
+large amount of room for slack cable.
+• Materials – White ABS/FR suited for
+internal use.
+• Dimensions – 170(H)*80(W)*50(D)mm.
+CODE 4.7.5
+Type 3 – Large XGS-PON
+Compact termination box that houses
+Huawei ONT.
+Available in 2 options:
+• Option 1 - Includes SC/APC adapter only
+• Option 2 – Includes SC/APC
+connectorized pig tail ready for splicing
+to incoming drop cable
+CODE 4.7.6
+7. INTERNAL WALL BOX
+4. FAÇADE / SMDU
+Type 4 – Complete
+Enclosure
+O v erview: Compact fibre termination point
+that allows for large ONT’s to be mounted
+onto the frame.
+In d icative Dimensions:
+1 2 4 (H)*190(W)*50(D)mm .
+Ap p lication: This is a fully enclosed solution
+that safely stores and manages incoming
+fibre cable while discretely storing the ONT
+in the same footprint.
+CODE 4.7.7
+Type 5 – Overlength
+Mount Frame
+O v erview: Compact fibre termination point
+that allows for large ONT’s to be mounted
+onto the frame.
+In d icative Dimensions:
+215(H)*100(W)*45(D)mm .
+Ap p lication: This is a fully enclosed solution
+that safely stores and manages incoming
+fibre cable while discretely storing the ONT
+in the same footprint. This closure allows for
+the option of using pre-connectorised drop
+cable and using a hardened field connector.
+CODE 4.7.8
+CCR – Customer
+Connect Reel
+O v erview: A dual-terminated fibre spool
+allowing exact length drawing to a customer
+drop point
+In d icative Dimensions: 82x82xs32
+Ap p lication: This is a fully enclosed solution
+that safely stores and manages fibre cable
+from a POE to an ONT or other FWA
+CODE 4.7.9
+FWA- 4f
+• Optical fibre broadband access network,
+FTTH optical fibre and wall type optical
+fibre distribution unit.
+• Versatile 4 port (SC Simplex) FTTH Wall
+box that can be used in a range of
+applications. Typical application is FTTH
+Termination point.
+CODE 4.7.10
+Termination Outlet
+• Dimensions – 105(H)*80(W)*20(D)mm
+• Application – the operator guides
+incoming 4.8mm ruggedized cable into
+the termination outlet before splicing
+onto the pre-installed LC/UPC 1.5m
+pigtails
+• Colour – White ABS Material
+• Specification – 1.5m G657A2 LC/UPC
+Pigtails included in outlet
+CODE 4.7.11
+FWA-86x86mm
+• Dimensions: 86mm (L) x 86mm (W) x
+20mm (H)
+• Locking Mechanism: Plastic clip
+• Capacity: 2 splices and place them in
+designated areas.
+• Cable Entry Ports: 2
+• Adapter Capacity: 2
+CODE 4.7.12
+7. INTERNAL WALL BOX
+4. FAÇADE / SMDU
+Connectorised Customer
+Connect Reel
+• Pre-connectorized discrete Indoor Fibre
+Optic Cable (FO) with Customer
+Connect Reel
+• Used to connect from OTP (Optical
+Termination Premise) points to the
+customer's ONT (Optical Network
+Termination) terminal.
+• Aesthetically pleasing and easy to use
+CODE 4.7.13
+Need Something Custom?
+We offer bespoke solutions and would
+be happy to tailor products to your
+needs.
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+26-Mar-24
+5. SDU – SINGLE DWELLING UNIT
+2
+3
+4
+5
+6
+7
+1 DISTRIBUTION POINT
+DROP CABLE
+AERIAL CLAMPS
+AERIAL BRACKETS
+DEMARCATION/POINT OF ENTRY
+CUSTOMER LEAD IN CABLE
+FIBRE TERMINATION UNIT
+1
+2
+3
+4
+5
+6
+7
+2
+5. SDU 1. DISTRIBUTION POINTS
+Extra Small Node - 2.2mm LT - 96f
+The Oval Port allows two discrete cable ends to be installed.
+Circular ports accept a range of cable and BFT’s. Port sealing is
+capable of being re-entered to enable fitting of subsequent
+cables up to maximum capacity.
+Splitter options can be configured as required by the Network
+Operator.
+Closure can be used in aerial and underground environments.
+Fully UV stabilised, suitable for continual exposure in
+overhead/above ground installations for their complete service
+lifetime.
+298mm (H) x 234mm (L) x 160mm (W)
+CODE 5.1.1
+UGOH
+Overview: Compact Fibre Node available in splice
+only/patch only/Splice patch/splitter. Max splice capacity in
+48f and max connector capacity is 24 port LC/APC.
+Designed to store splitter.
+Configurations: Uniform Generic Product as a standalone
+accessory can cater for other FO and Copper applications in
+UG or OH scenarios.
+CODE 5.1.2
+RFOD HDPE – 1f 5.0mm
+O v erview: Round Aerial Drop cable. The cable is
+designed for both Overhead (OH) and Underground (UG)
+installation in telecommunication network
+infrastructures.
+Con struction:
+• Non-metallic/ dielectric construction.
+• UV stabilised HDPE outer jacket
+• 2x strength members provide excellent mechanical
+properties
+• Water blocking tape for moisture barrier
+• Aramid Yarn provides excellent mechanical
+properties
+• Single Element 0.9mm fibre module
+CODE 5.2.1
+CODE 5.2.2
+3mm TPU 1f
+Outer Jacket: Black TPU UV stabilised sheath in
+accordance with BS EN 50290-2-24.
+Excellent abrasion resistance to tree rub.
+Free of hazardous substances according to RoHS
+2002/95/EG. Anti-rodent protection can be added
+Diameter – 3.0mm
+Colours – Black; White; Brown (PANTONE 7629U)
+Water Block Aramid Yarn: Laid up alongside
+longitudinally section.
+900µm Tight Buffer Module: LSZH in colour Blue (EIA
+598)
+Fibre Type: ITU-T G657A2 / G657B3 offered as standard
+2. DROP CABLES
+26-Mar-24
+PRODUCT HIGHLIGHT 3MM TPU DROP CABLE
+Pliable.
+Reliable.
+DexGreen.
+5. SDU 3. AERIAL CLAMPS
+Spiral Wrap – 3mm (Green)
+O v erview: Hot dip galvanized steel helical dead-end clamp
+designed for anchoring 3.0mm round optical fibre drop
+cable within aerial telecommunication distribution network
+Friction coating is provided on inner wraps of clamp in
+order to provide better grip on the cable
+Breaking Strength designed to be ≤2kN
+Span designed up to 90m
+Compatible cable diameter range is 3-3.5mm
+CODE 5.3.1
+CODE 5.3.2
+Spiral Wrap – 5mm (Black)
+O v erview: Hot dip galvanized steel helical dead-end clamp
+designed for anchoring 5.0mm round optical fibre drop
+cable within aerial telecommunication distribution network
+Friction coating is provided on inner wraps of clamp in
+order to provide better grip on the cable
+Breaking Strength designed to be ≤2kN
+Span designed up to 90m
+Compatible cable diameter range is 4.5-5.2mm
+Spiral Clamp – 7mm (Purple)
+O v erview: Hot dip galvanized steel helical dead-end clamp
+designed for anchoring 7.0mm round optical fibre drop cable
+within aerial telecommunication distribution network
+Friction coating is provided on inner wraps of clamp in order to
+provide better grip on the cable
+Breaking Strength designed to be ≤2kN
+Span designed up to 90m
+Compatible cable diameter range is 6.5-8mm
+CODE 5.3.3
+CODE 5.3.4
+Mandrel Aerial Clamp
+O v erview: Mandrel-shaped body with a bail that can be
+locked into the clamp body. It’s manufactured from UV
+plastic suitable for deployment in aerial telecom networks.
+•Designed for anchoring/suspension round drop cable on
+poles and buildings installation. Roll cable through clamp
+around the mandrel. For example 3 times for 3mm
+diameter cable.
+Accepts 3 & 5mm cable.
+5. SDU 4. AERIAL
+BRACKETS
+CODE 5.4.1
+CODE 5.4.2
+Bracket 22
+O v erview: Simple triangular drop bracket to be used at the
+customers premises for incoming aerial drop cable.
+Bracket 32
+O v erview: Extended Drop Wire Bracket.
+Galvanised steel bracket for attaching wires to poles or
+walls (Galvanised securing screws included).
+Ap p lication: Used to give additional clearance of 150mm
+from gutters and eves for the termination of drop cables.
+Withstands a pulling force of over 200Kg.
+Eye Bolt Expanding
+O v erview: Single point fixing ring bolt for terminating drop
+wire.
+Ring Diameter: 15mm.
+Thread Depth: 60mm.
+CODE 5.4.3
+Want More Information?
+Our sales team would be happy to
+discuss product solutions with you!
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+26-Mar-24
+PRODUCT HIGHLIGHT CSP – CUSTOMER SERVICE POINT
+Orderly.
+Secure.
+DexGreen.
+5. SDU 5. DEMARCATION / POINT OF ENTRY 6. CUSTOMER LEAD IN CABLE
+CSP – External Demarcation Box
+O v erview: External demarcation enclosure for FTTH networks,
+with either splicing or connector connectivity options, therefore
+acting as a test point in the network also. Multiple cable
+entries/exists give installer flexibility for all installation scenarios.
+Con nectivity- suitable for SC and LC connections
+Sp l icing- availability to store 6 splice
+Cab le Entry- multiple compatibility with sealing grommets
+Slack storage- designed to be compatible with multiple different
+cable configurations.
+M at erial- ASA masterbatch compound.
+D i mensions- 150mm (L)X 143mm(W)x 33mm(H)
+CODE 5.5.1
+CODE 5.5.2
+Overlength Storage Wallbox
+O v erview: An external demarcation point capable of storing 10m
+of 3mm pre-connectorised cable – ideal for non-splice installs in
+SDU scenarios
+M at erial: UV stabilised ABS, available in white, grey, black, brown
+D i mensions: 198mm (h) x 140mm (w) x 40mm (d)
+CODE 5.5.3
+Ruggedised Dual Jacket
+5.0mm (1-12f) cable
+Inside/out customer lead in cable suitable for installation
+within the most challenging installation scenarios.
+Cable can be customised further per any unique end user
+requirements; i.e. cable jacket colour; properties; fibre
+count.
+The cable is available connectorised and packaged per
+various end user requirements.
+CODE 5.6.1
+Wall Entry Cover
+A compact wall entry cover for masking entry to the home. This
+enclosure prevents water ingress and masks wall ‘blow-out’ as
+fibre is routed into the home
+Want More Information?
+Our sales team would be happy to
+discuss product solutions with you!
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+26-Mar-24
+PRODUCT HIGHLIGHT INSIDE OUTSIDE CABLE
+Easy.
+Considerate.
+DexGreen.
+5. SDU 7. FIBRE TERMINATION UNIT
+CODE 5.7.1
+CODE 5.7.2
+CODE 5.7.3
+CODE 5.7.4
+CODE 5.7.5
+CODE 5.7.6
+Type 1 - Standard
+O v erview: Compact termination box that
+houses Huawei EchoLife HG8010H ONT,
+model number.
+In d icative Dimensions:
+215(H)*100(W)*45(D)mm .
+Type 2 – Covered
+Enclosure
+Compact termination box that contains a
+pre-determined length patch cord and a
+large amount of room for slack cable.
+• Materials – White ABS/FR suited for
+internal use.
+• Dimensions – 170(H)*80(W)*50(D)mm.
+Type 3 – Large XGS-
+PON
+Compact termination box that houses
+Huawei ONT.
+Available in 2 options:
+• Option 1 - Includes SC/APC adapter only
+• Option 2 – Includes SC/APC
+connectorized pig tail ready for splicing
+to incoming drop cable
+Type 4 – Complete Enclosure
+O v erview: Compact termination box that houses large
+ONT units
+In d icative Dimensions: 195(H)*125(W)*50(D)mm .
+Type 5 – Overlength Mount
+Frame
+O v erview: Compact fibre termination point that allows for
+large ONT’s to be mounted onto the frame.
+In d icative Dimensions: 215(H)*100(W)*45(D)mm .
+Ap p lication: This is a fully enclosed solution that safely
+stores and manages incoming fibre cable while discretely
+storing the ONT in the same footprint. This closure allows
+for the option of using pre-connectorized drop cable and
+using a Hardened field connector.
+CCR – Customer Connect Reel
+O v erview: A dual-terminated fibre spool allowing exact
+length drawing to a customer drop point
+In d icative Dimensions: 82x82xs32
+Ap p lication: This is a fully enclosed solution that safely
+stores and manages fibre cable from a POE to an ONT
+or other FWA
+5. SDU 7. FIBRE TERMINATION UNIT
+CODE 5.7.7
+Connectorised Customer
+Connect Reel
+• Pre-connectorized discrete Indoor Fibre
+Optic Cable (FO) with Customer
+Connect Reel
+• Used to connect from OTP (Optical
+Termination Premise) points to the
+customer's ONT (Optical Network
+Termination) terminal.
+• Aesthetically pleasing and easy to use
+Need Something Custom?
+We offer bespoke solutions and would
+be happy to tailor products to your
+needs.
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+26-Mar-24
+6. MDU – MULTI-DWELLING UNIT
+2
+3
+4
+5
+6
+7
+1 BEP-BUILDING ENTRANCE POINT
+BACKBONE FIBRE
+DISTRIBUTION POINT
+DISTRIBUTION CABLE AND
+ACCESSORIES
+DEMARCATION/POINT OF ENTRY
+CUSTOMER LEAD IN CABLE
+FIBRE TERMINATION OUTLET
+1
+2
+3
+4
+5
+6
+7
+RETROFIT
+26-Mar-24
+6. MDU – MULTI-DWELLING UNIT NEWBUILD
+2
+3
+4
+5
+6
+7
+1 BEP-BUILDING ENTRANCE POINT
+BACKBONE FIBRE
+DISTRIBUTION POINT
+DISTRIBUTION CABLE AND
+ACCESSORIES
+DEMARCATION/POINT OF ENTRY
+CUSTOMER LEAD IN CABLE
+FIBRE TERMINATION OUTLET
+1
+2
+3
+4 7
+26-Mar-24
+CODE 6.1.1
+CODE 6.1.2
+CODE 6.1.3
+CODE 6.1.4
+CODE 6.1.5
+CODE 6.1.6
+6. MDU
+Universal Fibre Shelf - 19-inch 1RU
+The Universal Fibre Shelf is a 19-inch patch
+panel that is 1 rack unit tall. Despite the
+minute footprint 96 fibres are easily patched
+onto and safely routed throughout the panel.
+The panel features a right-sided swinging
+drawer to provide access to LC/APC cradles,
+and the fibre can easily be mapped with the
+acrylic pane along the front.
+Universal Fibre Shelf - Rack
+System - 19-inch 1RU
+Stainless Steel 19-inch rack system allows
+ODF equipment to be mounted into any
+existing or new cabinet. 19-inch 1RU racking
+(tailorable to install requirements – RU
+capacity and overall length).
+Mounting brackets allow 19inch frame to be
+bolted into any existing cabinet solution.
+Integrated strain relief plates for incoming
+and exiting cable can be bolted onto the
+frame with additional brackets
+48 port Telescopic Drawer - 19-inch
+1RU
+The 48f adapter only LCAPC FOPP allows for
+a total of 48 outgoing jumpers. A central
+bend manager allows for overlength storage
+before connecting to the duplex LC/APC
+adapters.
+There are 4 separate grommet locations
+with strain relief points in front of them for
+additional security. The pull tabs allow for
+much easier opening/closing of the tray.
+Internal / External Splice Box
+- up to 288f splice point
+Strain Relief for multiple outgoing
+distribution cables. Facilitates loop storage
+of fibre tubes and routing cable out of
+closure . Fibre tubes are stored before being
+spliced . Fibre tubes are stripped down to
+bare fibres to be spliced . Holds 8 x splitters
+(i.e. 8 x 32 way splitters) . Incoming fibre
+tubes are spliced onto the A-legs of splitters .
+B-legs are routed directly to Distribution
+trays for splicing to distribution cables . Trays
+are colour coded for identification purposes.
+Total splice capacity is 288f (12f/tray @ 24
+trays) . Outgoing cable overlength storage .
+Internal / External 60 port ODF
+A large capacity external ODF suited to MDU
+scenarios. Capable of 60 connectorised
+drops this enclosure is ideal for large
+external MDUs. IP65 - suitable for aerial use
+by mounting directly on to walls/poles.
+• Caters for multiple configurations .
+• Pre-connectorized terminations (LC/APC
+adapters can be installed inside) .
+• Integrated PLC splitters (at multiple split
+ratios) .
+• Adapter: 30 LC Duplex Adapters .
+• Splice: 60 fibres (4 trays @ 24 fibres/tray).
+Internal / External 120 port ODF
+A large capacity external ODF suited to MDU
+scenarios. Capable of 120 connectorised
+drops this enclosure is ideal for large
+external MDUs. IP65 - suitable for aerial use
+by mounting directly on to walls/poles.
+• Caters for multiple configurations .
+• Pre-connectorized terminations (LC/APC
+adapters can be installed inside) .
+• Integrated PLC splitters (at multiple split
+ratios) .
+• Adapter: 60 LC Duplex Adaptors .
+1. BEP - BUILDING ENTRANCE POINT
+26-Mar-24
+CODE 6.1.7 CODE 6.1.10
+CODE 6.1.8
+CODE 6.1.9
+Universal Fibre Solution
+Universal Fibre Solution is a fully modular, low-footprint
+enclosure that caters for multiple configurations and cable
+sizes, i.e. BFT (Blown Fibre Tubes), splitter (in various counts),
+connectorized and various others according to the Operators’
+requirements.
+The enclosure achieves this via a series of interchangeable entry
+ports and grommets, which make it suitable to receive all cable
+structures in the network at the same time in one compact
+consolidated closure.
+UFS - FTTH Module
+A UFS module designed to allow 12x SC/APC customer
+drops or 24 LC/APC customer drops. The module can be
+installed in any of the 4 module locations.
+The module is compatible with our extended shroud.
+UFS – Splice Through Module
+A UFS module designed to allow 12 cables to exit from any of
+the 4 module locations
+Cables up to 6mm can be fed through the grommets and
+restrained to the module via ziptie
+UFS – 3 Port Module
+A UFS module designed to allow 3 cables to enter the enclosure
+from any of the 4 module locations
+Cables up to 14mm, our proprietary gas blocking cone, and
+ducting can be fed through the grommets.
+Cables can be retrained vi Central Strength Member clamps
+and or via zipties
+CODE 6.1.11
+CODE 6.1.12
+UFS – Ethernet Module
+A UFS module designed to allow 12x SC/UPC customer
+drops or 24 LC/UPC customer drops. The module also
+allows for MPO termination for rapid fibre rollout.
+The module can be installed in any of the 4 module
+locations.
+The module is compatible with our extended shroud.
+UFS – Extended Shroud
+A UFS module designed to manage manifolded corridor
+cable and plug directly into our FTTH & Ethernet
+modules.
+6. MDU 1. BEP - BUILDING ENTRANCE POINT
+26-Mar-24
+PRODUCT HIGHLIGHT UFS – UNIVERSAL FIBRE SOLUTION
+Compact.
+Modular.
+DexGreen.
+26-Mar-24
+CODE 6.1.13
+CODE 6.1.14
+CODE 6.1.15
+Ethernet SC/UPC Pigtaills
+Coloured Pigtail : 12 x Pigtail-SC/UPC
+Connectors - SC/UPC (Blue)
+Diameter 0.9mm (12 Nos/Pack)
+Length - 1.6m L(1.5m @ 250um, 0.1m @
+900um). Colour-coded to Openreach
+standard - 1 - Blue; 2 - Orange; 3 - Green; 4 -
+Red; 5 - Grey; 6 -Yellow; 7 - Brown; 8 - Violet;
+9 - Black; 10 - White; 11 - Pink; 12 - Turquoise
+FTTP SC/APC Pigtails
+Coloured Pigtail - 12 x Pigtail-SC/APC
+Connectors - SC/APC (Green)
+Diameter - 0.9mm (12 Nos/Pack)
+Length - 1.6m L(1.5m @ 250um, 0.1m @
+900um). Colour-coded to Openreach
+standard - 1 - Blue; 2 - Orange; 3 - Green; 4 -
+Red; 5 - Grey; 6 -Yellow; 7 - Brown; 8 - Violet;
+9 - Black; 10 - White; 11 - Pink; 12 - Turquoise
+6. MDU 1. BEP - BUILDING ENTRANCE POINT 2. BACKBONE FIBRE
+CODE 6.1.16
+Universal Slack Management
+Bracket
+Using a pivoting arm with slots allows 1
+bracket to accommodate all 3 enclosures.
+This reduces material volume (weight and
+cost) and quantity of components required
+for stock holding.
+• Enclosure sits proud to allow cable to
+exit duct .
+• Fits around 30mm ducting .
+• Has a Ducting Extraction Hole .
+• 4x Pivotable mounting arms .
+• Overlength storage (top and bottom).
+UFS – Splice Trays
+A 6 tray mounting plate that attaches inside
+the UFS. Each tray gives 12f splice capacity.
+Trays have individual acrylic sheets for fibre
+protection.
+CODE 6.1.17
+CODE 6.1.18
+Internal / External 144 port ODF
+A large capacity external ODF suited to MDU
+scenarios. Capable of 144 connectorised
+drops this enclosure is ideal for large
+external MDUs.
+• Closure works in a multitude of
+environments and scenarios.
+• IPSS - suitable for aerial use.
+• Front facing lock is hidden by clasp.
+• Polymer Plastic built for the outdoors.
+• 12x Cable Entry Ports system allows for 6
+entries/exits per side.
+• 72 pcs LC duplex adaptors 6x 24F splice
+trays.
+High Density 144f
+splice/patch closure
+• X144 LC/APC overlength with 48f splice
+repair point.
+• Incoming x4 36f LC/APC connectorised
+fantail.
+• MPO Overlength with 48f splice repair
+point.
+• 12x Quads (3 per operator).
+• MPO connector port to outgoing.
+Multicore Backbone Cable - 12f to 144f
+• FRP strength member
+• Coated FRP
+• Primary coated fibre
+• Loose tubes
+• Dummy Filler elements
+• Ripcords
+• Water Blocking Aramid Yarn
+• Outer Sheathing LSZH
+• Water Blocking Tape
+CODE 6.2.1
+The fibre optic cable components include an FRP Strength Member, providing mechanical support and
+securing the cable, and Coated FRP, which reinforces and achieves the desired geometry for loose tubes.
+The Primary Coated Fibre consists of silica, acrylate-coated, color-coded fibers, and the Loose Tubes have
+thixotropic gel-filled, bend-resistant fibers organized in 12f tubes, easily removable for splicing. Dummy Filler
+Elements are available for empty tubes, and Ripcords aid in longitudinal cable stripping.
+Water Blocking Aramid Yarn offers excellent mechanical characteristics, while the LSZH Outer Sheath comes in
+multiple colors and meets CPR EuroClass CCA-s1b, d2, a2 standards.
+FEATURES
+DESCRIPTION
+6. MDU 2. BACKBONE FIBRE
+26-Mar-24
+CODE 6.3.1
+6. MDU
+Universal Fibre Solution
+Universal Fibre Solution is a fully modular, low-footprint
+enclosure that caters for multiple configurations and cable
+sizes, i.e. BFT (Blown Fibre Tubes), splitter (in various counts),
+connectorized and various others according to the Operators’
+requirements.
+The enclosure achieves this via a series of interchangeable entry
+ports and grommets, which make it suitable to receive all cable
+structures in the network at the same time in one compact
+consolidated closure.
+3. DISTRIBUTION POINT
+CODE 6.3.2
+CODE 6.3.3
+Fibre Distribution Point
+The FDP is a versatile solution that supports both MPO and
+SCAPC adaptors. It enables quick deployment of pre-
+connectorized setups for up to 12 customer drops. It can also be
+used for self-patching, serving as a test-point hub between
+distribution cables.
+The FDP's plug-and-play design and customizable cable
+configurations allow for highly tailored fibre distribution
+solutions in MDUs.
+Universal Building Box
+Universal Building Box is a fully modular, low footprint solution
+that caters for multiple configurations, i.e. Splitter (in various
+counts), connectorized.
+The enclosure achieves this via a series of interchangeable entry
+ports and grommets, which make it suitable to receive all cable
+structures in the network at the same time in one compact
+consolidated closure.
+These ports can accommodate a multitude of cables in various
+diameters. These are all supplied with closure as standard.
+Want More Information?
+Our sales team would be happy to
+discuss product solutions with you!
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+26-Mar-24
+CODE 6.4.1
+CODE 6.4.2
+CODE 6.4.3
+CODE 6.4.4
+CODE 6.4.5
+CODE 6.4.6
+6. MDU
+Universal Bend Managers
+Innovative installation solution allowing for
+the fast installation of surface mounted
+cables while safely maintaining minimum
+bend radii around corners and bends across
+our cable range (0.9mm, 2mm, 2.9mm). The
+discrete nature of the bend managers allows
+for them to blend in with the setting while
+providing optimal safety and retention
+Nano Cable Clips
+• NanoClip Slot – Allows easy installing for
+NanoClips
+• Simplistic Design – For ease of use
+• Slim Design – Slim, pocket sized tool
+allows for maximum portability
+• Colour – Black
+• Installation Environment – Internal, on
+wall edges and ceilings. To be fitted
+every 300mm along a cable path
+• Dimension – 160mm x 55mm
+Glue / Adhesive Cable Fixing
+DexGreen Glue dispensing tool allows for the
+controlled application of adhesives.
+Cartridges attach to the tool using wide
+flanges ensuring that the cartridge is secure
+inside the dispenser even under constant
+pressure, the force applied to the cartridge
+gives an even and reliable flow of adhesive.
+The dispenser allows for a quick change of
+cartridges.
+Cable Wall Entry Cover
+A considerate fibre routing kit designed to
+be rapidly and discretely installed. Our wall
+mounted solution is ideal for retro-fitting or
+in-the-home routing.
+Cabling Tool
+To aid the transition of cables between both
+internal and external wall, Dexgreen
+manufactures two options of a wall insertion
+tool to suit any install practice.
+The SC-APC connector is clipped onto the
+rear of the assembly and pulled through the
+wall via a 300mm rod.
+SC-APC clips into the rear of the tool. Pulling
+the connector through can ensure that any
+debris or rubble is cleared before the
+connector and cable are pulled over it.
+Discrete 2.0mm (1 - 12f) Cable
+Surface-mounted fiber cable for distribution
+or feeder use with extractable 250µm
+primary coated fibers. Suitable for internal
+wall or riser installations with proper
+conduit/sub-duct for mechanical protection.
+Available in G657A2 or G657B3 fiber types,
+both bending insensitive.
+Aramid yarn provides tensile strength and
+crushing resistance.
+Compatible with DexTidy accessories
+4. DISTRIBUTION CABLE & ACCESSORIES
+26-Mar-24
+Durable.
+Discrete.
+DexGreen.
+PRODUCT HIGHLIGHT DISCRETE DISTRIBUTION CABLE
+Discrete
+Excellent Optical
+Performance
+Durable
+CPR Rated
+Internal / External Use
+A2/ B3 Fibre Type &
+1-24f Quantity Options
+2.0mm – 3.0mm Jacket Options
+6. MDU 7. FIBRE TERMINATION OUTLET
+Type 4 – Complete
+Enclosure
+O v erview: Compact fibre termination point
+that allows for large ONT’s to be mounted
+onto the frame.
+In d icative Dimensions:
+1 2 4 (H)*190(W)*50(D)mm .
+Ap p lication: This is a fully enclosed solution
+that safely stores and manages incoming
+fibre cable while discretely storing the ONT
+in the same footprint.
+CODE 6.7.7
+Type 5 – Overlength
+Mount Frame
+O v erview: Compact fibre termination point
+that allows for large ONT’s to be mounted
+onto the frame.
+In d icative Dimensions:
+215(H)*100(W)*45(D)mm .
+Ap p lication: This is a fully enclosed solution
+that safely stores and manages incoming
+fibre cable while discretely storing the ONT
+in the same footprint. This closure allows for
+the option of using pre-connectorized drop
+cable and using a Hardened field connector.
+CODE 6.7.8
+CCR – Customer
+Connect Reel
+O v erview: A dual-terminated fibre spool
+allowing exact length drawing to a customer
+drop point
+In d icative Dimensions: 82x82xs32
+Ap p lication: This is a fully enclosed solution
+that safely stores and manages fibre cable
+from a POE to an ONT or other FWA
+CODE 6.7.9
+FWA- 4f
+• Optical fibre broadband access network,
+FTTH optical fibre and wall type optical
+fibre distribution unit.
+• Versatile 4 port (SC Simplex) FTTH Wall
+box that can be used in a range of
+applications. Typical application is FTTH
+Termination point.
+CODE 6.7.10
+Termination Outlet
+• Dimensions – 105(H)*80(W)*20(D)mm
+• Application – the operator guides
+incoming 4.8mm ruggedized cable into
+the termination outlet before splicing
+onto the pre-installed LC/UPC 1.5m
+pigtails
+• Colour – White ABS Material
+• Specification – 1.5m G657A2 LC/UPC
+Pigtails included in outlet
+CODE 6.7.11
+FWA-86x86mm
+• Dimensions: 86mm (L) x 86mm (W) x
+20mm (H)
+• Locking Mechanism: Plastic clip
+• Capacity: 2 splices and place them in

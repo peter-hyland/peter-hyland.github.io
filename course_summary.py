@@ -103,16 +103,16 @@ def write_summary_to_html(summary_json):
 
 # example test files
 
-with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/test_contents.txt', 'r') as file:
+with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/example_courses/test_contents.txt', 'r') as file:
     train_contents = file.read()
 
-with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/product_cata.txt', 'r') as file:
+with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/example_courses/product_cata.txt', 'r') as file:
     dexgreen_cata = file.read()
 
-with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt', 'r') as file:
+with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/example_courses/skillsbase_operator.txt', 'r') as file:
     skillsbase_contents = file.read()
 
-filename = 'csp.csv'
+filename = '/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/example_courses/csp.csv'
 csp_course = process_csv_data(filename)
 
 # prompt engineeing

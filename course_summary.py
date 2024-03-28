@@ -116,7 +116,7 @@ def get_summary_from_openai(file_path):
         train_contents = file.read()
 
     with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/product_cata.txt', 'r') as file:
-        product_catalogue = file.read()
+        dexgreen_cata = file.read()
 
     with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt', 'r') as file:
         skillsbase_contents = file.read()
@@ -134,7 +134,7 @@ def get_summary_from_openai(file_path):
                                               response_format={ "type": "json_object" }, 
                                               messages=[
                                                   {"role":"system","content":skillsbase_course_prompt2},
-                                                  {"role":"user","content":skillsbase_contents}
+                                                  {"role":"user","content":dexgreen_cata}
                                               ])
     
     summary = response.choices[0].message.content

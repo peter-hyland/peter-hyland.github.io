@@ -134,7 +134,7 @@ def get_summary_from_openai(file_path):
                                               response_format={ "type": "json_object" }, 
                                               messages=[
                                                   {"role":"system","content":skillsbase_course_prompt2},
-                                                  {"role":"user","content":skillsbase_contents}
+                                                  {"role":"user","content":csp_course}
                                               ])
     
     summary = response.choices[0].message.content
@@ -150,6 +150,8 @@ def get_summary_from_openai(file_path):
 # {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on. Do not create a list above 5 items in json dict, make a sentence if it is"},
 
 # Example usage:
+summary = get_summary_from_openai("/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt")
+print(summary)
 update_summary('Updates course summary on website')
 
 

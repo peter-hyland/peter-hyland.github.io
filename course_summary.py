@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreencata_t1_p1_4_role1.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreengencata_t1_p1_4_role2.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -113,6 +113,9 @@ with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/example_co
 with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/example_courses/skillsbase_operator.txt', 'r') as file:
     skillsbase_contents = file.read()
 
+with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/example_courses/general_cata.txt', 'r') as file:
+    general_cata = file.read()
+
 filename = '/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/example_courses/csp.csv'
 csp_course = process_csv_data(filename)
 
@@ -149,6 +152,13 @@ The below content is taken from mobile app based training courses. These trainin
  
 Based on the content provide a summary of the entire course."""
 
+dexgreen_course_prompt2 = f"""
+The below content is taken from mobile app based training courses. These training courses are composed of various interactive modules like videos, images with text, quizzes, checklists and more. 
+
+{general_cata}
+ 
+Based on the content provide a summary of the entire course."""
+
 def get_summary_from_openai(file_path):
     """
     Fetches the course summary using the OpenAI API and writes it to summary.html.
@@ -158,7 +168,7 @@ def get_summary_from_openai(file_path):
                                               response_format={ "type": "json_object" }, 
                                               messages=[
                                                   {"role":"system","content":skillsbase_role_2},
-                                                  {"role":"user","content":skillsbase_course_prompt1}
+                                                  {"role":"user","content":dexgreen_course_prompt2}
                                               ],
                                               temperature=1
                                               )

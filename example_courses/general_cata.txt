@@ -1,0 +1,5820 @@
+Discrete 3.0mm (1 - 24f) Cable
+Surface-mounted fibre cable for distribution
+or feeder use with extractable 250µm
+primary coated fibres. Suitable for internal
+wall or riser installations with proper
+conduit/sub-duct for mechanical protection.
+Available in G657A2 or G657B3 fibre types,
+both bending insensitive.
+The standard length is 1000 meters.
+Flame retardant with CPRB2 cas1ad0 a1
+rating.
+Compatible with DexTidy accessories
+Ruggedised 4.8mm (1 - 12f) cable
+Ruggedized fibre optic cable for internal and
+external environments. Pre-connectorised
+option available with SC/APC connectors.
+Multiple colours available depending on
+Operators’ requirements. Easy fibre
+preparation using standard tools.
+Cable is robust and can be fixed through
+multiple methods without significant
+damage to cable components including no
+evidence of splitting and with no change in
+optical performance.
+Ruggedised Dual Jacket
+5.0mm (1-12f) cable
+Inside/out customer lead-in cable suitable
+for installation within the most challenging
+installation scenarios.
+Cable can be customised further per any
+unique end user requirements; i.e. cable
+jacket colour; properties; fibre count.
+The cable is available connectorised and
+packaged per various end user
+requirements.
+Ruggedised 6.0mm (1 - 12f)
+cable (MPO Cable)
+This cable meets fire safety, water resistance,
+UV stability, and optical performance needs,
+suitable for both indoor and outdoor use. Its
+LSZH materials, water-blocking aramid yarn,
+and MPO connectors emphasize durability,
+easy installation, and lasting efficiency,
+making it versatile and reliable for various
+communication setups.
+Blown Cable (12 - 24f)
+Round profile UG cable containing modular
+tubes @ 12 fibres / tube. The cable is
+designed for Underground (UG) installation
+in telecommunication network
+infrastructures.
+Provides increased mechanical protection
+for modular fibre tubes.
+Provides excellent mechanical performance.
+14/10mm LSZH Duct
+LSZH microducts with low friction are ideal
+for fibre blowing. They have a sheath of LSZH
+material, providing excellent fire
+performance. These lightweight, metal-free,
+and flexible microducts are designed for
+indoor installation.
+Internal Texturing options; - Smooth, Ribbed
+4. DISTRIBUTION CABLE & ACCESSORIES
+28-Mar-24
+CODE 6.5.1
+CODE 6.5.2
+CODE 6.5.3
+CODE 6.5.4
+CODE 6.5.5
+CODE 6.5.6
+i 6. MDU
+Inline Splice Closure
+Discrete closure designed for the quick
+splicing of fibre cable from 2.9 – 6mm within
+the premises . Includes ability to hold one
+splice along with specially designed
+mechanical strain relief to remove the need
+for screws or cable ties to provide a universal
+strain relief to a wide range of cable
+diameters and structures
+POE with 1 x SC/APC
+The POE 1x SC/APC Enclosure is inline in
+design, with a figure of 8 overlength storage
+bay. A Single SC/ APC adaptor allows for
+connectorised drops through the large
+opening in the rear. A splice point is also
+provided.
+The enclosure is best suited above doorways
+in surface mounted cable scenarios, allowing
+for direct drop into customer premises.
+POE with 4 x SC/APC
+The internal outlet is inline in design, with a
+figure of 8 overlength storage bay. 2x SC/APC
+duplex adaptors are housed in a cradle
+allowing for connectorised drops.
+The SC/APC cradle is removable, and 4 rear
+exits are provided to help with ease of install.
+Rear exits are large enough to allow for dual
+connectorised installs.
+The lid is snap-fit into place and features an
+embossed operator logo and fibre warning.
+POE with 12f splice
+The internal outlet is designed with an inline
+figure of 8 storage bay. It has a single SC/APC
+adaptor for connectorized drops and a splice
+point.
+There is a multiple-splice variant available
+with six splice cradles for up to 12 fibres. The
+lid is snap-fit and features an embossed
+operator logo and fibre warning.
+CSP with 1 x SC/APC
+External demarcation enclosure for FTTH
+networks, with either splicing or connector
+connectivity options, therefore acting as a
+test point in the network also. Multiple cable
+entries/exists give installer flexibility for all
+installation scenarios.
+SMDU Wall Box with
+4 x SC/APC
+x4 splice protectors double stacked and 4x
+SC/APC adaptors included for up to 4
+subscriber ports. Removable bracket for easy
+access and testing. Multiple different ports
+ensure flexibility for installation. Removable
+reel for managing incoming drop cables.
+The SMDU wall Box is made from ASA UV
+stabilized for durability. IP54 external
+enclosure designed for overhead use on
+façades. Compact dimensions (W144 x L156 x
+H37.5mm) with high density for increased
+functionality.
+5. DEMARCATION / POINT OF ENTRY ENCLOSURE
+28-Mar-24
+CODE 6.5.7
+CODE 6.5.8
+CODE 6.5.9
+i 6. MDU
+12f CSP
+An external CSP capable of accommodating
+12f SC-APC connectorized cable with splice
+provisioning.
+Connectorized MPO in to 12f out – acting as
+a waterproof floor distribution point.
+External Façade Enclosure
+The External Façade Enclosure allows for up
+to 4 customer drops through both
+connectorised and non-terminated means.
+The Inline design can stack these enclosures
+in sequence, allowing for a daisy chaining of
+customer drops.
+This solution is best suited to retrofitting
+scenarios where internal installations are not
+possible.
+Pair this with our External Lead in Cover for a
+full external solution.
+External Cable Lead In Cover
+The external lead-in cover offers a strong
+retention point for lead-in cables to the
+home.
+Featuring a conduiting tunnel and assistive
+bending ramp the fibre is fully protected on
+entry to the home, and the toolless lid tidies
+up the whole assembly, masking any blow
+out or silicone squeeze-out.
+Pair this with any of our external
+demarcation enclosures for a full external
+solution.
+5. DEMARCATION / POINT OF ENTRY ENCLOSURE 5. CUSTOMER LEAD IN CABLE
+Need Something Custom?
+We offer bespoke solutions and would
+be happy to tailor products to your
+needs.
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+28-Mar-24
+i PRODUCT HIGHLIGHT HORIZONTAL INLINE PRODUCTS
+Simple.
+Comprehensive.
+DexGreen.
+28-Mar-24
+CODE 6.6.1
+CODE 6.6.2
+CODE 6.6.3
+Dual Jacket - Inside/Outside
+Lead In Cable
+Inside/out customer lead-in cable suitable
+for installation within the most challenging
+installation scenarios.
+Cable can be customised further per any
+unique end user requirements; i.e. cable
+jacket colour; properties; fibre count.
+The cable is available connectorised and
+packaged per various end user
+requirements.
+4.8mm 1F, 2F, 4F, 8F, 12F
+Ruggedised drop cable - 250um
+Ruggedized fibre optic cable for internal and
+external environments. Pre-connectorized
+option available with SC/APC connectors.
+Cable is robust and can be fixed through
+multiple methods without significant
+damage to cable components including no
+evidence of splitting and with no change in
+optical performance.
+3.0mm Drop Cable
+The 3mm Drop Cable is suitable for
+installation with multiple clamps, for
+example; spiral wraps and mandrel clamps
+with excellent performance. Tested under a
+range of environmental conditions and PIA-
+approved. The cable can be tailored to the
+requirements of multiple operators for
+example jacket colour, connectivity
+requirements (i.e. LC/APC, etc).
+i 6. MDU 6. CUSTOMER LEAD IN CABLE
+CODE 6.6.4
+CODE 6.6.5
+CODE 6.6.6
+4.0mm Drop Cable
+Ruggedized fibre optic cable for internal and
+external environments. Pre-connectorized
+option available with SC/APC connectors.
+Cable is robust and can be fixed through
+multiple methods without significant
+damage to cable components including no
+evidence of splitting and with no change in
+optical performance.
+Round fibre optic cable for internal and
+external environments. Pre-connectorized
+option available with SC/APC & LC/APC
+connectors.
+Cable is robust and can be fixed through
+multiple methods without significant
+damage to cable components including no
+evidence of splitting and with no change in
+optical performance.
+4.8mm 1F Ruggedised drop
+cable - 900um
+Ruggedized fibre optic cable for internal and
+external environments. Pre-connectorized
+option available with SC/APC connectors.
+Cable is robust and can be fixed through
+multiple methods without significant
+damage to cable components including no
+evidence of splitting and with no change in
+optical performance.
+3.0mm LSZH Drop Cable
+28-Mar-24
+CODE 6.6.7
+CODE 6.6.8
+CODE 6.6.9
+i 6. MDU
+900µm 1f Discrete Drop
+900um round profile drop cable with
+coloured primary coating.
+Cable is compatible with our DexTidy system
+for visually discrete deployment of wall
+mounted fibre .
+Pushable 2x3mm Drop
+Figure-8 profile cable with 900um module in
+centre.
+2x strength members help support the cable
+across longer spans and make for easy
+tearing of outer jacket for connections.
+3.0mm Pushable Drop Cable
+The 3mm Drop Cable is suitable for
+installation with multiple clamps, for
+example; spiral wraps and mandrel clamps
+with excellent performance. Tested under a
+range of environmental conditions and PIA-
+approved. The cable can be tailored to the
+requirements of multiple operators for
+example jacket colour, connectivity
+requirements (i.e. LC/APC, etc).
+6. CUSTOMER LEAD IN CABLE
+Want More Information?
+Our sales team would be happy to
+discuss product solutions with you!
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+28-Mar-24
+Internal CSP – Small
+Customer Service Point
+The small internal CSP is a reversible inline
+enclosure capable of servicing 8 customer
+drops.
+It features a toolless snapfit lid which can be
+installed in two directions.
+It also features a large figure of 8 overlength
+bay, 8x splice capacity cradle and 8 cable
+retaining flaps.
+CODE 6.7.1
+Internal CSP – Medium
+Customer Service Point
+The medium internal CSP is a minimally
+invasive discrete enclosure.
+• Materials – UL94 V-0 25-year life
+expectancy white ABS
+• Dimensions – 85mm x 140mm
+CODE 6.7.2
+Internal CSP – Large
+Customer Service Point
+• Connectivity – 1x SC/APC Adapter
+• Strain Relief – Cable tie points included
+for strain relief
+• Cable Ports – 4 outgoing ports and 1
+incoming port
+• Splicing – 8 x splice protector cradles
+• Removable Lid – Snap fit lid promotes
+ease of install
+• Logo
+• Fibre Optic Symbol – moulded into lid
+CODE 6.7.3
+i 6. MDU 7. FIBRE TERMINATION OUTLET
+Type 1 - Standard
+O v erview: Compact termination box that
+houses Huawei EchoLife HG8010H ONT,
+model number.
+In d icative Dimensions:
+215(H)*100(W)*45(D)mm .
+CODE 6.7.4
+Type 2 – Covered Enclosure
+Compact termination box that contains a
+pre-determined length patch cord and a
+large amount of room for slack cable.
+• Materials – White ABS/FR suited for
+internal use.
+• Dimensions – 170(H)*80(W)*50(D)mm.
+CODE 6.7.5
+Type 3 – Large XGS-PON
+Compact termination box that houses
+Huawei ONT.
+Available in 2 options:
+• Option 1 - Includes SC/APC adapter only
+• Option 2 – Includes SC/APC
+connectorized pig tail ready for splicing
+to incoming drop cable
+CODE 6.7.6
+28-Mar-24
+PRODUCT HIGHLIGHT COMBINATION NTU/ONT
+Tidy.
+Discrete.
+DexGreen.
+28-Mar-24
+PRODUCT HIGHLIGHT CUSTOMER CONNECT REEL
+Deft.
+Dexterous.
+DexGreen.
+CODE 6.8.1
+CODE 6.8.2
+CODE 6.8.3
+Pigtails
+O v erview: Pigtail SC/APC SM 9/125 G657A2 0.9mm
+Con figuration: Multiple possible with various connectors,
+diameters and colour codes.
+Field Connectors
+• O v erview: A ready-to-install connector for
+mechanically splicing to a cleaved fibre end for
+termination. Supports several cable types and
+available in two configurations.
+• Cab le types supported: Enables fast and on-site
+installation of 250μm, 900μm, 3.0mm and 1.6mm x
+2.0mm, 2.0mm x 3.0mm cable type connectors by
+changing protection tubes. See Technical
+Specifications for further details.
+• Connector Types: SC/APC; SC/UPC; LC/APC; LC/UPC;
+FC/PC; etc..
+Splice Protectors
+Standard metal rod reinforced dual-wall heat shrink splice
+protectors for single element splicing.
+Available in 45mm & 60mm lengths
+i 6. MDU 8. FIBRE CONNECTIVITY ACCESSORIES
+CODE 6.8.4
+CODE 6.8.5
+Patch Cords
+Pr e-Connectorised on both ends
+LSZ H flame retardant
+Con figuration: Multiple lengths, diameters, fibre types,
+connectors, etc.
+Fi b re Counts: Multiple (depending on operators'
+requirements).
+Optical Fibre Splitters
+Si z e: 4 x 7 x 60mm (note: other sizes available) through
+qualification test of this product, we ensure product
+reliability.
+Several qualification tests are carried to assure the
+product’s performance and durability while operation.
+All materials for the connectors meet RoHS.
+28-Mar-24
+i 6. MDU 8. FIBRE CONNECTIVITY ACCESSORIES
+CODE 6.8.7
+CODE 6.8.8
+CODE 6.8.9
+Fibre Optic Adaptors
+Reliable fibre optic cable adapters, used for pairing
+two connectorized cables. Available for all connector
+types, including hybrid connectors for pairing
+different connector types.
+Fibre Optic Attenuator
+Highly reliable fibre optic attenuators available in
+all connector options. Typically installed close to
+the terminating system to reduce signal strength
+to required level, which prevents equipment
+failure.
+Fibre Optic Cassette
+Full range of optical receivers available to meet all
+requirements. Items can be tailored to suit any
+configuration required. Used as a connection /
+splicing point between active equipment and
+terminal equipment within Patch Panels in the
+Central Office / Base Station.
+CODE 6.8.10
+DexTrolley Pulling System
+DexTrolley is an innovative product which allows
+complete control of cable drum dispensing, because
+of its effective braking system. DexTrolley prevents
+unnecessary cable uncoiling, therefore making it a
+risk preventative product, whilst being compact and
+mobile.
+28-Mar-24
+CODE 7.1.1
+CODE 7.1.2
+CODE 7.1.3
+CODE 7.1.4
+CODE 7.1.5
+CODE 7.1.6
+i 7. Tools and Equipment
+FibreFox Fusion Splicer Mini12R+
+Fiber Fox MINI 12R is the Smallest and the lightest ribbon fiber
+fusion splicer with guaranteed stability and splicing performance.
+The mini 12R is MPO SOC compatible, heats up in just 20 seconds,
+and can splice single mode fiber cable in just 15 seconds all while
+being controlled by a full touch screen pad.
+FibreFox Fusion Splicer Mini 22a
+Brief The Mini 22A active alignment splicer with it's innovative
+design and improved technology greatly reduces splicing and
+heating time.
+FibreFox Fusion Splicer Mini5C+
+Mini 5C+ fusion splicer with digital zoom and DCID (Digitalised
+Core Image Detecting) system from FiberFox. The Mini 5C+ has
+an average 0.02 dB splicing loss and 6 seconds fast performance.
+In addition, it can heat shrink a splice protector sleeve in 10
+seconds from room temperature and in 6 seconds with
+continuous heating. It also uses two batteries lasting 600 cycles
+of splicing and sleeve heating. Furthermore, FiberFox Mini 5C+
+has LED lighting, a tempered glass touch screen, and it is
+compatible with SOC (splice on connectors.
+FiberFox Fusion Splicer
+Mini4S+
+The Mini4S+ comes with all the same excellent
+specifications as other FiberFox Core Alignment Fusion
+Splicers but with extra enhancements so that users
+spend even less time on each termination. This unit is
+still the same compact size for convenient
+transportation and storage and comes with a full range
+of accessories and spares.
+FibreFox Fusion Splicer Mini
+6S+
+The Mini 6S+ comes with all the same excellent
+specifications as other FiberFox Core Alignment Fusion
+Splicers but with extra enhancements so that users spend
+even less time on each termination. This unit is still the
+same compact size for convenient transportation and
+storage and comes with a full range of accessories and
+spares.
+FiberFox Fusion Splicer
+Mini5C+ Compact Splicer
+Mini5C+ includes a larger more durable case, LED lights
+instead of mirrors, auto-rotate screen monitor.
+Redesigned and faster heater (10s for 60mm sleeve) and
+preheat heating mode (6s for 60mm sleeve). Higher
+screen resolution, innovative splice tray holder.
+1. SPLICE MACHINES & CLEAVERS
+28-Mar-24
+CODE 7.1.7
+i 7. Tools and Equipment
+FibreFox Fusion Splicer 100CA+ 4in1
+The Mini 100CA+ 4-in-One Splicer strips, cleaves and splices - all
+in one machine! A core alignment splicer, one-click cleaver and
+auto-stripper all in one.
+1. SPLICE MACHINES & CLEAVERS
+CODE 7.1.8
+CODE 7.1.9
+Fiberfox Fusion Splicer 6S+
+Compact
+The Mini 6S+ comes with all the same excellent specifications as
+other FiberFox Core Alignment Fusion Splicers but with extra
+enhancements so that users spend even less time on each
+termination. This unit is still the same compact size for
+convenient transportation and storage and comes with a full
+range of accessories and spares specifications
+Fibre Optic Cleaver
+•A precision mechanical cleaver which provides a clean, flat
+fibre cut for splicing or connectorising. M u l tiple models/designs
+av ai lable: Purpose is to provide the customer with solutions at
+multiple price points
+•Ap p licable Fibre: 250μm; 900μm; 2mm; 3mm
+•Cl eaving length: multiple
+•Cl eaving Angle: 0.5 Degrees (typical)
+•Bl ade life: up to 50,000 cleaves
+•D i mensions and Weight: multiple options available
+Want More Information?
+Our sales team would be happy to
+discuss product solutions with you!
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+28-Mar-24
+CODE 7.2.1
+7. Tools and Equipment
+One Click Cleaner
+High-performance pen In-adapter ferrule cleaner.
+•1.25mm and 2.5mm tips are available
+The cleaner is dry cloth cleaner specially designed to
+clean single fibre connectors in an adapter, faceplate or
+bulkhead
+•The dust cap of the cleaner acts as an adapter for
+cleaning unmated connectors
+•Disposable with 800 cleanings per unit, made from
+antistatic resins
+•Easy pushing motion engages connector and initiates
+cleaner
+•Extendable tip reaches recessed connectors
+FTTH Technician
+Technician's kit, complete with fibre strippers, Kevlar
+scissors, fibre cleaner and all the tools required for FTTH
+deployment.
+•Kit Contents:1 x Tri-Hole Fiber optic stripper TFS-392
+•1 x KEVLAR Scissor KC-1
+•1 x 6” Side Cut Pliers 130mm
+•1 x Ideal 45-163 Blue Buffer Tube Stripper
+•1 x Optical Fiber Precision Cleaver FC-6S w/Bin attached
+•1 x PON Power Meter , 1310/1490/1550nm
+•1 x Visual Fault Locator VFL-10S
+•1 x 2.5mm One-Click Cleaner SC/FC/ST
+•1 x 1.25mm One-Click Cleaner LC/MU
+•1 x Optical Cassette Cleaner NEOCLEAN-N
+•1 x FBT Fiber Optic Cleaning Cube,120 wipes
+•1 x 250ml Twist-Lock Automatic Alcohol Dispensing
+Bottle
+•1 x Fiber Optic Disposal Unit
+•1 x Precision Steel tweezers
+•1 x Black Marker
+•1 x Deluxe Carrying Tool Case (370×265×138mm)
+2. CLEANING EQUIPMENT
+CODE 7.2.2
+CODE 7.2.3
+CODE 7.2.4
+CODE 7.2.5
+Cleaning Wipes - Fibre
+Optic Cleaning Wipe
+Cleaning Pen - MPO Cleaner
+Fibre Connector Cleaner
+Cassette
+• Wood pulp and polyester.
+• Wave pattern and teeth pattern.
+• Virtually no lint.
+• Effective on a variety of contaminates including dust
+and oils.
+• Integrability with FOCIS-5 (MPO).
+• Capable of cleaning ferrules with or without guide
+pins.
+• Capable of cleaning MPO ferrules inside or outside an
+MPO adapter.
+• Narrow design reaches tightly spaced MPO adapters.
+• Easy one-handed operation.
+• Up to 500 clicks.
+• Directly clean without any liquid.
+• Each unit cleans more than 500 times.
+• Can clean the connector SC,SC2,FC,
+ST,DIN,D4,MU,LC,MT.
+• Low cost and high quality of cleaning material,
+economical and practical.
+• Size: 12.5cm x 6.5cm, weight: 100g
+• Humidity: 20% to 80% R.H
+• Preservation temperature 4oC to 60oC
+• Preservation temperature 4oC to 60oC
+COPPER CONNECTIVITY
+SECTION THREE
+Electrical Tape
+• Used for cable pressure wrap (air seal),
+blocking flow of epoxy resin into cable and
+sealing external RF coaxial connections.
+Vinyl Non-adhesive Tape
+• E-Z wrap is a tough, thin (3.0mm) elastic
+vinyl material which sticks to itself when
+wrapped in layers.
+• Protects wire groups, splice bundles and
+paper-insulated wire
+Tape Closure Wrapping
+• Used as an overwrap on lead-In closures
+(2pr, 5pr & 10pr) 513/00205).
+• Provides increased protection for buried
+joints or closures in hostile environments.
+COPPER 4. CLOSURES
+CODE CU – CLO - 040
+CODE CU – CLO - 039
+CODE CU – CLO - 041
+COPPER CONNECTIVITY
+SECTION THREE
+8A 2-wire Connector
+• Ov erview: 8A copper cable splice crimp
+connector efficiently splices telephone cable
+conductors without stripping insulation.
+• Capacity: 2-wire connector. Accommodates
+conductors from 0.4mm to 0.9mm. This single-
+wire (discrete) connector can be used to splice
+two wires.
+• Operation: Polypropylene plastic parts are
+resistant to fungi, heat, solvents and stress-
+cracking agents and compatible with metals
+and other materials used in cable
+manufacturing, such as conductor insulation
+and filling compounds.
+• All metal components are resistant to or
+protected against general and localised
+corrosion, including stress corrosion cracking
+and pitting.
+• Gel-filling gives excellent environmental
+protection. It will not produce galvanic corrosion
+effects on other metals present, even in wet or
+humid conditions.
+• Packing Information: Supplied in a box of 500.
+• Features & Benefits: Compact – ideal for cable
+splicing within small closures and housings
+• Durable – excellent environmental protection
+from moisture and contamination
+• Versatile – available in multiple configurations
+(gel-filled, no gel, colour-coded, and more).
+• Application: Cable Splicing - Ideal for
+applications involving aerial, buried and
+underground construction, which are exposed to
+various temperatures, humidity, pollutants and
+craftsman-applied chemicals.
+8A 3-wire Connector
+• Operation: Ideally suited for all types of cable
+splicing, requiring only simple tools and providing
+a small splice bundle. Designed to endure harsh
+climate conditions, the 8B uses a single crimp to
+displace the insulation and provide a cold-solder
+connection, which delivers low contact resistance.
+• Packing Information: Supplied in a box of 250.
+• Capacity: 3-wire connector.
+• M aterial: Polypropylene, colour-coded covers for
+easy identification. Various versions are available.
+Gel-filled.
+• Features & Benefits: Compact
+• Durable
+• Versatile
+• Application: Cable Splicing - Ideal for aerial, buried
+and underground construction applications.
+8C Half Tap Connector
+• Operation: Gel-filled polypropylene half-tap
+connector. Wires are pushed inside the portholes
+of the connector. Manual pre-crimping with an
+approved tool is required prior to crimping to
+ensure a reliable connection.
+• Packing Information: Supplied in a box of 250.
+• Capacity: 2 wire connector. Designed for
+conductors from 0.4 mm to 0.9 mm in diameter,
+with a maximum 2.08 diameter insulation.
+• M aterial: Polypropylene Colour-coded covers for
+easy identification, and various versions are
+available. Gel-filled.
+• Features & Benefits: Compact
+• Durable
+• Versatile
+• Application: Cable Splicing - Ideal for aerial, buried
+and underground construction applications.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 001 CODE CU – CON - 003
+CODE CU – CON - 002
+COPPER CONNECTIVITY
+SECTION THREE
+11A Make-before-break Connector
+• Operation: The 11A is used on working pairs to cut
+out connectors previously in circuit, and a pre-
+crimp facility lets the connector be held in
+position prior to crimping.
+• Two entry ports allow conductors to pass both
+through the connector and in from the sides,
+giving greater flexibility in application.
+• Uses U-type insulation displacement connectors
+(IDCs) and an integral cut-off blade to form a
+connection between two insulated conductors.
+• Capacity: 2 wire connector. Designed for
+conductors from 0.4 mm to 0.9 mm in diameter,
+with a maximum 2.08 diameter insulation.
+• M aterial: Polypropylene colour-coded covers for
+easy identification and various versions available.
+Gel-filled.
+• Packing Information: Supplied in box of 500.
+• Features & Benefits: Make-before-break - Once
+the connector is crimped, electrical contact
+through the contact elements occurs prior to
+wire cut-off and any excess conductor length is
+cut off, leaving an easily accessed and sealable
+test point.
+• Compact
+• Easy to use
+• Application: Cable Splicing
+• Ideal for applications involving aerial, buried and
+underground construction
+• Maintenance
+ECM1B - Subscriber Terminal Block
+System
+• Operation: Highly reliable watertight connection
+module designed to withstand all outside plant
+environments.
+• Highly compact product, applicable in multiple
+applications depending on the customer’s
+requirements.
+• No special tool is required, the user needs to use
+a standard screwdriver to operate.
+• Capacity: Gauge range 0.4 to 1.0mm ø
+• Insulation diameter 5mm max ø
+• M aterial: Housing body: Transparent
+polycarbonate VO glass-fibre reinforced
+polycarbonate.
+• Insertion contacts: Tinned phosphor bronze.
+• Packing Information: Supplied in box of 10.
+• Features & Benefits: Compact
+• Easy to use
+• No special tool required
+• Application: Interface boxes in
+underground/aerial networks.
+• Distribution Points
+• Customer termination devices
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 004 CODE CU – CON - 005
+COPPER CONNECTIVITY
+SECTION THREE
+VX Module - Subscriber Terminal
+Block System
+• Operation: The VX module block system is a
+highly reliable connection module designed to
+withstand any climate.
+• The watertight design provides top-quality
+service for interface boxes of UG and aerial
+networks, distribution points and customer
+termination devices.
+• Ideal for replacing existing worn or damaged
+blocks, as it fits on DIN 25 rails, has compact
+overall dimensions and requires just a standard
+screwdriver to operate.
+• Capacity: Gauge range 0.4 to 1.0mm ø
+• Insulation diameter 5mm max ø
+• M aterial: Housing body: Transparent
+polycarbonate VO glass fibre reinforced
+polycarbonate.
+• Insertion contacts: Tinned phosphor bronze
+• Packing Information: Supplied in box of 10.
+• Features & Benefits: Compact
+• Easy to use
+• No special tool required
+• Application: Interface boxes in
+underground/aerial networks.
+• Distribution Points.
+• Customer Termination Devices.
+BT41 - UY4C Connector
+• Operation: Easy to use tool-less gel-filled
+connector
+• Connectors can be easily opened and reopened
+by hand for visual verification or testing with 6A
+test clips.
+• The UY4C accommodates a wide range of
+conductor diameters in straight-splice and half-
+tap configurations, and the pair-per-connector
+design produces smaller, neater splice bundles.
+• Accessories include 2-way and 3-way cradles
+• Capacity: 2 wires in and 2 wires out. Compatible
+with a maximum insulation diameter of 1.5mm
+and the following ranges of conductor
+diameters: 0.4mm, 0.5mm, 0.63mm, and 0.9mm.
+• M aterial: Body and cover: Polycarbonate
+• Contact: Phosphorous bronze
+• Compound: Gel-filling with superior thermal,
+oxidative and hydrolytic stability.
+• Packing Information: Supplied in box of 100.
+• Features & Benefits: Compact
+• Easy to use
+• Tool-Less
+• Application: Cable Splicing.
+• Connects the line wire and subscriber wire in
+series and makes a parallel connection.
+• Ideally suited to uplift work through any skilled
+engineer replacing legacy connectors, therefore,
+there is minimum disruption to service.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 006 CODE CU – CON - 007
+COPPER CONNECTIVITY
+SECTION THREE
+2A - Drop Wire Connector
+• Operation: Versatile In-Line Full pair drop wire
+connector for splicing different types of drop
+wires.
+• Encapsulated with gel-filling for environmental
+resistance.
+• Designed with pre-crimp feature to hold the
+wires in place before final crimping.
+• Capacity: 2 wire connector. Accepts copper or
+copper-coated steel conductors with diameters
+from 0.9 mm to 1.3 mm.
+• M aterial: Body & Cover: Polycarbonate
+• Contact: Phosphorous Bronze
+• Gel Filling compound: with superior thermal,
+oxidative and hydrolytic stability.
+• Packing Information: Supplied in box of 100.
+• Features & Benefits: Compact
+• Easy to use
+• Durable
+• Application: Aerial connection between 2 solid
+drop wires.
+• It insulates and provides moisture protection to
+the connection
+Cable Splicing Connector Range
+• Operation: Full range of cable splicing
+connectors that can be customized to meet
+many customer applications.
+• Designed and built around proven insulation
+displacement connection (IDC) technology
+• Endures harsh climatic conditions. A single
+crimp displaces the insulation and provides a
+cold solder equivalent connection, delivering
+low contact resistance.
+• Available in different types and versions for all
+splicing applications and solutions. The
+connector covers are colour-coded for easy
+identification.
+• Full range of products with 2 or 3 wires for
+straight, half-tap or bridge splicing.
+• Capacity: Various, depending on customer’s
+requirement.
+• M aterial: Multiple different types can be used
+depending on customer’s requirement. Comes
+with or without gel-filling, as required.
+• Packing Information: Supplied in any box size
+required.
+• Features & Benefits: Full range of products with
+2 or 3 wires for straight, half-tap or bridge
+splicing
+• The 2C and 2P series connectors accept a wide
+copper conductor wire range from 0.32mm to
+0.90mm
+• Application: Cable Splicing.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 008 CODE CU – CON - 009
+COPPER CONNECTIVITY
+SECTION THREE
+UY C
+• Type: Straight Splicing Butt-type
+F e ature: 2 wire, filled connector with
+polycarbonate body.
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.52
+• Insulation Type: PIC, pulp or paper.
+UY P
+• Type: Straight Splicing Butt-type
+F e ature: Similar to UY C, but made of
+polypropylene for solvent resistance. Most
+economical.
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.52
+• Insulation Type: PIC, pulp or paper.
+UY2 P
+• Type: Straight Splicing Butt-type
+F e ature: Full wire range, 2 wire, filled,
+polypropylene connector. Best suited for
+general application.
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08
+• Insulation Type: PIC, pulp or paper.
+UY2 PD
+• Type: Straight Splicing Butt-type
+F e ature: Dry version of UY2 P, for specific
+application. (no sealant filling)
+• C olour Code: White
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: Unfilled PIC, pulp or paper.
+UY2 C
+• Type: Straight Splicing Butt-type
+F e ature: New version of UY2 P made of
+polycarbonate plastic, 2 wire, full wire range
+and filled with sealant
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08
+• Insulation Type: PIC, pulp or paper.
+UR C
+• Type: Bridge/ Straight Splicing.
+F e ature: A 3 wire, filled connector, for straight
+or bridge splicing, made of polycarbonate.
+• C olour Code: Red
+• Wi re size in mm: Conductor 0.32-.7.
+• Insulation O.D max 1.52
+• I nsulation Type: PIC, pulp or paper.
+UR2 P
+• Type: Bridge/ Straight Splicing.
+F e ature: 3 wire, filled, full wire range connector
+made of polypropylene for straight or bridge
+splicing.
+• C olour Code: Red
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: PIC, pulp or paper.
+UR2 PD
+• Type: Bridge/ Straight Splicing.
+F e ature: Dry version of YR2 P, made of
+polypropylene for pressurized joints or specific
+application.
+• C olour Code: White
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: PIC, pulp or paper.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 010
+CODE CU – CON - 011
+CODE CU – CON - 012
+CODE CU – CON - 013
+CODE CU – CON - 010
+CODE CU – CON - 011
+CODE CU – CON - 012
+CODE CU – CON - 013
+COPPER CONNECTIVITY
+SECTION THREE
+UR2 C
+• Type: Bridge/ Straight Splicing.
+Feature: A new version of UR2 P, filled
+connector made of polycarbonate, for special
+application needs.
+• Colour Code: Red
+• Wire size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: PIC, pulp or paper.
+UB C
+• Type: Tap Splicing.
+Feature: Tapping connector with pre-crimp
+feature for transfer without service
+interruption. UB C - filled and UB D is the dry
+version.
+• Colour Code: C-Blue
+• Wire size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.30.
+• Insulation Type: UB C for jelly filled.
+UB D
+• Type: Tap Splicing.
+Feature: Tapping connector with pre-crimp
+feature for transfer without service
+interruption. UB C - filled and UB D is the dry
+version.
+• Colour Code: D-White
+• Wire size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.30.
+• Insulation Type: UB D for paper.
+UB2 P
+• Type: Tap Splicing.
+Feature: Tapping connector made of
+polypropylene similar to UB C, for transfer
+without service interruption. UB C - Filled
+and UB D is dry version.
+• Colour Code: P-Blue
+• Wire size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08mm
+• Insulation Type: UB2 P for jelly filled.
+UB2 PD
+• Type: Tap Splicing.
+Feature: Tapping connector made of
+polypropylene similar to UB C, for transfer
+without service interruption. UB C - Filled
+and UB D is dry version.
+• Colour Code: PD-White
+• Wire size in mm: Conductor 0.32-.9.
+Insulation O.D max 2.08mm
+• Insulation Type: UB2 PD for paper or pulp
+UG C
+• Type: Tap Splicing.
+Feature: The UG C made of polycarbonate
+is filled, tap connector with double contact
+and accepts larger cable diameters.
+• Colour Code: Green
+• Wire size in mm: Conductor 0.32-.9.
+Insulation O.D max 1.7
+• Insulation Type: PIC, pulp or paper.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 018
+CODE CU – CON - 019
+CODE CU – CON - 020 CODE CU – CON - 023
+CODE CU – CON - 022
+CODE CU – CON - 021
+Non-pressurised Heatshrink
+Waterproof rating: IP68 (for UG unpressurised telecom network)
+Cable Entry and Sealing: Entry through sides of closure. Sealing
+achieved via the application of flame to heat shrink material.
+Capacity: Multiple capacities offered - up to 200-pair
+Operation:
+• Heat-shrinkable joint closure
+• Excellent mechanical and environmental protects joints in the
+unpressurised access network: aerial, buried or ducted, non-filled
+or jelly-filled, with polyethylene, lead, steel or aluminium sheaths
+• Metal canister protects the splice bundle.
+F e atures & Benefits A pplication
+Excellent environmental and
+mechanical characteristics
+Pressurised access network -
+aerial, buried and ducted
+applications
+C o de S plice Bundle Diameter
+(D) (mm)
+C able Diameter
+(d) (mm)
+M ax Joint Gap
+(L) (mm)
+S leeve Length
+(S ) (mm)
+43/8-100 43 8 100 345
+43/8-150 43 8 150 400
+43/8-200 43 8 200 450
+43/8-240 43 8 240 445
+43/8-350 43 8 350 600
+43/8-500 43 8 500 755
+55/12-240 55 12 240 450
+75/15-240 75 15 240 495
+75/15-250 75 15 250 505
+75/15-340 75 15 340 590
+75/15-400 75 15 400 650
+75/15-500 75 15 500 710
+75/15-600 75 15 600 860
+92/25-300 92 25 300 665
+92/25-500 92 25 500 830
+92/25-600 92 25 600 985
+122/30-300 122 30 300 680
+122/30-500 122 30 500 860
+122/30-650 122 30 650 1010
+160/42-500 160 42 500 920
+160/42-720 160 42 720 1100
+200/50-500 200 50 500 940
+200/50-720 200 50 720 1120
+COPPER 6. HEATSHRINKS
+Pressurised Heatshrink
+Waterproof Rating: IP68 (for UG pressurised telecom network)
+Cable Entry and Sealing: Entry through sides of closure. Sealing
+achieved via the application of flame to heat shrink material.
+Capacity: Multiple capacities offered
+Operation:
+• High performance heat-shrinkable closure for pressurised
+applications
+• Excellent mechanical and environmental protection of joints in
+the pressurised access network.
+• Suitable for aerial, buried and ducted applications
+• Applicable for polyethylene and metal jacketed cables
+• Pre-installed valve for pressure access and measuring
+• Suitable for use with all standard connector systems
+• Wraparound closure suitable for both maintenance and new
+construction
+• Interchangeable air valve/connector
+M O A pplication
+Excellent environmental and
+mechanical characteristics
+Pressurised access network -
+aerial, buried and ducted
+applications
+Co d e
+S p lice Bundle
+D i ameter
+( D ) (mm)
+Ca b le Diameter
+( d ) (mm)
+M a x Joint Gap
+( L ) (mm)
+S l eeve Length
+( S ) (mm)
+62/15-350 62 15 350 670 52 40 N/A
+62/15-500 62 15 500 850 52 40 N/A
+62/15-350 62 15 650 1000 52 40 N/A
+92/30-500 92 30 350 690 82 70 58
+92/30-650 92 30 500 850 82 70 58
+92/30-350 92 30 650 1000 82 70 58
+122/38-500 122 38 500 80 112 100 88
+122/38-650 122 38 650 1020 112 100 88
+160/55-300 160 55 300 790 142 130 118
+160/55-500 160 55 500 970 142 130 118
+160/55-650 160 55 650 1060 142 130 118
+160/55-720 160 55 720 1150 142 130 118
+160/55-900 160 55 900 1380 142 130 118
+200/65-720 200 65 720 1150 172 160 148
+200/65-720 200 65 900 1380 172 160 148
+02-Out
+03-Out
+Max diameter of Branch Cables
+COPPER 6. HEATSHRINKS
+Heatshrink - Tubular Sleeve
+Waterproof Rating: IP68 submersible
+Sealing Mechanism: Flame applied to heat shrink material
+Capacity: Multiple sizes available for low pair count cable
+Operation: Heatshrink tubular sleeve, air pressure or water block for
+low pair count cable
+F e atures & Benefits A pplication
+Excellent environmental and
+mechanical characteristics
+Pressurised access network -
+aerial, buried and ducted
+applications
+02-Out
+03-Out
+Max diameter of Branch Cables
+Heatshrink – Cap-ended
+Waterproof Rating: IP68 submersible
+Sealing mechanism: Flame applied to heat shrink material
+Capacity: Multiple sizes available
+Operation:
+• Heatshrink end cap available in multiple sizes
+• Can be supplied with / without Schrader valve
+• Used to seal plastic cable ends
+• Thin to medium wall tube
+• Adhesive-lined
+F e atures & Benefits A pplication
+Excellent environmental and
+mechanical characteristics
+Cable sealing
+COPPER 6. HEATSHRINKS
+• Greater than 60% of legacy closures are open to moisture
+• Uneconomic and practically impossible to remove all leaking closures
+• Closure sealant 10B, seals closures quickly and easily
+• We recommend all closures are sealed as standard or on programmed work as basic fundamental
+engineering
+• Dexbond Closure Sealant 10B
+• Dexblock Airlock
+• Cabinet Base Resin
+• Duct Sealant 14B
+• Pole Repair Sealant
+• 9B Fibre Closure Sealant
+P R O D U C T S
+• Trend Reduction in Fault by 20%
+• Stability of the Network
+• No Spikes in Faults during Heavy Rains
+COPPER 7. SEALANT
+CODE CU – SL - 001
+Airblock Compound
+O V E R V I E W
+C l osure
+S e alant A i rblock M o isture
+Bar rier
+P o le/
+C avity
+S e alant
+Sealant
+Type
+Product
+Range
+1) Dexbond
+2) 9B Sealant
+1) Dexblock
+2) PBCS
+3) Vertical
+Cones Airblock
+1) 6C – Resin for
+Sealing the
+Base of
+Cabinets
+1) Pole Sealant
+Purpose
+1) Seal around
+cables
+2) Physical
+barrier for
+components
+housed within
+closure
+3) Cable
+retention
+1) Physical
+block / barrier
+against
+moisture /
+water /
+contamination
+/ air / gases
+2) Can be
+installed
+horizontally or
+vertically
+1) Physical
+block / barrier
+against
+moisture /
+water /
+contamination
+/ air / gases
+2) Can be
+installed
+horizontally or
+vertically
+1) Seal cavities
+to provide
+additional
+structural
+integrity
+2) Prevent
+ingress of
+contamination
+Sealants
+C o de De s cription P r oduct
+CU-SL-002 Used to dispense sealant cartridges
+Caulking
+CU-SL-003 Used to dispense duplex sealant
+cartridges
+Duplex Caulking Gun
+CU-SL-004
+Spare nozzles and accessories for 10B
+sealant to avoid wastage of sealants.
+Multiple application of sealants from
+the same cartridge requires a new
+nozzle
+Nozzle Pack
+Sealant Accessories
+COPPER 7. SEALANT
+Airblock Compound
+• Resin pack 2B is a two-component
+polyurethane compound specially
+formulated to construct horizontal and
+vertical air blocks in pressurised
+telecommunication cables
+Aerial Closure Kit (L)
+• Resin pack 6B is a two-component
+polyurethane compound formulated
+specifically to seal the concrete bases of
+cabinets against moisture ingress and
+other contamination
+Dexbond Joint Closure Sealant
+• Dexbond 10B sealant is a unique
+polyurethane sealant that ensures
+telecommunications joints and cables are
+effectively sealed against the ingress of water
+and water vapor.
+20D Joint Closure Sealant
+• Fast closure sealant 20D is a yellow-coloured
+sealant for the following applications:
+• 1. Repairing by top up sealing of cable ports in
+all sizes of PVC, legacy H/S OJss and
+Dexgreen Neptune closures.
+• 2. New grease cable insertion in all existing
+closures including PVC, legacy H/S OJ and
+Neptune closures where a spare port exists.
+Pole Repair Sealant
+• Varying environmental conditions can
+weaken wooden utility poles over time,
+leading to connection failure and disrupted
+service to customers.
+• Rapid-cure pole resin repair sealant
+strengthens existing poles, avoiding the cost
+of installing replacements
+COPPER 7. SEALANT
+CODE CU – SL - 005
+CODE CU – SL - 006
+CODE CU – SL - 007
+CODE CU – SL - 008
+CODE CU – SL - 009
+• Ov erview: The HT1000 handheld instrument
+offers copper wire provisioning and
+maintenance technicians the most critical tests
+at the touch of a button.
+• One tester for all copper testing
+• Full range of test functions for all appropriate
+copper testing
+• Simple, easy to use for all skill levels
+• Bluetooth module test instrument
+• Test data can be uploaded to a central server via
+a new Mobile application
+D E T A I L S
+• Reliable, Rugged and Versatile: The durable, water
+resistant design, 1/4 VGA LCD screen and powerful
+backlight allow you to work with confidence in any
+environment.
+• Technicians can select up to seven auto tests and
+use the integrated incremental pair test program.
+• The HT1000 offers 200-pair pre-/post-test storage
+and a USB port to download updates and upload
+test result data and uses either AC or DC power.
+• The noise finder uses a 30MHz spectrum analysis.
+• Universal test adapter
+• One test instrument for Quante, Krone
+Modules, and LSA-TL
+• Facilitates ease of testing for technicians
+• Competitively priced
+COPPER 8. TEST EQUIPMENT
+CODE CU – TE -001
+HT1000 Copper Wire Analyser
+U N I V E R S A L T E S T A D A P T E R
+O P E R A T I O N
+D E S C R I P T I O N F E A T U R E S A N D B E N E F I T S
+SmartSwitch
+• The SmartSwitch Test Adapter can be used with any test, measure or fault
+location instrument that is fitted with suitably protected 4mm, male banana
+plugs that will not exceed the specifications of the SmartSwitch’s range of
+test leads.
+Mimtel Tester
+• The Mimtel 444B device provides a simple
+audio output when detecting
+electromagnetic signals, which can cause
+interference to communications services
+HT1000 Copper Wire Analyser
+• The HT1000 handheld instrument offers
+copper wire provisioning and maintenance
+technicians the most critical tests at the
+touch of a button.
+• Line Access, non-interrupting, Monitoring
+• Access to the Exchange side by simple switching, without changing lead
+connections
+• Access to the Customer side by simple switching, without changing lead
+connections
+• Access to both the Exchange and Customer individually at the same time by
+simple
+• switching, without changing lead connections
+• Safety of the operator from non-standard, dangerous voltages on the line
+COPPER 8. TEST EQUIPMENT
+CODE CU – TE – 001
+CODE CU – TE – 002 CODE CU – TE – 003
+Duct Plugs
+• Ov erview: Prevents air/water ingress
+entering 2-pair duct from joint boxes,
+which can cause corrosion of the NT
+(sockets).
+• M ultiple Sizes Available: Duct plug available
+in 25mm; 28mm; 32mm and 37mm in
+packs of 10
+Roll Springs
+• Ov erview: Constant pressure roll springs
+can be supplied in a range of sizes
+specifically designed to meet the demands
+of the cable jointing industry
+Lined Mesh
+• Used for earthing on tower structures of
+antenna feeder cables
+PF Wipes
+• Ov erview: PF solvent is a full strength
+solvent de-greasing agent for cable
+cleaning prior to jointing, maintenance of
+cables, switchgear, network equipment
+and electrical equipment cleaning and de-
+greasing.
+Absorber pole
+• O verview: Simple and cost-effective solution to
+remove humidity from cabinets
+• Maintaining the cabinet moisture free is very
+Important, using silica gel is not always
+practical
+Fibre Rope
+• Product: PP Fibre Rope
+• Colour: Blue (with white mark)
+• Construction: 3 strands
+• Composition:
+• Polyethylene (PP/PEHD)
+• UV Inhibitor
+• Colour master batch
+D EX-PPR-04 D EX-PPR-08 DEX-PPR-12 DEX-PPR-16
+Diameter 4mm 8mm 12mm 16mm
+P roduct Information
+Weight/ coil (kg) 1.43 7.4 12 20.5
+Length/ coil (m) 220 220 220 220
+T e chnical Information
+Characteristics Value Value Value Value
+Linear Density
+(gram/ m)
+6.5 33.6 54.5 93.2
+Tensile Strength
+(kN)
+2.8 10 22 38
+Further Information
+This product is produced and tested according to European standards EN ISO 1345-fibre ropes-PP split
+film, mono-filament and multi-filament (PP2) and polypropylene high-density multi-filament (PP3) - 3, 4
+and 8 strand ropes.
+COPPER 9. MISCELLANEOUS
+CODE CU – MISC - 001
+CODE CU – MISC - 002
+CODE CU – MISC - 003
+CODE CU – MISC - 004
+CODE CU – MISC - 005
+COPPER CONNECTIVITY
+SECTION THREE
+Electrical Tape
+• Used for cable pressure wrap (air seal),
+blocking flow of epoxy resin into cable and
+sealing external RF coaxial connections.
+Vinyl Non-adhesive Tape
+• E-Z wrap is a tough, thin (3.0mm) elastic
+vinyl material which sticks to itself when
+wrapped in layers.
+• Protects wire groups, splice bundles and
+paper-insulated wire
+Tape Closure Wrapping
+• Used as an overwrap on lead-In closures
+(2pr, 5pr & 10pr) 513/00205).
+• Provides increased protection for buried
+joints or closures in hostile environments.
+COPPER 4. CLOSURES
+CODE CU – CLO - 040
+CODE CU – CLO - 039
+CODE CU – CLO - 041
+COPPER CONNECTIVITY
+SECTION THREE
+8A 2-wire Connector
+• Ov erview: 8A copper cable splice crimp
+connector efficiently splices telephone cable
+conductors without stripping insulation.
+• Capacity: 2-wire connector. Accommodates
+conductors from 0.4mm to 0.9mm. This single-
+wire (discrete) connector can be used to splice
+two wires.
+• Operation: Polypropylene plastic parts are
+resistant to fungi, heat, solvents and stress-
+cracking agents and compatible with metals
+and other materials used in cable
+manufacturing, such as conductor insulation
+and filling compounds.
+• All metal components are resistant to or
+protected against general and localised
+corrosion, including stress corrosion cracking
+and pitting.
+• Gel-filling gives excellent environmental
+protection. It will not produce galvanic corrosion
+effects on other metals present, even in wet or
+humid conditions.
+• Packing Information: Supplied in a box of 500.
+• Features & Benefits: Compact – ideal for cable
+splicing within small closures and housings
+• Durable – excellent environmental protection
+from moisture and contamination
+• Versatile – available in multiple configurations
+(gel-filled, no gel, colour-coded, and more).
+• Application: Cable Splicing - Ideal for
+applications involving aerial, buried and
+underground construction, which are exposed to
+various temperatures, humidity, pollutants and
+craftsman-applied chemicals.
+8A 3-wire Connector
+• Operation: Ideally suited for all types of cable
+splicing, requiring only simple tools and providing
+a small splice bundle. Designed to endure harsh
+climate conditions, the 8B uses a single crimp to
+displace the insulation and provide a cold-solder
+connection, which delivers low contact resistance.
+• Packing Information: Supplied in a box of 250.
+• Capacity: 3-wire connector.
+• M aterial: Polypropylene, colour-coded covers for
+easy identification. Various versions are available.
+Gel-filled.
+• Features & Benefits: Compact
+• Durable
+• Versatile
+• Application: Cable Splicing - Ideal for aerial, buried
+and underground construction applications.
+8C Half Tap Connector
+• Operation: Gel-filled polypropylene half-tap
+connector. Wires are pushed inside the portholes
+of the connector. Manual pre-crimping with an
+approved tool is required prior to crimping to
+ensure a reliable connection.
+• Packing Information: Supplied in a box of 250.
+• Capacity: 2 wire connector. Designed for
+conductors from 0.4 mm to 0.9 mm in diameter,
+with a maximum 2.08 diameter insulation.
+• M aterial: Polypropylene Colour-coded covers for
+easy identification, and various versions are
+available. Gel-filled.
+• Features & Benefits: Compact
+• Durable
+• Versatile
+• Application: Cable Splicing - Ideal for aerial, buried
+and underground construction applications.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 001 CODE CU – CON - 003
+CODE CU – CON - 002
+COPPER CONNECTIVITY
+SECTION THREE
+11A Make-before-break Connector
+• Operation: The 11A is used on working pairs to cut
+out connectors previously in circuit, and a pre-
+crimp facility lets the connector be held in
+position prior to crimping.
+• Two entry ports allow conductors to pass both
+through the connector and in from the sides,
+giving greater flexibility in application.
+• Uses U-type insulation displacement connectors
+(IDCs) and an integral cut-off blade to form a
+connection between two insulated conductors.
+• Capacity: 2 wire connector. Designed for
+conductors from 0.4 mm to 0.9 mm in diameter,
+with a maximum 2.08 diameter insulation.
+• M aterial: Polypropylene colour-coded covers for
+easy identification and various versions available.
+Gel-filled.
+• Packing Information: Supplied in box of 500.
+• Features & Benefits: Make-before-break - Once
+the connector is crimped, electrical contact
+through the contact elements occurs prior to
+wire cut-off and any excess conductor length is
+cut off, leaving an easily accessed and sealable
+test point.
+• Compact
+• Easy to use
+• Application: Cable Splicing
+• Ideal for applications involving aerial, buried and
+underground construction
+• Maintenance
+ECM1B - Subscriber Terminal Block
+System
+• Operation: Highly reliable watertight connection
+module designed to withstand all outside plant
+environments.
+• Highly compact product, applicable in multiple
+applications depending on the customer’s
+requirements.
+• No special tool is required, the user needs to use
+a standard screwdriver to operate.
+• Capacity: Gauge range 0.4 to 1.0mm ø
+• Insulation diameter 5mm max ø
+• M aterial: Housing body: Transparent
+polycarbonate VO glass-fibre reinforced
+polycarbonate.
+• Insertion contacts: Tinned phosphor bronze.
+• Packing Information: Supplied in box of 10.
+• Features & Benefits: Compact
+• Easy to use
+• No special tool required
+• Application: Interface boxes in
+underground/aerial networks.
+• Distribution Points
+• Customer termination devices
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 004 CODE CU – CON - 005
+COPPER CONNECTIVITY
+SECTION THREE
+VX Module - Subscriber Terminal
+Block System
+• Operation: The VX module block system is a
+highly reliable connection module designed to
+withstand any climate.
+• The watertight design provides top-quality
+service for interface boxes of UG and aerial
+networks, distribution points and customer
+termination devices.
+• Ideal for replacing existing worn or damaged
+blocks, as it fits on DIN 25 rails, has compact
+overall dimensions and requires just a standard
+screwdriver to operate.
+• Capacity: Gauge range 0.4 to 1.0mm ø
+• Insulation diameter 5mm max ø
+• M aterial: Housing body: Transparent
+polycarbonate VO glass fibre reinforced
+polycarbonate.
+• Insertion contacts: Tinned phosphor bronze
+• Packing Information: Supplied in box of 10.
+• Features & Benefits: Compact
+• Easy to use
+• No special tool required
+• Application: Interface boxes in
+underground/aerial networks.
+• Distribution Points.
+• Customer Termination Devices.
+BT41 - UY4C Connector
+• Operation: Easy to use tool-less gel-filled
+connector
+• Connectors can be easily opened and reopened
+by hand for visual verification or testing with 6A
+test clips.
+• The UY4C accommodates a wide range of
+conductor diameters in straight-splice and half-
+tap configurations, and the pair-per-connector
+design produces smaller, neater splice bundles.
+• Accessories include 2-way and 3-way cradles
+• Capacity: 2 wires in and 2 wires out. Compatible
+with a maximum insulation diameter of 1.5mm
+and the following ranges of conductor
+diameters: 0.4mm, 0.5mm, 0.63mm, and 0.9mm.
+• M aterial: Body and cover: Polycarbonate
+• Contact: Phosphorous bronze
+• Compound: Gel-filling with superior thermal,
+oxidative and hydrolytic stability.
+• Packing Information: Supplied in box of 100.
+• Features & Benefits: Compact
+• Easy to use
+• Tool-Less
+• Application: Cable Splicing.
+• Connects the line wire and subscriber wire in
+series and makes a parallel connection.
+• Ideally suited to uplift work through any skilled
+engineer replacing legacy connectors, therefore,
+there is minimum disruption to service.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 006 CODE CU – CON - 007
+COPPER CONNECTIVITY
+SECTION THREE
+2A - Drop Wire Connector
+• Operation: Versatile In-Line Full pair drop wire
+connector for splicing different types of drop
+wires.
+• Encapsulated with gel-filling for environmental
+resistance.
+• Designed with pre-crimp feature to hold the
+wires in place before final crimping.
+• Capacity: 2 wire connector. Accepts copper or
+copper-coated steel conductors with diameters
+from 0.9 mm to 1.3 mm.
+• M aterial: Body & Cover: Polycarbonate
+• Contact: Phosphorous Bronze
+• Gel Filling compound: with superior thermal,
+oxidative and hydrolytic stability.
+• Packing Information: Supplied in box of 100.
+• Features & Benefits: Compact
+• Easy to use
+• Durable
+• Application: Aerial connection between 2 solid
+drop wires.
+• It insulates and provides moisture protection to
+the connection
+Cable Splicing Connector Range
+• Operation: Full range of cable splicing
+connectors that can be customized to meet
+many customer applications.
+• Designed and built around proven insulation
+displacement connection (IDC) technology
+• Endures harsh climatic conditions. A single
+crimp displaces the insulation and provides a
+cold solder equivalent connection, delivering
+low contact resistance.
+• Available in different types and versions for all
+splicing applications and solutions. The
+connector covers are colour-coded for easy
+identification.
+• Full range of products with 2 or 3 wires for
+straight, half-tap or bridge splicing.
+• Capacity: Various, depending on customer’s
+requirement.
+• M aterial: Multiple different types can be used
+depending on customer’s requirement. Comes
+with or without gel-filling, as required.
+• Packing Information: Supplied in any box size
+required.
+• Features & Benefits: Full range of products with
+2 or 3 wires for straight, half-tap or bridge
+splicing
+• The 2C and 2P series connectors accept a wide
+copper conductor wire range from 0.32mm to
+0.90mm
+• Application: Cable Splicing.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 008 CODE CU – CON - 009
+COPPER CONNECTIVITY
+SECTION THREE
+UY C
+• Type: Straight Splicing Butt-type
+F e ature: 2 wire, filled connector with
+polycarbonate body.
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.52
+• Insulation Type: PIC, pulp or paper.
+UY P
+• Type: Straight Splicing Butt-type
+F e ature: Similar to UY C, but made of
+polypropylene for solvent resistance. Most
+economical.
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.52
+• Insulation Type: PIC, pulp or paper.
+UY2 P
+• Type: Straight Splicing Butt-type
+F e ature: Full wire range, 2 wire, filled,
+polypropylene connector. Best suited for
+general application.
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08
+• Insulation Type: PIC, pulp or paper.
+UY2 PD
+• Type: Straight Splicing Butt-type
+F e ature: Dry version of UY2 P, for specific
+application. (no sealant filling)
+• C olour Code: White
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: Unfilled PIC, pulp or paper.
+UY2 C
+• Type: Straight Splicing Butt-type
+F e ature: New version of UY2 P made of
+polycarbonate plastic, 2 wire, full wire range
+and filled with sealant
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08
+• Insulation Type: PIC, pulp or paper.
+UR C
+• Type: Bridge/ Straight Splicing.
+F e ature: A 3 wire, filled connector, for straight
+or bridge splicing, made of polycarbonate.
+• C olour Code: Red
+• Wi re size in mm: Conductor 0.32-.7.
+• Insulation O.D max 1.52
+• I nsulation Type: PIC, pulp or paper.
+UR2 P
+• Type: Bridge/ Straight Splicing.
+F e ature: 3 wire, filled, full wire range connector
+made of polypropylene for straight or bridge
+splicing.
+• C olour Code: Red
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: PIC, pulp or paper.
+UR2 PD
+• Type: Bridge/ Straight Splicing.
+F e ature: Dry version of YR2 P, made of
+polypropylene for pressurized joints or specific
+application.
+• C olour Code: White
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: PIC, pulp or paper.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 010
+CODE CU – CON - 011
+CODE CU – CON - 012
+CODE CU – CON - 013
+CODE CU – CON - 010
+CODE CU – CON - 011
+CODE CU – CON - 012
+CODE CU – CON - 013
+COPPER CONNECTIVITY
+SECTION THREE
+UR2 C
+• Type: Bridge/ Straight Splicing.
+Feature: A new version of UR2 P, filled
+connector made of polycarbonate, for special
+application needs.
+• Colour Code: Red
+• Wire size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: PIC, pulp or paper.
+UB C
+• Type: Tap Splicing.
+Feature: Tapping connector with pre-crimp
+feature for transfer without service
+interruption. UB C - filled and UB D is the dry
+version.
+• Colour Code: C-Blue
+• Wire size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.30.
+• Insulation Type: UB C for jelly filled.
+UB D
+• Type: Tap Splicing.
+Feature: Tapping connector with pre-crimp
+feature for transfer without service
+interruption. UB C - filled and UB D is the dry
+version.
+• Colour Code: D-White
+• Wire size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.30.
+• Insulation Type: UB D for paper.
+UB2 P
+• Type: Tap Splicing.
+Feature: Tapping connector made of
+polypropylene similar to UB C, for transfer
+without service interruption. UB C - Filled
+and UB D is dry version.
+• Colour Code: P-Blue
+• Wire size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08mm
+• Insulation Type: UB2 P for jelly filled.
+UB2 PD
+• Type: Tap Splicing.
+Feature: Tapping connector made of
+polypropylene similar to UB C, for transfer
+without service interruption. UB C - Filled
+and UB D is dry version.
+• Colour Code: PD-White
+• Wire size in mm: Conductor 0.32-.9.
+Insulation O.D max 2.08mm
+• Insulation Type: UB2 PD for paper or pulp
+UG C
+• Type: Tap Splicing.
+Feature: The UG C made of polycarbonate
+is filled, tap connector with double contact
+and accepts larger cable diameters.
+• Colour Code: Green
+• Wire size in mm: Conductor 0.32-.9.
+Insulation O.D max 1.7
+• Insulation Type: PIC, pulp or paper.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 018
+CODE CU – CON - 019
+CODE CU – CON - 020 CODE CU – CON - 023
+CODE CU – CON - 022
+CODE CU – CON - 021
+Non-pressurised Heatshrink
+Waterproof rating: IP68 (for UG unpressurised telecom network)
+Cable Entry and Sealing: Entry through sides of closure. Sealing
+achieved via the application of flame to heat shrink material.
+Capacity: Multiple capacities offered - up to 200-pair
+Operation:
+• Heat-shrinkable joint closure
+• Excellent mechanical and environmental protects joints in the
+unpressurised access network: aerial, buried or ducted, non-filled
+or jelly-filled, with polyethylene, lead, steel or aluminium sheaths
+• Metal canister protects the splice bundle.
+F e atures & Benefits A pplication
+Excellent environmental and
+mechanical characteristics
+Pressurised access network -
+aerial, buried and ducted
+applications
+C o de S plice Bundle Diameter
+(D) (mm)
+C able Diameter
+(d) (mm)
+M ax Joint Gap
+(L) (mm)
+S leeve Length
+(S ) (mm)
+43/8-100 43 8 100 345
+43/8-150 43 8 150 400
+43/8-200 43 8 200 450
+43/8-240 43 8 240 445
+43/8-350 43 8 350 600
+43/8-500 43 8 500 755
+55/12-240 55 12 240 450
+75/15-240 75 15 240 495
+75/15-250 75 15 250 505
+75/15-340 75 15 340 590
+75/15-400 75 15 400 650
+75/15-500 75 15 500 710
+75/15-600 75 15 600 860
+92/25-300 92 25 300 665
+92/25-500 92 25 500 830
+92/25-600 92 25 600 985
+122/30-300 122 30 300 680
+122/30-500 122 30 500 860
+122/30-650 122 30 650 1010
+160/42-500 160 42 500 920
+160/42-720 160 42 720 1100
+200/50-500 200 50 500 940
+200/50-720 200 50 720 1120
+COPPER 6. HEATSHRINKS
+Pressurised Heatshrink
+Waterproof Rating: IP68 (for UG pressurised telecom network)
+Cable Entry and Sealing: Entry through sides of closure. Sealing
+achieved via the application of flame to heat shrink material.
+Capacity: Multiple capacities offered
+Operation:
+• High performance heat-shrinkable closure for pressurised
+applications
+• Excellent mechanical and environmental protection of joints in
+the pressurised access network.
+• Suitable for aerial, buried and ducted applications
+• Applicable for polyethylene and metal jacketed cables
+• Pre-installed valve for pressure access and measuring
+• Suitable for use with all standard connector systems
+• Wraparound closure suitable for both maintenance and new
+construction
+• Interchangeable air valve/connector
+M O A pplication
+Excellent environmental and
+mechanical characteristics
+Pressurised access network -
+aerial, buried and ducted
+applications
+Co d e
+S p lice Bundle
+D i ameter
+( D ) (mm)
+Ca b le Diameter
+( d ) (mm)
+M a x Joint Gap
+( L ) (mm)
+S l eeve Length
+( S ) (mm)
+62/15-350 62 15 350 670 52 40 N/A
+62/15-500 62 15 500 850 52 40 N/A
+62/15-350 62 15 650 1000 52 40 N/A
+92/30-500 92 30 350 690 82 70 58
+92/30-650 92 30 500 850 82 70 58
+92/30-350 92 30 650 1000 82 70 58
+122/38-500 122 38 500 80 112 100 88
+122/38-650 122 38 650 1020 112 100 88
+160/55-300 160 55 300 790 142 130 118
+160/55-500 160 55 500 970 142 130 118
+160/55-650 160 55 650 1060 142 130 118
+160/55-720 160 55 720 1150 142 130 118
+160/55-900 160 55 900 1380 142 130 118
+200/65-720 200 65 720 1150 172 160 148
+200/65-720 200 65 900 1380 172 160 148
+02-Out
+03-Out
+Max diameter of Branch Cables
+COPPER 6. HEATSHRINKS
+Heatshrink - Tubular Sleeve
+Waterproof Rating: IP68 submersible
+Sealing Mechanism: Flame applied to heat shrink material
+Capacity: Multiple sizes available for low pair count cable
+Operation: Heatshrink tubular sleeve, air pressure or water block for
+low pair count cable
+F e atures & Benefits A pplication
+Excellent environmental and
+mechanical characteristics
+Pressurised access network -
+aerial, buried and ducted
+applications
+02-Out
+03-Out
+Max diameter of Branch Cables
+Heatshrink – Cap-ended
+Waterproof Rating: IP68 submersible
+Sealing mechanism: Flame applied to heat shrink material
+Capacity: Multiple sizes available
+Operation:
+• Heatshrink end cap available in multiple sizes
+• Can be supplied with / without Schrader valve
+• Used to seal plastic cable ends
+• Thin to medium wall tube
+• Adhesive-lined
+F e atures & Benefits A pplication
+Excellent environmental and
+mechanical characteristics
+Cable sealing
+COPPER 6. HEATSHRINKS
+• Greater than 60% of legacy closures are open to moisture
+• Uneconomic and practically impossible to remove all leaking closures
+• Closure sealant 10B, seals closures quickly and easily
+• We recommend all closures are sealed as standard or on programmed work as basic fundamental
+engineering
+• Dexbond Closure Sealant 10B
+• Dexblock Airlock
+• Cabinet Base Resin
+• Duct Sealant 14B
+• Pole Repair Sealant
+• 9B Fibre Closure Sealant
+P R O D U C T S
+• Trend Reduction in Fault by 20%
+• Stability of the Network
+• No Spikes in Faults during Heavy Rains
+COPPER 7. SEALANT
+CODE CU – SL - 001
+Airblock Compound
+O V E R V I E W
+C l osure
+S e alant A i rblock M o isture
+Bar rier
+P o le/
+C avity
+S e alant
+Sealant
+Type
+Product
+Range
+1) Dexbond
+2) 9B Sealant
+1) Dexblock
+2) PBCS
+3) Vertical
+Cones Airblock
+1) 6C – Resin for
+Sealing the
+Base of
+Cabinets
+1) Pole Sealant
+Purpose
+1) Seal around
+cables
+2) Physical
+barrier for
+components
+housed within
+closure
+3) Cable
+retention
+1) Physical
+block / barrier
+against
+moisture /
+water /
+contamination
+/ air / gases
+2) Can be
+installed
+horizontally or
+vertically
+1) Physical
+block / barrier
+against
+moisture /
+water /
+contamination
+/ air / gases
+2) Can be
+installed
+horizontally or
+vertically
+1) Seal cavities
+to provide
+additional
+structural
+integrity
+2) Prevent
+ingress of
+contamination
+Sealants
+C o de De s cription P r oduct
+CU-SL-002 Used to dispense sealant cartridges
+Caulking
+CU-SL-003 Used to dispense duplex sealant
+cartridges
+Duplex Caulking Gun
+CU-SL-004
+Spare nozzles and accessories for 10B
+sealant to avoid wastage of sealants.
+Multiple application of sealants from
+the same cartridge requires a new
+nozzle
+Nozzle Pack
+Sealant Accessories
+COPPER 7. SEALANT
+Airblock Compound
+• Resin pack 2B is a two-component
+polyurethane compound specially
+formulated to construct horizontal and
+vertical air blocks in pressurised
+telecommunication cables
+Aerial Closure Kit (L)
+• Resin pack 6B is a two-component
+polyurethane compound formulated
+specifically to seal the concrete bases of
+cabinets against moisture ingress and
+other contamination
+Dexbond Joint Closure Sealant
+• Dexbond 10B sealant is a unique
+polyurethane sealant that ensures
+telecommunications joints and cables are
+effectively sealed against the ingress of water
+and water vapor.
+20D Joint Closure Sealant
+• Fast closure sealant 20D is a yellow-coloured
+sealant for the following applications:
+• 1. Repairing by top up sealing of cable ports in
+all sizes of PVC, legacy H/S OJss and
+Dexgreen Neptune closures.
+• 2. New grease cable insertion in all existing
+closures including PVC, legacy H/S OJ and
+Neptune closures where a spare port exists.
+Pole Repair Sealant
+• Varying environmental conditions can
+weaken wooden utility poles over time,
+leading to connection failure and disrupted
+service to customers.
+• Rapid-cure pole resin repair sealant
+strengthens existing poles, avoiding the cost
+of installing replacements
+COPPER 7. SEALANT
+CODE CU – SL - 005
+CODE CU – SL - 006
+CODE CU – SL - 007
+CODE CU – SL - 008
+CODE CU – SL - 009
+• Ov erview: The HT1000 handheld instrument
+offers copper wire provisioning and
+maintenance technicians the most critical tests
+at the touch of a button.
+• One tester for all copper testing
+• Full range of test functions for all appropriate
+copper testing
+• Simple, easy to use for all skill levels
+• Bluetooth module test instrument
+• Test data can be uploaded to a central server via
+a new Mobile application
+D E T A I L S
+• Reliable, Rugged and Versatile: The durable, water
+resistant design, 1/4 VGA LCD screen and powerful
+backlight allow you to work with confidence in any
+environment.
+• Technicians can select up to seven auto tests and
+use the integrated incremental pair test program.
+• The HT1000 offers 200-pair pre-/post-test storage
+and a USB port to download updates and upload
+test result data and uses either AC or DC power.
+• The noise finder uses a 30MHz spectrum analysis.
+• Universal test adapter
+• One test instrument for Quante, Krone
+Modules, and LSA-TL
+• Facilitates ease of testing for technicians
+• Competitively priced
+COPPER 8. TEST EQUIPMENT
+CODE CU – TE -001
+HT1000 Copper Wire Analyser
+U N I V E R S A L T E S T A D A P T E R
+O P E R A T I O N
+D E S C R I P T I O N F E A T U R E S A N D B E N E F I T S
+SmartSwitch
+• The SmartSwitch Test Adapter can be used with any test, measure or fault
+location instrument that is fitted with suitably protected 4mm, male banana
+plugs that will not exceed the specifications of the SmartSwitch’s range of
+test leads.
+Mimtel Tester
+• The Mimtel 444B device provides a simple
+audio output when detecting
+electromagnetic signals, which can cause
+interference to communications services
+HT1000 Copper Wire Analyser
+• The HT1000 handheld instrument offers
+copper wire provisioning and maintenance
+technicians the most critical tests at the
+touch of a button.
+• Line Access, non-interrupting, Monitoring
+• Access to the Exchange side by simple switching, without changing lead
+connections
+• Access to the Customer side by simple switching, without changing lead
+connections
+• Access to both the Exchange and Customer individually at the same time by
+simple
+• switching, without changing lead connections
+• Safety of the operator from non-standard, dangerous voltages on the line
+COPPER 8. TEST EQUIPMENT
+CODE CU – TE – 001
+CODE CU – TE – 002 CODE CU – TE – 003
+Duct Plugs
+• Ov erview: Prevents air/water ingress
+entering 2-pair duct from joint boxes,
+which can cause corrosion of the NT
+(sockets).
+• M ultiple Sizes Available: Duct plug available
+in 25mm; 28mm; 32mm and 37mm in
+packs of 10
+Roll Springs
+• Ov erview: Constant pressure roll springs
+can be supplied in a range of sizes
+specifically designed to meet the demands
+of the cable jointing industry
+Lined Mesh
+• Used for earthing on tower structures of
+antenna feeder cables
+PF Wipes
+• Ov erview: PF solvent is a full strength
+solvent de-greasing agent for cable
+cleaning prior to jointing, maintenance of
+cables, switchgear, network equipment
+and electrical equipment cleaning and de-
+greasing.
+Absorber pole
+• O verview: Simple and cost-effective solution to
+remove humidity from cabinets
+• Maintaining the cabinet moisture free is very
+Important, using silica gel is not always
+practical
+Fibre Rope
+• Product: PP Fibre Rope
+• Colour: Blue (with white mark)
+• Construction: 3 strands
+• Composition:
+• Polyethylene (PP/PEHD)
+• UV Inhibitor
+• Colour master batch
+D EX-PPR-04 D EX-PPR-08 DEX-PPR-12 DEX-PPR-16
+Diameter 4mm 8mm 12mm 16mm
+P roduct Information
+Weight/ coil (kg) 1.43 7.4 12 20.5
+Length/ coil (m) 220 220 220 220
+T e chnical Information
+Characteristics Value Value Value Value
+Linear Density
+(gram/ m)
+6.5 33.6 54.5 93.2
+Tensile Strength
+(kN)
+2.8 10 22 38
+Further Information
+This product is produced and tested according to European standards EN ISO 1345-fibre ropes-PP split
+film, mono-filament and multi-filament (PP2) and polypropylene high-density multi-filament (PP3) - 3, 4
+and 8 strand ropes.
+COPPER 9. MISCELLANEOUS
+CODE CU – MISC - 001
+CODE CU – MISC - 002
+CODE CU – MISC - 003
+CODE CU – MISC - 004
+CODE CU – MISC - 005
+28-Mar-24
+CODE 7.3.1
+CODE 7.3.2
+CODE 7.3.3
+CODE 7.3.4
+CODE 7.3.5
+CODE 7.3.6
+7. Tools and Equipment
+Fibre Stripper
+Description : Used to strip outer LSZH sheathing from
+distribution / drop cable.
+Midspan Slitter
+Description: Used to strip longitudinal sections of cable, exposing
+fibres for splicing.
+Kevlar Scissors
+Description: Used to cut aramid yarn when exposing fibres from
+cable.
+Fibre Optic Microscope -
+FMS
+• The FSM series fibre microscope utilizes a white
+LED for coaxial illumination.
+• Light is introduced into the optical path (axis) in
+such a way as to strike the sample perpendicular to
+the fibre end-face.
+Fibre Optic Microscope –
+HMS200
+• Optical magnification : 200x
+• Both PC and APC end face inspection
+• Built-in infrared attenuation filter for safety
+and reliability.
+• Momentary on/off switch control.
+• Precise focal length adjustment.
+Fibre Optic Microscope –
+HMS400
+• Optical magnification : 400x
+• Both PC and APC end face inspection
+• Built-in infrared attenuation filter for safety
+and reliability.
+• Momentary on/off switch control.
+• Precise focal length adjustment.
+3. TOOLS
+28-Mar-24
+CODE 7.3.7
+CODE 7.3.8
+CODE 7.3.9
+CODE 7.3.10
+CODE 7.3.11
+CODE 7.3.12
+7. Tools and Equipment
+MILLER FIBRE OPTIC
+INSPECTION MICROSCOPE 200X
+• Achromatic glass lens for excellent image quality.
+• Universal 2.5 mm adapter included which fits almost all ST,
+SC and FC connector ferrules.
+• Integrated laser safety filters (not intended for viewing lit
+fibres).
+MILLER FIBRE OPTIC
+INSPECTION MICROSCOPE 400X
+• Coaxial Illumination by LED light giving up to 100,000 lamp
+hour life and extended battery life.
+• Side illumination port allows back lit inspection of jumpers
+and can be used as a fault finder.
+• Body of durable aluminum comes in soft padded storage
+case.
+STRIPPER - 1 HOLE STRIPPER
+• For stripping 250 micron buffer coating to expose 125
+micron cladded fibre .For stripping 2-3mm fibre jackets.
+• Removal of 250 micron buffer coating from 125 micron fibre.
+• Pre-set at factory - no adjustments needed.
+• Will not scratch or nick glass fibre.
+• All stripping surfaces are manufactured to precise tolerances
+to assure clean, smooth strips.
+• Comfort-grip, ergonomic handles.
+LENGTHWAYS STRIPPER
+• Impact-resistant plastic material
+• Safe and simple handling
+• No risk of injuries
+DROP CABLE STRIPPER
+• Impact resistant plastic material
+• Adjustable slitting depth
+• Double bladed knife made from hardened special
+steel
+STRIPPER - BUFF TUBE
+STRIPPER COAXIAL STRIPPER
+UP TO 1/8 INCH
+• Adjustable blades can be set for any depth to help
+ensure neck-free strips.
+• Use with twisted-pair wire, tightly wrapped stranded
+cables, CATV cable, CB antenna cable, SO, SJ, SJT,
+and other types of flexible power cords.
+• Includes three straight and one round blade.
+3. TOOLS
+28-Mar-24
+CODE 7.3.13
+CODE 7.3.14
+CODE 7.3.15
+CODE 7.3.16
+CODE 7.3.17
+CODE 7.3.18
+7. Tools and Equipment
+STRIPPER - 2 OR3 HOLE FIBRE
+STRIPPER CFS-3
+• For stripping 250 micron buffer coating to expose 125 micron
+cladded fibre.
+• For stripping 2-3mm fibre jackets.
+• Removal of 250 micron buffer coating from 125 micron fibre.
+• Pre-set at the factory - no adjustments needed
+• All stripping surfaces are manufactured to precise tolerances
+to assure clean, smooth strips.
+STRIPPER - COAXIAL STRIPPER,
+1/8 INCH TO 7/32 INCH
+• Adjustable blades can be set for any depth to help ensure
+neck-free strips.
+• Use with twisted-pair wire, tightly wrapped stranded cables,
+CATV cable, CB antenna cable, SO, SJ, SJT, and other types of
+flexible power cords.
+• Includes three straight and one round blade.
+STRIPPER - FOT-103
+• FOT-103 fibre optic 3-way stripper is the ideal tool for
+stripping 125 micron glass fibres with 250 micron buffer
+coating without scratching or nicking the glass fibre.
+• Three-hole model performs all common fibre stripping
+functions in one compact tool.
+• Standard 250 to 125 micron stripping.
+• Remove 900 tight buffer to 250 micron buffer coating.
+• Hole for removal of 2-3 mm fibre jackets.
+ADJUSTABLE WIRE
+STRIPPER AND CUTTER
+• Strips and cuts insulated wire sizes from #22 AWG
+(0.65 mm) to #10 AWG (2.6 mm).
+• Cam adjusts easily to fit wire size.
+• Pressure is against the cam, not on the set screw.
+• Opening spring and closing lock feature.
+• Ideal for all applications.
+• Ground and underground versions available.
+• Soft plastic coated handles.
+MID-SPAN SLITTER
+• Specialized for optical fibre outer jacket mid-span
+cutting.
+• Available for indoor optical fibre.
+• Compact and portable.
+• Easy to operate and handle.
+• 4-5 slots for different diameter cable.
+FIBRE CABLE SLITTER
+• V-opening in blade.
+• Perfect tool for cutting jackets from a variety of fibre
+optic cable.
+• Cables of loose or ribbon.
+• For various size of cable.
+• 10-25mm diameters cables.
+3. TOOLS
+28-Mar-24
+CODE 7.3.19
+CODE 7.3.20
+CODE 7.3.21
+CODE 7.3.22
+CODE 7.3.23
+CODE 7.3.24
+7. Tools and Equipment
+FIBRE OPTIC CABLE SLITTER
+Adjustable blades can be set for any depth to help ensure neck-
+free strips.
+Use with twisted-pair wire, tightly wrapped stranded cables.
+CATV cable, CB antenna cable, SO, SJ, SJT, and other types of
+flexible power cords
+Includes three straight and one round blade.
+400S FIBRE JACKET SLITTER
+• Miller 400 series fibre buffer tube and drop cable slitter.
+• For mid-span and end slitting of fibre buffer tubes and fibre
+drop cable.
+• Different models available matched to the size of buffer
+tube or drop cable to be prepared.
+• Dual-blade design.
+• Self-closing for safety, Latch locks tool closed, Comfortable
+soft plastic grips.
+FIBRE OPTIC DROP CABLE
+SLITTER AND LENGTH BAR
+Designed for fibre optic cable preparation.
+FIBRE OPTIC KEVLAR
+CUTTER
+• Designed to cut Kevlar strength members in fibre
+optic cables.
+• Powerful quick cutting action.
+• Full serrated edge for consistent, fast and clean
+cuts.
+• Lightweight and compact.
+• Return spring designed for precise repeated cuts.
+• Ergonomic handles with cushioned non-slip grips
+• Made of high carbon steel specially treated for long
+life and trouble-free cuts.
+MSAT 16 MID-SPAN ACCESS
+TOOL
+RBT Tool
+3. TOOLS
+28-Mar-24
+CODE 7.3.25
+CODE 7.3.26
+CODE 7.3.27
+CODE 7.3.28
+CODE 7.3.29
+CODE 7.3.30
+7. Tools and Equipment
+CB 276A (FOR AJS)
+FS600 FIBRE-SAFE LEXAN
+POLISHING PLATE
+FS100 FIBRE-SAFE POLISHING
+MAT
+FS300 FIBRE-SAFE
+SAFETY GLASSES
+RATCHETING FIBRE OPTIC
+CRIMP TOOL
+100 Adjustable Wire Stripper
+& Cutter
+3. TOOLS
+28-Mar-24
+CODE 7.3.31
+CODE 7.3.32
+CODE 7.3.33
+CODE 7.3.34
+CODE 7.3.35
+CODE 7.3.36
+7. Tools and Equipment
+721 MULTI-WIRE
+STRIPPER/CUTTER WITH
+CUSHIONED GRIP AND
+HANDLE LOCK
+RJC RJ STYLE RATCHETING
+CRIMPING TOOL (8P,6P,4P)
+BTC BT/RJ STYLE RATCHETING
+CRIMP TOOL
+CK6 6-1/4" CABLE
+SPLICER'S KNIFE
+CSH96 SPLICER'S TOOLS
+HOLSTER
+R22 SOFTY ROLL MAT -
+22"X180 V (PRICE PER LINEAR
+FT)
+3. TOOLS
+28-Mar-24
+CODE 7.3.37
+CODE 7.3.38
+CODE 7.3.39
+CODE 7.3.40
+CODE 7.3.41
+CODE 7.3.42
+7. Tools and Equipment
+226 TWEEZERS - CARBON
+SERRATED
+231 TWEEZERS - STAINLESS
+SERRATED
+5SA TWEEZERS - STAINLESS
+NEEDLE TIPS
+DSG PRM 587 AS, ANTI-
+STATIC DESOLDERING
+GUN
+REPLACEMENT NOZZLE
+DSG PRM 587 MICRO WITH
+SAFETY SHIELD
+3. TOOLS
+28-Mar-24
+CODE 7.3.43
+CODE 7.3.44
+CODE 7.3.45
+7. Tools and Equipment
+UDT 711-250
+CTX - EX/RG7/RG11
+COMPRESSION TOOL
+CAT Universal
+3. TOOLS
+Want More Information?
+Our sales team would be happy to
+discuss product solutions with you!
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+28-Mar-24
+CODE 7.4.1
+CODE 7.4.2
+CODE 7.4.3
+CODE 7.4.4
+CODE 7.4.5
+CODE 7.4.6
+i 7. Tools and Equipment
+PON Power Meter - Handheld,
+1310/ 1550±20NM, FC PORT
+PON Power Meter - Handheld,
+1310 /1550±20NM, FC/SC/
+ST Interchangeable Port
+PON Power Meter - Handheld,
+850/980/1300/1310/1490/1550nm;
+Measurement range:
+-50+26dBm; FC Port
+PON Power Meter - PON
+Power Meter AOF500, SC/APC
+4. Test Equipment
+• Laser output with high-stability, multi-wavelength and
+single/multi-mode.
+• Large LCD display.
+• Switch button for changing operating wavelength and easy
+to operate.
+• Long working hours.
+• FC port.
+• Laser output with high-stability, multi-wavelength and
+single/multi-mode.
+• Standard FC/SC/ST interchangeable port.
+• Auto power off after 10 minutes without operation.
+• Low battery voltage detection.
+• Adjustable output power.
+• User self-calibration function.
+• Power measurements in dBm or Mw.
+• Auto power off after 10 minutes without operation.
+• FC port.
+• Backlight LCD display for night operation.
+• Providing distinct power values for 1310nm.
+• 1490nm and 1550nm.
+• Pass-through measurement.
+• Simultaneously measure and display of voice, data
+and video signals on different PON architectures.
+• Manual calibration.
+Visual Fault Locator - BML207-1
+Visual Fault Locator BML206-25 –
+VFL
+• Output power: >1mW
+• Dynamic distance: >5 km
+• Support CW and 2Hz modulation work mode
+• Solid design: Use special laser and design to avoid damage
+when dropping on the floor.
+• Stable power output: Use special laser driver circuit, which
+can ensure stable power output in low battery state.
+• 2.5mm universal adapter, can match SC/LC adapters.
+• Output power: >1mW
+• Dynamic distance: >5 km
+• Support CW and 2Hz modulation work mode
+• Solid design: Use special laser and design to avoid damage
+when dropping on the floor
+• Stable power output: Use special laser driver circuit, which
+can ensure stable power output in low battery state.
+• 2.5mm universal adapter, can match SC/LC adapters.
+28-Mar-24
+CODE 7.4.7
+CODE 7.4.8
+CODE 7.4.9
+CODE 7.4.10
+CODE 7.4.11
+CODE 7.4.12
+i 7. Tools and Equipment
+PON Power Meter - FBM430
+PON Power Meter
+SC adapter for BOU350T -
+SC Adapter
+Optical TDR - SM 1310/1550nm,
+Dynamic Range:
+32/30dB, FC/UPC Port
+Optical TDR - OTDR
+4. Test Equipment
+• Provides distinct power values for 1310nm, 1490nm and
+1550nm.
+• Pass-through measurement.
+• Simultaneously measures and display of voice, video, data
+and video signals on different PON architectures.
+• Manual calibration.
+• FC, SC, ST adapters and 2.5mm UPP.
+• Energy save mode.
+• Built in VFL (optional).
+• Reference value storage.
+• 850/1300/1310/1490/1550/1625nm.
+• Accessory for the PON Power Meter BOU350T
+• Quick startup
+• FTTx in-service testing (Up to 1:64 splitter)
+• Built-in PON power meter for triple-play testing
+• High configuration series include optical light source,
+optical power meter, visual fault locator (VFL) and
+optical connector inspector (MCI) modules.
+• Convenient one-button testing.
+• High speed signal processing, less test time and fast
+analysis.
+• Colour TFT LCD.
+• USB port connect to PC.
+• Input optical signal auto detection and self -
+protection.
+• Built-in VFL.
+Light Source - Optical Laser
+Source - BOU350-S3S5
+(1310&1550)
+• 1~3 wavelength outputs from one port.
+• High stabilization, built-in optic isolator.
+• 270, 1000, 2000hz tone.
+• Auto wave ID output.
+• Energy save mode.
+28-Mar-24
+8. ENTERPRISE & INFRASTRUCTURE
+2
+3
+4
+1 TRAFFIC SYSTEMS
+5G SOLUTIONS
+CABINET CONVERSIONS
+REMOTE MONITORING
+5 ENTERPRISE
+1
+2
+3
+4
+5
+28-Mar-24
+CODE 7.1.4
+CODE 7.1.5
+CODE 7.1.6
+8. Enterprise & Infrastructure
+FiberFox Fusion Splicer
+Mini4S+
+The Mini4S+ comes with all the same excellent
+specifications as other FiberFox Core Alignment Fusion
+Splicers but with extra enhancements so that users
+spend even less time on each termination. This unit is
+still the same compact size for convenient
+transportation and storage and comes with a full range
+of accessories and spares.
+FibreFox Fusion Splicer Mini
+6S+
+The Mini 6S+ comes with all the same excellent
+specifications as other FiberFox Core Alignment Fusion
+Splicers but with extra enhancements so that users spend
+even less time on each termination. This unit is still the
+same compact size for convenient transportation and
+storage and comes with a full range of accessories and
+spares.
+FiberFox Fusion Splicer
+Mini5C+ Compact Splicer
+Mini5C+ includes a larger more durable case, LED lights
+instead of mirrors, auto-rotate screen monitor.
+Redesigned and faster heater (10s for 60mm sleeve) and
+preheat heating mode (6s for 60mm sleeve). Higher
+screen resolution, innovative splice tray holder.
+1. TRAFFIC SYSTEMS
+28-Mar-24
+CODE 7.1.4
+CODE 7.1.5
+CODE 7.1.6
+8. Enterprise & Infrastructure
+FiberFox Fusion Splicer
+Mini4S+
+The Mini4S+ comes with all the same excellent
+specifications as other FiberFox Core Alignment Fusion
+Splicers but with extra enhancements so that users
+spend even less time on each termination. This unit is
+still the same compact size for convenient
+transportation and storage and comes with a full range
+of accessories and spares.
+FibreFox Fusion Splicer Mini
+6S+
+The Mini 6S+ comes with all the same excellent
+specifications as other FiberFox Core Alignment Fusion
+Splicers but with extra enhancements so that users spend
+even less time on each termination. This unit is still the
+same compact size for convenient transportation and
+storage and comes with a full range of accessories and
+spares.
+FiberFox Fusion Splicer
+Mini5C+ Compact Splicer
+Mini5C+ includes a larger more durable case, LED lights
+instead of mirrors, auto-rotate screen monitor.
+Redesigned and faster heater (10s for 60mm sleeve) and
+preheat heating mode (6s for 60mm sleeve). Higher
+screen resolution, innovative splice tray holder.
+2. CABINET CONVERSIONS
+28-Mar-24
+CODE 7.1.4
+CODE 7.1.5
+CODE 7.1.6
+FiberFox Fusion Splicer
+Mini4S+
+The Mini4S+ comes with all the same excellent
+specifications as other FiberFox Core Alignment Fusion
+Splicers but with extra enhancements so that users
+spend even less time on each termination. This unit is
+still the same compact size for convenient
+transportation and storage and comes with a full range
+of accessories and spares.
+FibreFox Fusion Splicer Mini
+6S+
+The Mini 6S+ comes with all the same excellent
+specifications as other FiberFox Core Alignment Fusion
+Splicers but with extra enhancements so that users spend
+even less time on each termination. This unit is still the
+same compact size for convenient transportation and
+storage and comes with a full range of accessories and
+spares.
+FiberFox Fusion Splicer
+Mini5C+ Compact Splicer
+Mini5C+ includes a larger more durable case, LED lights
+instead of mirrors, auto-rotate screen monitor.
+Redesigned and faster heater (10s for 60mm sleeve) and
+preheat heating mode (6s for 60mm sleeve). Higher
+screen resolution, innovative splice tray holder.
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+CODE 6.1.1
+CODE 6.1.2
+CODE 6.1.3
+CODE 6.1.4
+CODE 6.1.5
+CODE 6.1.6
+Universal Fibre Shelf - 19-inch 1RU
+The Universal Fibre Shelf is a 19-inch patch
+panel that is 1 rack unit tall. Despite the
+minute footprint 96 fibres are easily patched
+onto and safely routed throughout the panel.
+The panel features a right-sided swinging
+drawer to provide access to LC/APC cradles,
+and the fibre can easily be mapped with the
+acrylic pane along the front.
+Universal Fibre Shelf - Rack
+System - 19-inch 1RU
+Stainless Steel 19-inch rack system allows
+ODF equipment to be mounted into any
+existing or new cabinet. 19-inch 1RU racking
+(tailorable to install requirements – RU
+capacity and overall length).
+Mounting brackets allow 19inch frame to be
+bolted into any existing cabinet solution.
+Integrated strain relief plates for incoming
+and exiting cable can be bolted onto the
+frame with additional brackets
+48 port Telescopic Drawer - 19-inch
+1RU
+The 48f adapter only LCAPC FOPP allows for
+a total of 48 outgoing jumpers. A central
+bend manager allows for overlength storage
+before connecting to the duplex LC/APC
+adapters.
+There are 4 separate grommet locations
+with strain relief points in front of them for
+additional security. The pull tabs allow for
+much easier opening/closing of the tray.
+Internal / External Splice Box
+- up to 288f splice point
+Strain Relief for multiple outgoing
+distribution cables. Facilitates loop storage
+of fibre tubes and routing cable out of
+closure . Fibre tubes are stored before being
+spliced . Fibre tubes are stripped down to
+bare fibres to be spliced . Holds 8 x splitters
+(i.e. 8 x 32 way splitters) . Incoming fibre
+tubes are spliced onto the A-legs of splitters .
+B-legs are routed directly to Distribution
+trays for splicing to distribution cables . Trays
+are colour coded for identification purposes.
+Total splice capacity is 288f (12f/tray @ 24
+trays) . Outgoing cable overlength storage .
+Internal / External 60 port ODF
+A large capacity external ODF suited to MDU
+scenarios. Capable of 60 connectorised
+drops this enclosure is ideal for large
+external MDUs. IP65 - suitable for aerial use
+by mounting directly on to walls/poles.
+• Caters for multiple configurations .
+• Pre-connectorized terminations (LC/APC
+adapters can be installed inside) .
+• Integrated PLC splitters (at multiple split
+ratios) .
+• Adapter: 30 LC Duplex Adapters .
+• Splice: 60 fibres (4 trays @ 24 fibres/tray).
+Internal / External 120 port ODF
+A large capacity external ODF suited to MDU
+scenarios. Capable of 120 connectorised
+drops this enclosure is ideal for large
+external MDUs. IP65 - suitable for aerial use
+by mounting directly on to walls/poles.
+• Caters for multiple configurations .
+• Pre-connectorized terminations (LC/APC
+adapters can be installed inside) .
+• Integrated PLC splitters (at multiple split
+ratios) .
+• Adapter: 60 LC Duplex Adaptors .
+1. BEP - BUILDING ENTRANCE POINT
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+CODE 6.1.7 CODE 6.1.10
+CODE 6.1.8
+CODE 6.1.9
+Universal Fibre Solution
+Universal Fibre Solution is a fully modular, low-footprint
+enclosure that caters for multiple configurations and cable
+sizes, i.e. BFT (Blown Fibre Tubes), splitter (in various counts),
+connectorized and various others according to the Operators’
+requirements.
+The enclosure achieves this via a series of interchangeable entry
+ports and grommets, which make it suitable to receive all cable
+structures in the network at the same time in one compact
+consolidated closure.
+UFS - FTTH Module
+A UFS module designed to allow 12x SC/APC customer
+drops or 24 LC/APC customer drops. The module can be
+installed in any of the 4 module locations.
+The module is compatible with our extended shroud.
+UFS – Splice Through Module
+A UFS module designed to allow 12 cables to exit from any of
+the 4 module locations
+Cables up to 6mm can be fed through the grommets and
+restrained to the module via ziptie
+UFS – 3 Port Module
+A UFS module designed to allow 3 cables to enter the enclosure
+from any of the 4 module locations
+Cables up to 14mm, our proprietary gas blocking cone, and
+ducting can be fed through the grommets.
+Cables can be retrained vi Central Strength Member clamps
+and or via zipties
+CODE 6.1.11
+CODE 6.1.12
+UFS – Ethernet Module
+A UFS module designed to allow 12x SC/UPC customer
+drops or 24 LC/UPC customer drops. The module also
+allows for MPO termination for rapid fibre rollout.
+The module can be installed in any of the 4 module
+locations.
+The module is compatible with our extended shroud.
+UFS – Extended Shroud
+A UFS module designed to manage manifolded corridor
+cable and plug directly into our FTTH & Ethernet
+modules.
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+Compact.
+Modular.
+DexGreen.
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+CODE 6.1.13
+CODE 6.1.14
+CODE 6.1.15
+Ethernet SC/UPC Pigtaills
+Coloured Pigtail : 12 x Pigtail-SC/UPC
+Connectors - SC/UPC (Blue)
+Diameter 0.9mm (12 Nos/Pack)
+Length - 1.6m L(1.5m @ 250um, 0.1m @
+900um). Colour-coded to Openreach
+standard - 1 - Blue; 2 - Orange; 3 - Green; 4 -
+Red; 5 - Grey; 6 -Yellow; 7 - Brown; 8 - Violet;
+9 - Black; 10 - White; 11 - Pink; 12 - Turquoise
+FTTP SC/APC Pigtails
+Coloured Pigtail - 12 x Pigtail-SC/APC
+Connectors - SC/APC (Green)
+Diameter - 0.9mm (12 Nos/Pack)
+Length - 1.6m L(1.5m @ 250um, 0.1m @
+900um). Colour-coded to Openreach
+standard - 1 - Blue; 2 - Orange; 3 - Green; 4 -
+Red; 5 - Grey; 6 -Yellow; 7 - Brown; 8 - Violet;
+9 - Black; 10 - White; 11 - Pink; 12 - Turquoise
+2. BACKBONE FIBRE
+CODE 6.1.16
+Universal Slack Management
+Bracket
+Using a pivoting arm with slots allows 1
+bracket to accommodate all 3 enclosures.
+This reduces material volume (weight and
+cost) and quantity of components required
+for stock holding.
+• Enclosure sits proud to allow cable to
+exit duct .
+• Fits around 30mm ducting .
+• Has a Ducting Extraction Hole .
+• 4x Pivotable mounting arms .
+• Overlength storage (top and bottom).
+UFS – Splice Trays
+A 6 tray mounting plate that attaches inside
+the UFS. Each tray gives 12f splice capacity.
+Trays have individual acrylic sheets for fibre
+protection.
+CODE 6.1.17
+CODE 6.1.18
+Internal / External 144 port ODF
+A large capacity external ODF suited to MDU
+scenarios. Capable of 144 connectorised
+drops this enclosure is ideal for large
+external MDUs.
+• Closure works in a multitude of
+environments and scenarios.
+• IPSS - suitable for aerial use.
+• Front facing lock is hidden by clasp.
+• Polymer Plastic built for the outdoors.
+• 12x Cable Entry Ports system allows for 6
+entries/exits per side.
+• 72 pcs LC duplex adaptors 6x 24F splice
+trays.
+High Density 144f
+splice/patch closure
+• X144 LC/APC overlength with 48f splice
+repair point.
+• Incoming x4 36f LC/APC connectorised
+fantail.
+• MPO Overlength with 48f splice repair
+point.
+• 12x Quads (3 per operator).
+• MPO connector port to outgoing.
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+Multicore Backbone Cable - 12f to 144f
+• FRP strength member
+• Coated FRP
+• Primary coated fibre
+• Loose tubes
+• Dummy Filler elements
+• Ripcords
+• Water Blocking Aramid Yarn
+• Outer Sheathing LSZH
+• Water Blocking Tape
+CODE 6.2.1
+The fibre optic cable components include an FRP Strength Member, providing mechanical support and
+securing the cable, and Coated FRP, which reinforces and achieves the desired geometry for loose tubes.
+The Primary Coated Fibre consists of silica, acrylate-coated, color-coded fibers, and the Loose Tubes have
+thixotropic gel-filled, bend-resistant fibers organized in 12f tubes, easily removable for splicing. Dummy Filler
+Elements are available for empty tubes, and Ripcords aid in longitudinal cable stripping.
+Water Blocking Aramid Yarn offers excellent mechanical characteristics, while the LSZH Outer Sheath comes in
+multiple colors and meets CPR EuroClass CCA-s1b, d2, a2 standards.
+FEATURES
+DESCRIPTION
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+CODE 6.3.1
+Universal Fibre Solution
+Universal Fibre Solution is a fully modular, low-footprint
+enclosure that caters for multiple configurations and cable
+sizes, i.e. BFT (Blown Fibre Tubes), splitter (in various counts),
+connectorized and various others according to the Operators’
+requirements.
+The enclosure achieves this via a series of interchangeable entry
+ports and grommets, which make it suitable to receive all cable
+structures in the network at the same time in one compact
+consolidated closure.
+CODE 6.3.2
+CODE 6.3.3
+Fibre Distribution Point
+The FDP is a versatile solution that supports both MPO and
+SCAPC adaptors. It enables quick deployment of pre-
+connectorized setups for up to 12 customer drops. It can also be
+used for self-patching, serving as a test-point hub between
+distribution cables.
+The FDP's plug-and-play design and customizable cable
+configurations allow for highly tailored fibre distribution
+solutions in MDUs.
+Universal Building Box
+Universal Building Box is a fully modular, low footprint solution
+that caters for multiple configurations, i.e. Splitter (in various
+counts), connectorized.
+The enclosure achieves this via a series of interchangeable entry
+ports and grommets, which make it suitable to receive all cable
+structures in the network at the same time in one compact
+consolidated closure.
+These ports can accommodate a multitude of cables in various
+diameters. These are all supplied with closure as standard.
+Want More Information?
+Our sales team would be happy to
+discuss product solutions with you!
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+CODE 6.4.1
+CODE 6.4.2
+CODE 6.4.3
+CODE 6.4.4
+CODE 6.4.5
+CODE 6.4.6
+Universal Bend Managers
+Innovative installation solution allowing for
+the fast installation of surface mounted
+cables while safely maintaining minimum
+bend radii around corners and bends across
+our cable range (0.9mm, 2mm, 2.9mm). The
+discrete nature of the bend managers allows
+for them to blend in with the setting while
+providing optimal safety and retention
+Nano Cable Clips
+• NanoClip Slot – Allows easy installing for
+NanoClips
+• Simplistic Design – For ease of use
+• Slim Design – Slim, pocket sized tool
+allows for maximum portability
+• Colour – Black
+• Installation Environment – Internal, on
+wall edges and ceilings. To be fitted
+every 300mm along a cable path
+• Dimension – 160mm x 55mm
+Glue / Adhesive Cable Fixing
+DexGreen Glue dispensing tool allows for the
+controlled application of adhesives.
+Cartridges attach to the tool using wide
+flanges ensuring that the cartridge is secure
+inside the dispenser even under constant
+pressure, the force applied to the cartridge
+gives an even and reliable flow of adhesive.
+The dispenser allows for a quick change of
+cartridges.
+Cable Wall Entry Cover
+A considerate fibre routing kit designed to
+be rapidly and discretely installed. Our wall
+mounted solution is ideal for retro-fitting or
+in-the-home routing.
+Cabling Tool
+To aid the transition of cables between both
+internal and external wall, Dexgreen
+manufactures two options of a wall insertion
+tool to suit any install practice.
+The SC-APC connector is clipped onto the
+rear of the assembly and pulled through the
+wall via a 300mm rod.
+SC-APC clips into the rear of the tool. Pulling
+the connector through can ensure that any
+debris or rubble is cleared before the
+connector and cable are pulled over it.
+Discrete 2.0mm (1 - 12f) Cable
+Surface-mounted fiber cable for distribution
+or feeder use with extractable 250µm
+primary coated fibers. Suitable for internal
+wall or riser installations with proper
+conduit/sub-duct for mechanical protection.
+Available in G657A2 or G657B3 fiber types,
+both bending insensitive.
+Aramid yarn provides tensile strength and
+crushing resistance.
+Compatible with DexTidy accessories
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+Durable.
+Discrete.
+DexGreen.
+Discrete
+Excellent Optical
+Performance
+Durable
+CPR Rated
+Internal / External Use
+A2/ B3 Fibre Type &
+1-24f Quantity Options
+2.0mm – 3.0mm Jacket Options
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+CODE 6.4.7
+CODE 6.4.8
+CODE 6.4.9
+CODE 6.4.10
+CODE 6.4.11
+CODE 6.4.12
+Discrete 3.0mm (1 - 24f) Cable
+Surface-mounted fibre cable for distribution
+or feeder use with extractable 250µm
+primary coated fibres. Suitable for internal
+wall or riser installations with proper
+conduit/sub-duct for mechanical protection.
+Available in G657A2 or G657B3 fibre types,
+both bending insensitive.
+The standard length is 1000 meters.
+Flame retardant with CPRB2 cas1ad0 a1
+rating.
+Compatible with DexTidy accessories
+Ruggedised 4.8mm (1 - 12f) cable
+Ruggedized fibre optic cable for internal and
+external environments. Pre-connectorised
+option available with SC/APC connectors.
+Multiple colours available depending on
+Operators’ requirements. Easy fibre
+preparation using standard tools.
+Cable is robust and can be fixed through
+multiple methods without significant
+damage to cable components including no
+evidence of splitting and with no change in
+optical performance.
+Ruggedised Dual Jacket
+5.0mm (1-12f) cable
+Inside/out customer lead-in cable suitable
+for installation within the most challenging
+installation scenarios.
+Cable can be customised further per any
+unique end user requirements; i.e. cable
+jacket colour; properties; fibre count.
+The cable is available connectorised and
+packaged per various end user
+requirements.
+Ruggedised 6.0mm (1 - 12f)
+cable (MPO Cable)
+This cable meets fire safety, water resistance,
+UV stability, and optical performance needs,
+suitable for both indoor and outdoor use. Its
+LSZH materials, water-blocking aramid yarn,
+and MPO connectors emphasize durability,
+easy installation, and lasting efficiency,
+making it versatile and reliable for various
+communication setups.
+Blown Cable (12 - 24f)
+Round profile UG cable containing modular
+tubes @ 12 fibres / tube. The cable is
+designed for Underground (UG) installation
+in telecommunication network
+infrastructures.
+Provides increased mechanical protection
+for modular fibre tubes.
+Provides excellent mechanical performance.
+14/10mm LSZH Duct
+LSZH microducts with low friction are ideal
+for fibre blowing. They have a sheath of LSZH
+material, providing excellent fire
+performance. These lightweight, metal-free,
+and flexible microducts are designed for
+indoor installation.
+Internal Texturing options; - Smooth, Ribbed
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+CODE 6.6.1
+CODE 6.6.2
+CODE 6.6.3
+Dual Jacket - Inside/Outside
+Lead In Cable
+Inside/out customer lead-in cable suitable
+for installation within the most challenging
+installation scenarios.
+Cable can be customised further per any
+unique end user requirements; i.e. cable
+jacket colour; properties; fibre count.
+The cable is available connectorised and
+packaged per various end user
+requirements.
+4.8mm 1F, 2F, 4F, 8F, 12F
+Ruggedised drop cable - 250um
+Ruggedized fibre optic cable for internal and
+external environments. Pre-connectorized
+option available with SC/APC connectors.
+Cable is robust and can be fixed through
+multiple methods without significant
+damage to cable components including no
+evidence of splitting and with no change in
+optical performance.
+3.0mm Drop Cable
+The 3mm Drop Cable is suitable for
+installation with multiple clamps, for
+example; spiral wraps and mandrel clamps
+with excellent performance. Tested under a
+range of environmental conditions and PIA-
+approved. The cable can be tailored to the
+requirements of multiple operators for
+example jacket colour, connectivity
+requirements (i.e. LC/APC, etc).
+CODE 6.6.4
+CODE 6.6.5
+CODE 6.6.6
+4.0mm Drop Cable
+Ruggedized fibre optic cable for internal and
+external environments. Pre-connectorized
+option available with SC/APC connectors.
+Cable is robust and can be fixed through
+multiple methods without significant
+damage to cable components including no
+evidence of splitting and with no change in
+optical performance.
+Round fibre optic cable for internal and
+external environments. Pre-connectorized
+option available with SC/APC & LC/APC
+connectors.
+Cable is robust and can be fixed through
+multiple methods without significant
+damage to cable components including no
+evidence of splitting and with no change in
+optical performance.
+4.8mm 1F Ruggedised drop
+cable - 900um
+Ruggedized fibre optic cable for internal and
+external environments. Pre-connectorized
+option available with SC/APC connectors.
+Cable is robust and can be fixed through
+multiple methods without significant
+damage to cable components including no
+evidence of splitting and with no change in
+optical performance.
+3.0mm LSZH Drop Cable
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+CODE 6.6.7
+CODE 6.6.8
+CODE 6.6.9
+900µm 1f Discrete Drop
+900um round profile drop cable with
+coloured primary coating.
+Cable is compatible with our DexTidy system
+for visually discrete deployment of wall
+mounted fibre .
+Pushable 2x3mm Drop
+Figure-8 profile cable with 900um module in
+centre.
+2x strength members help support the cable
+across longer spans and make for easy
+tearing of outer jacket for connections.
+3.0mm Pushable Drop Cable
+The 3mm Drop Cable is suitable for
+installation with multiple clamps, for
+example; spiral wraps and mandrel clamps
+with excellent performance. Tested under a
+range of environmental conditions and PIA-
+approved. The cable can be tailored to the
+requirements of multiple operators for
+example jacket colour, connectivity
+requirements (i.e. LC/APC, etc).
+Want More Information?
+Our sales team would be happy to
+discuss product solutions with you!
+For datasheets, technical specifications,
+and installation videos, please check out
+our new website at www.dexgreen.com
+Or scan this QR code
+We look forward to discussing
+your fibre requirements
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+Internal CSP – Small
+Customer Service Point
+The small internal CSP is a reversible inline
+enclosure capable of servicing 8 customer
+drops.
+It features a toolless snapfit lid which can be
+installed in two directions.
+It also features a large figure of 8 overlength
+bay, 8x splice capacity cradle and 8 cable
+retaining flaps.
+CODE 6.7.1
+Internal CSP – Medium
+Customer Service Point
+The medium internal CSP is a minimally
+invasive discrete enclosure.
+• Materials – UL94 V-0 25-year life
+expectancy white ABS
+• Dimensions – 85mm x 140mm
+CODE 6.7.2
+Internal CSP – Large
+Customer Service Point
+• Connectivity – 1x SC/APC Adapter
+• Strain Relief – Cable tie points included
+for strain relief
+• Cable Ports – 4 outgoing ports and 1
+incoming port
+• Splicing – 8 x splice protector cradles
+• Removable Lid – Snap fit lid promotes
+ease of install
+• Logo
+• Fibre Optic Symbol – moulded into lid
+CODE 6.7.3
+Type 1 - Standard
+O v erview: Compact termination box that
+houses Huawei EchoLife HG8010H ONT,
+model number.
+In d icative Dimensions:
+215(H)*100(W)*45(D)mm .
+CODE 6.7.4
+Type 2 – Covered Enclosure
+Compact termination box that contains a
+pre-determined length patch cord and a
+large amount of room for slack cable.
+• Materials – White ABS/FR suited for
+internal use.
+• Dimensions – 170(H)*80(W)*50(D)mm.
+CODE 6.7.5
+Type 3 – Large XGS-PON
+Compact termination box that houses
+Huawei ONT.
+Available in 2 options:
+• Option 1 - Includes SC/APC adapter only
+• Option 2 – Includes SC/APC
+connectorized pig tail ready for splicing
+to incoming drop cable
+CODE 6.7.6
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+Tidy.
+Discrete.
+DexGreen.
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+Type 4 – Complete
+Enclosure
+O v erview: Compact fibre termination point
+that allows for large ONT’s to be mounted
+onto the frame.
+In d icative Dimensions:
+1 2 4 (H)*190(W)*50(D)mm .
+Ap p lication: This is a fully enclosed solution
+that safely stores and manages incoming
+fibre cable while discretely storing the ONT
+in the same footprint.
+CODE 6.7.7
+Type 5 – Overlength
+Mount Frame
+O v erview: Compact fibre termination point
+that allows for large ONT’s to be mounted
+onto the frame.
+In d icative Dimensions:
+215(H)*100(W)*45(D)mm .
+Ap p lication: This is a fully enclosed solution
+that safely stores and manages incoming
+fibre cable while discretely storing the ONT
+in the same footprint. This closure allows for
+the option of using pre-connectorized drop
+cable and using a Hardened field connector.
+CODE 6.7.8
+CCR – Customer
+Connect Reel
+O v erview: A dual-terminated fibre spool
+allowing exact length drawing to a customer
+drop point
+In d icative Dimensions: 82x82xs32
+Ap p lication: This is a fully enclosed solution
+that safely stores and manages fibre cable
+from a POE to an ONT or other FWA
+CODE 6.7.9
+FWA- 4f
+• Optical fibre broadband access network,
+FTTH optical fibre and wall type optical
+fibre distribution unit.
+• Versatile 4 port (SC Simplex) FTTH Wall
+box that can be used in a range of
+applications. Typical application is FTTH
+Termination point.
+CODE 6.7.10
+Termination Outlet
+• Dimensions – 105(H)*80(W)*20(D)mm
+• Application – the operator guides
+incoming 4.8mm ruggedized cable into
+the termination outlet before splicing
+onto the pre-installed LC/UPC 1.5m
+pigtails
+• Colour – White ABS Material
+• Specification – 1.5m G657A2 LC/UPC
+Pigtails included in outlet
+CODE 6.7.11
+FWA-86x86mm
+• Dimensions: 86mm (L) x 86mm (W) x
+20mm (H)
+• Locking Mechanism: Plastic clip
+• Capacity: 2 splices and place them in
+designated areas.
+• Cable Entry Ports: 2
+• Adapter Capacity: 2
+CODE 6.7.12
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+RACSS 1 Bay Start of Suite Module L1 Kit
+CODE 1.6.1
+RACSS 2 Bay Start of Suite Module L2 Kit
+CODE 1.6.2
+RACSS 3 Bay Start of Suite Module L3 Kit
+CODE 1.6.3
+RACSS 4 Bay Start of Suite Module L4 Kit
+CODE 1.6.4
+RACSS 5 Bay Start of Suite Module L5 Kit
+CODE 1.6.5
+RACSS 1 Bay Intermediate Module L1 Kit
+CODE 1.6.6
+RACSS 2 Bay Intermediate Module L2 Kit
+CODE 1.6.7
+RACSS 3 Bay Intermediate Module L3 Kit
+CODE 1.6.8
+RACSS 4 Bay Intermediate Module L4 Kit
+CODE 1.6.9
+RACSS 5 Bay Intermediate Module L5 Kit
+CODE 1.6.10
+Raceway Support Bracket
+CODE 1.6.11
+Offset Bracket for Support Bracket
+CODE 1.6.12
+RACSS EARTH BAR KT
+CODE 1.6.13
+RACSS Transverse Bracket/ strut
+kit(incl runway arms)
+CODE 1.6.14
+RACSS Transverse Mid Kit
+CODE 1.6.15
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+RACSS Transverse joint Kit
+CODE 1.6.16
+RACSS DWDM Cabinet support
+Bracket Kit
+CODE 1.6.17
+RACSS Raceway support arm inter
+suite
+CODE 1.6.18
+RACSS Suiteline high level runway kit
+1.8m
+CODE 1.6.19
+RACSS Fiat L joint bracket kit
+CODE 1.6.20
+External upright supports
+CODE 1.6.21
+Island T InterfaceBracket
+CODE 1.6.22
+Clamp Bracket
+CODE 1.6.23
+NGF RACCS Brackets
+CODE 1.6.24
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+VERTICAL TEES
+CODE 1.6.25
+HORIZONTAL ELBOWS
+CODE 1.6.26
+JOINERS
+CODE 1.6.27
+VERTICAL ELBOWS
+CODE 1.6.28
+TUBING
+CODE 1.6.29
+APAPTORS
+CODE 1.6.30
+END CAPS
+CODE 1.6.31
+FIBRE STORAGE LOOPS
+CODE 1.6.32
+STRAIGHT DUCT LENGHTS
+CODE 1.6.33
+REDUCERS
+CODE 1.6.34
+HORIZONTAL TEES
+CODE 1.6.35
+HORIZONTAL CROSSES
+CODE 1.6.36
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+WIRE MESH TRAYS
+CODE 1.7.1
+SUPPORT BAR
+CODE 1.7.2
+CANTILEVER WALL BRACKET
+CODE 1.7.3
+CABINET TOP STAND
+CODE 1.7.4
+RETURNED FLAG BRACKET
+CODE 1.7.5
+FLAG TYPE FLOOR STAND
+CODE 1.7.6
+STRENGHT BAR
+CODE 1.7.7
+SPIDER BRACKET
+CODE 1.7.8
+CABLE GUIDER
+CODE 1.7.9
+RUBBER CAP
+CODE 1.7.10
+FASTENERS / FIXINGS
+CODE 1.7.11
+THREADED ROD
+CODE 1.7.12
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+Wire mesh cable tray, CM50-150-3000-
+5.0-EZ
+CODE 1.7.13
+Wire mesh cable tray, CM50-250-3000-
+5.0- EZ
+CODE 1.7.14
+Wire mesh cable tray, CM50-350-
+3000-5.0- EZ
+CODE 1.7.15
+Wire mesh cable tray, CM50-350-
+3000-5.0- EZ
+CODE 1.7.16
+Wire mesh cable tray, CM100-350-
+3000-5.0-EZ
+CODE 1.7.17
+Wire mesh cable tray, CM100-450-
+3000- 5.0-EZ
+CODE 1.7.18
+Wire mesh cable tray, CM50-75-3000-
+5.0- EZ
+CODE 1.7.19
+Wire mesh cable tray, CM50-450-
+3000-5.0- EZ
+CODE 1.7.20
+ΩBAR,PJ-ΩBR150-EZ
+CODE 1.7.21
+ΩBAR,PJ-ΩBR250-EZ
+CODE 1.7.22
+ΩBAR,PJ-ΩBR350-EZ
+CODE 1.7.23
+ΩBAR,PJ-ΩBR450-EZ
+CODE 1.7.24
+C Channel with KSK.
+Fast fixing for 150mm tray
+CODE 1.7.25
+C Channel with KSK.
+Fast fixing for 250mm tray
+CODE 1.7.26
+C Channel with KSK.
+Fast fixing for 350mm tray
+CODE 1.7.27
+C Channel with KSK.
+Fast fixing for 450mm tray
+CODE 1.7.28
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+THREADED ROD, TY-ROD-M12x1000-
+EZ
+CODE 1.7.29
+TY-ROD-M10x1000-EZ
+CODE 1.7.30
+THREADED ROD, TY- ROD-M10x2000-EZ
+CODE 1.7.31
+WALL BRACKET, PJ- WBK150-EZ
+CODE 1.7.32
+WALL BRACKET, PJ- WBK250-EZ
+CODE 1.7.33
+CANTILEVER WALL BRACKET,PJ-
+CWB350- EZ
+CODE 1.7.34
+CANTILEVER WALL BRACKET,PJ-
+CWB450- EZ
+CODE 1.7.35
+CABINET TOP STAND,PJ-EFS150- EZ- SET
+CODE 1.7.36
+PJ-EFS250-EZ-SET
+CODE 1.7.37
+PJ-EFS350-EZ-SET
+CODE 1.7.38
+PJ-EFS450-EZ-SET
+CODE 1.7.39
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+RETURNED FLAG BRACKET,PJ- RFB150-
+EZ-SET
+CODE 1.7.40
+RETURNED FLAG BRACKET,PJ- RFB250-
+EZ-SET
+CODE 1.7.41
+RETURNED FLAG BRACKET,PJ- RFB350-
+EZ-SET
+CODE 1.7.42
+RETURNED FLAG BRACKET,PJ-
+RFB450- EZ-SET
+CODE 1.7.43
+FLAG TYPE FLOOR STAND,PJ- FFS150-
+EZ- SET
+CODE 1.7.44
+FLAG TYPE FLOOR STAND,PJ-
+FFS250-EZ- SET
+CODE 1.7.45
+FLAG TYPE FLOOR STAND,PJ-
+FFS350-EZ- SET
+CODE 1.7.46
+FLAG TYPE FLOOR STAND,PJ- FFS450-
+EZ- SET
+CODE 1.7.47
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+STRENGTH BAR,PJ- SBR-EZ-SET
+CODE 1.7.48
+CORNER STRENGTH BAR,PJ- CSB-EZ-
+SET
+CODE 1.7.49
+SPIDER BRACKET,PJ- MLK-EZ
+CODE 1.7.50
+SPIDER BRACKET,PJ- SPB-EZ
+CODE 1.7.51
+CABLE GUIDER,PJ-CGD-EZ
+CODE 1.7.52
+Cable Guider -Radius limiter
+B34/120, B34/220, B34/320, B34/422
+CODE 1.7.53
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+RACSS 1 Bay Start of Suit Module L1 Kit
+RUBBER CAP,PJ-CAP- 5.0-PT
+B32 5mm(100)
+CODE 1.7.54
+RUBBER CAP,PJ-CAP- 5.0-PT
+B32 6mm(100)
+CODE 1.7.55
+COUPLER,PJ-KK34-EZ- SET
+CODE 1.7.56
+CUT ANCHOR SET
+CODE 1.7.57
+FLANGE NUT,TY- FBOLT-M8x20-EZ
+CODE 1.7.58
+CODE 1.7.59
+RACSS 1 Bay Start of Suit Module L1 Kit
+CODE 1.7.60
+RACSS 1 Bay Start of Suit Module L1 Kit
+CODE 1.7.61
+RACSS 1 Bay Start of Suit Module L1 Kit
+CODE 1.7.62
+8. Enterprise & Infrastructure 5. ENTERPRISE SOLUTIONS
+28-Mar-24
+28-Mar-24
+Supports
+ARTIFICIAL
+INTELLIGENCE
+AUGMENTED
+REALITY PLANNING
+Elevate your business with real-time self-checks
+on installation quality, automate quality control
+processes, and enhance on-the-job learning. With
+instant feedback and real-world performance
+measurements, our innovative AI tool helps
+installers proactively detect and address errors,
+optimise installation quality, and achieve superior
+results.
+Get it Right the First time with our AR Planning
+Tool! Using this, engineers can install surveys,
+avoid revisits, and get customer approval.
+Experience a new level of installation planning
+with our AR Planning Tool – offering innovative
+features and BOM export capabilities.
+C o p p e r A c c e s s N e t w o r k
+Overview
+COPPER CONNECTIVITY
+SECTION THREE
+C o p p e r A c c e s s N e t w o r k
+Our copper product portfolio ranges from; modules,
+connectors and mechanical gel filled closures to cabinets &
+heat-shrinks.
+Central Office Block
+Duct Sealing System
+E-Side Repair Closures
+Cabinet
+LSA-TL Tool-less Connection Module
+Cabinet Shell-over Solutions
+Legacy Closure Repair Sealants
+Aerial Distribution Pole Solutions
+Gel Closures & Repair Tapes
+NTUs and ETUs
+Key
+1
+2
+3
+4
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+8
+5
+C O P P E R T A B L E O F C O N T E N T S
+1 TOOL-LESS MODULAR CONNECTOR
+CU-LSA-TL (001-023)
+The Ultimate Solution Improving Copper
+Reliability
+2 MODULAR CONNECTOR RANGE
+CU-LSA-MC (001-044)
+10 Pair Disconnection Modules
+3 DISTRIBUTION POINT AND CABLING
+CU-DP (001-013)
+External Distribution Boxes, Domes,
+Equipment and Pre-Terminated Cabling
+Solutions.
+4 CLOSURES
+CU-CLO (001-041)
+Dome, Airblock and accessories
+5 DISCRETE AND MODULAR SPLICING
+CONNECTORS
+CU-CON (001-023)
+Legacy cable splicing connectors
+6 HEATSHRINKS
+CU-HS
+Pressurised and Non-Pressurised Heatshrinks
+7 SEALANTS
+CU-SL (001-009)
+Developed for customer applications to
+suit user environmental conditions
+8 TEST EQUIPMENT
+CU-TE (001-003)
+For all Copper Testing
+9 MISCELLANEOUS
+CU-MISC (001-005)
+Full range of network consumable
+items offered
+XDSL POTS SPLITTER
+CU-xDSL (001-002)
+Full range of xDSL POTS splitters to suit a
+range of requirements for operators
+10
+• Fully tool-less disconnection module with LSA-TL-contacts (45° angle) for connecting plastic-insulated copper
+conductors
+• The tool-less design allows wire termination without special insertion tool
+• Separate test ports to test both ways
+• Silicone Gel encapsulation to provide excellent environmental protection
+• Insulation displacement connection according to IEC 60352-4 and DIN-41-611-6-C-EL-CL
+• Ov erview: Reduces moisture ingress through
+humidity and condensation.
+• Tool-less design reduces fault opportunity.
+• Reduces FTTN intervention fault rates Greatly
+improves jumper management over time.
+• Replaces degraded legacy modules.
+• Protects against extreme weather, high rainfall
+and flooding.
+D E T A I L S
+Climate Area
+• For application in dry or damp rooms with or without condensation
+Temperature range storage/operation: -40 to +80°C (-40 to 176°F)
+M echanical Values for LSA-TL Module
+• Housing parts: PBT-PC
+• Contact material: Special brass, silver-plated
+• Flammability of plastic material: Self-extinguishing, V0 (According to UL94)
+Dimensions: Width: 119.4mm, Height: (effective/nominal) 17.3/17.8mm, Depth: 35.6mm
+Recommended grid dimension in frame: 22.5mm
+Weight incl. gel: .58g
+COPPER 1. TOOL-LESS MODULAR CONNECTOR
+CODE CU – LSATL - 001
+LSA-TL 10 Pair Disconnection Module
+A P P L I C A T I O N
+T E C H . S P E C I F I C A T I O N S
+LSA TL – E side / D side
+• Ov erview: LSA-TL with new jumper rings
+(left and right)
+MOUNTING COLUMN
+• Ov erview: Capable of mounting onto hanging
+back rails of standard cabinets, without
+modifying the existing framework
+• Stainless steel construction. The mounting
+column is free from burrs or sharp edges that
+come into contact with connectors and wires.
+• 300-pair and 400-pair mounting column
+available for installation in traditional telecom
+cabinets.
+• 2 back mount frames are provided per unit
+• B rackets (stability devices) are included with
+the mounting column for connecting to the
+rear of the cabinet. This ensures the mounting
+column does not move during installation or
+maintenance of the connectors. These devices
+do not interfere with the hanging bars or
+jumper field.
+1x100PR Frames and Mount
+Standard Pitch
+• Ov erview: Application is 4x100PR SP.
+Exchange existing back black plastic back
+mount frames for one 100PR Exchange &
+100PR Distribution frame at a time In an
+existing Madison Pillar. Included are 2x
+frames, 1x mount and 2x jubilee clips.
+• Fits inside a standard Madison pillar
+1x150PR Frames & Mount HD
+• Ov erview: Application is 3x150PR HD. Each
+frame can be mounted separately and can
+fit inside the existing 1800 PR pillar
+dimensions. Included are 2x frames, 1x
+mount and 2x jubilee clips.
+• Fits inside a standard Madison pillar.
+1x200PR Frames & Mount HD
+• Ov erview: Application is 3x200PR HD. Each
+frame can be mounted separately and can
+fit inside the existing pillar dimensions.
+Included are 2x frames, 1x mount & 2x
+jubilee clips.
+• Fits inside a standard Madison pillar.
+LSA-TL 5-pair Module
+• Ov erview: Fits into compact spaces.
+• Perfect for maintenance work when
+replacing legacy modules.
+COPPER 1. TOOL-LESS MODULAR CONNECTOR
+CODE CU – LSATL – 002
+CODE CU – LSATL – 003
+CODE CU – LSATL – 004
+CODE CU – LSATL – 005
+CODE CU – LSATL – 006
+CODE CU – LSATL – 007
+1x200PR Frames & Mount HD
+• Ov erview: Application is 4x200PR HD.
+Each frame can be mounted
+separately and can fit inside the
+existing Madison pillar dimensions.
+Included are 2x frames, 1x mount & 2x
+jubilee clips.
+• Fits inside a standard Madison pillar.
+1x 2000PR 2 Door Cabinet and
+Plinth Aluminium
+• Ov erview: 1x aluminium cabinet and plinth
+for “cut over” of legacy Madison Pillar, with
+additional capacity.
+1x 300PR Mount High Density –
+Cabinet
+• Ov erview: Mounting frames to populate max
+capacity of 1200PR in a 1600PR cabinet.
+1x 1600PR 2 Door Cabinet and
+Plinth Aluminium
+• Ov erview: 1x aluminium cabinet and
+plinth for “cut over” of legacy Madison
+Pillar.
+1x 1600PR 2 Door Cabinet and
+Plinth Polyester
+• Ov erview: 1x polyester cabinet and
+plinth for “cut over” of legacy Madison
+Pillar.
+1x 400PR Mount High Density –
+Cabinet
+• Ov erview: Mounting frames to populate max
+capacity of 1600PR in a 1600PR cabinet.
+1x 500PR Mount High Density –
+Cabinet
+• Ov erview: Mounting frames to populate max
+capacity of 2000PR in a 2000PR cabinet.
+COPPER 1. TOOL-LESS MODULAR CONNECTOR
+CODE CU – LSATL – 008
+CODE CU – LSATL – 009
+CODE CU – LSATL – 010
+CODE CU – LSATL – 011
+CODE CU – LSATL – 012
+CODE CU – LSATL – 013
+CODE CU – LSATL – 014
+OUTRIGGER
+• Ov erview: Outrigger fits on back mount
+frame of LSA 237 and 3M SID.
+• Cable guides for defined length and
+accurate wire position.
+• Allows one by one switchover.
+Aerial Distribution Box
+• Ov erview: Dexgreen offers distribution
+point boxes that house LSA-TL modules in
+the overhead access network.
+• Key Features: Bespoke distribution point
+(DP) for 10/20 pair copper twisted pair
+applications only.
+• IP Rating: IP54 rating - standard box_ and
+• IP68 rating - cable gland added for IP68
+rating to accommodate both 10 / 20 pair
+cable diameters.
+TOOL-LESS DESIGNATION KIT
+• Ov erview: Red marking clip - 100 pieces
+• Yellow marking clip - 50 pieces
+• 2 sets of plug number sets
+• 1,2,3-----0, 10,11,12-------19. & 6 sets of
+10,20,30,--------100..
+TOOL-LESS TEST ADAPTER
+• Ov erview: Robust and smart design to
+provide greater number of insertions
+and improve the test facilities.
+• Banana plugs for connecting individual
+testing equipment.
+X1 SMART SWITCH KIT
+• Ov erview: Included are: SmartSwitch and
+multiple test leads; 3M SID C Module,
+Dexgreen LSA-TL, Krone S237, PSTN, 51A,
+tool-less module lead, BIX adapter.
+1x 4mm In-line Socket Adapter
+• Ov erview: Used in conjunction with the
+Adapter Lead.
+COPPER 1. TOOL-LESS MODULAR CONNECTOR
+CODE CU – LSATL – 015
+CODE CU – LSATL – 016
+CODE CU – LSATL – 017
+CODE CU – LSATL – 018
+CODE CU – LSATL – 019
+CODE CU – LSATL – 020
+1x Single Over Voltage
+Protection Module
+• Ov erview: For use with Box Connection
+20 (Standard and Protected)
+LSA-TL LOCKING WEDGES
+• Ov erview: See graphic to the right of
+page.
+1x10PR LSA-TL Over Voltage
+Plug In Module
+• Ov erview: Used as a primary product in
+analogue and digital networks
+• Equipped with 10x 3 pole arresters
+COPPER 1. TOOL-LESS MODULAR CONNECTOR
+CODE CU – LSATL – 021
+CODE CU – LSATL – 022
+CODE CU – LSATL – 023
+COPPER CONNECTIVITY
+SECTION THREE
+COPPER 2. MODULAR CONNECTOR RANGE
+COPPER CONNECTIVITY
+SECTION THREE
+COPPER 2. MODULAR CONNECTOR RANGE
+COPPER CONNECTIVITY
+SECTION THREE
+Complies with the following standards:
+• ETS 300 019-1-1 Clause 1.1 (weather-protected, partially
+temperature-controlled storage).
+• IEC 60721 Part 3-3 Use (weatherproof, fixed).
+• IEC 60352-4, solder-less not accessible blade-type
+connections.
+• Ov erview: The Series 1 consists of 10- or 20-pair modules.
+• The narrower design of the LSA blocks allows a much
+higher packing density.
+• Grounding modules are included with screws for the
+ground terminal and a variety of accessories.
+D E T A I L S
+Climate Area
+For application in dry or damp rooms with or without
+condensation.
+• Temperature range during storage - 40 to +90 °C (-
+40 to 194 °F).
+• Temperature range during operation -40 to +80 °C (-
+40 to 176 °F)
+M echanical Values for LSA-TL Module
+• LSA modules with LSA - contacts for plastic-
+insulated copper conductors with solid or stranded
+copper cores (stranded) for insulation displacement
+connections according to IEC 60352-4 and DIN 41611-
+6 -C - EL – CL.
+M echanical Values for Plastic Insulated Copper
+Conductors
+• Wire Diameter: Connection with one solid wire: 0.40
+to 0.80mm*, AWG 26-20
+• Connection with two solid wires (same diameter and
+same type): 0.40 to 0.65 mm, AWG 26-22
+• Connection with one stranded wire: 7x 0.12 to 0.32
+mm , AWG 28-20.
+• Outer diameter (insulation PVC and PE) tin-plated
+0.70 to 1.60 mm
+• Repeatability of the wire connecting contact: .max. 2
+times
+• After a single wiring with wires ≥ 0.65 mm no longer
+usable for smaller conductor diameter.
+• Plastic Parts - PBT
+• Flammability - UL94 V0
+• Contact Surface - Silver Plated
+• LSA connection module 2/10 for 10 pair
+• LSA separating strip 2/10 for 10 pair
+• LSA Rearth module 2/34
+• LSA disconnection block 2/10 for 10 pair
+• LSA – narrow jumper rings
+For profile rods and mounting columns
+• Large / small jumper wire guides available
+• With colour code printing: jumper end 1... 0
+• Without colour code printing: jumper end 1 ... 0
+COPPER 2. MODULAR CONNECTOR RANGE
+CODE CU – LSA – MC – 001
+LSA – Series 2
+A P P L I C A T I O N S M A T E R I A L S
+T E C H . S P E C I F I C A T I O N S M O D U L E T Y P E S
+COPPER CONNECTIVITY
+SECTION THREE
+LSA-Punch Down Tool
+with Sensor
+• O verview: For disconnecting wires with
+0.35 to 0.9 mm conductor diameter (core
+diameter 0.7 to 2.6mm) to LSA modules.
+• Scissors can be disabled to allow a looping
+a potential to other contacts.
+• Fold unlatching hook and pull.
+• With sensor for scanning the final
+position.
+• Housing colour: green / grey
+Designation Sets
+• O verview: For marking of LSA-HD® modules
+and LSA modules Series 2
+• C olour: Grey
+Folding Display Frame 2/10
+• O verview: Slipped onto LSA modules 2/10
+and over-voltage.
+• Protection magazines 2/10 instead of the
+cover on both sides labelled.
+• Transparent covers with white paper and
+signs.
+Profile Module Label Holder 2/1
+• O verview: Slipped onto profile rods and
+mounting frame / channel.
+• With unprinted paper plate.
+Disconnection Plug
+• S izes: 2/1 ; 2/10
+• For separating pairs on LSA disconnection
+Series 2.
+Dummy Plug 2/1
+• O verview: For marking 1 pair and for
+preventing access in terminal strips and the
+separation at the splitter bars series 2.
+• Wi th labelling area Colour: Various
+COPPER 2. MODULAR CONNECTOR RANGE
+CODE CU – LSA – MC – 002
+CODE CU – LSA – MC – 007
+CODE CU – LSA – MC – 003
+CODE CU – LSA – MC – 004
+CODE CU – LSA – MC – 005
+CODE CU – LSA – MC – 006
+COPPER CONNECTIVITY
+SECTION THREE
+Cover strips 2/10
+• O verview: To identify important
+connections on LSA modules 2/10.
+• For ensuring access to cable wires or
+jumper wires.
+• Strip breaks during removal
+Switching Adapter
+• O verview: For the uninterrupted changeover of
+1 or 10 pair to LSA connection and
+disconnection modules.
+Bridge connector 2/1
+• O verview: The bridges of pairs for LSA R
+connection and the disconnection
+modules series 2.
+• Bridge plug can be separated by means of
+side cutters.
+• With evacuation port.
+Marking cap 2/1
+• O verview: For marking important pairs of
+LSA modules Series 2.
+Release Adapter
+• O verview: To Separated on LSA disconnection 1
+or 10 ranked pair and attacks unilaterally from.
+Test Cord
+• Types: Many types offered.
+• For parallel locking on a twin wire.
+• Colour marking for mapping the poles.
+• For LSA connection and disconnection
+modules.
+COPPER 2. MODULAR CONNECTOR RANGE
+CODE CU – LSA – MC – 008
+CODE CU – LSA – MC – 009
+CODE CU – LSA – MC – 010
+CODE CU – LSA – MC – 011
+CODE CU – LSA – MC – 012
+CODE CU – LSA – MC – 013
+CODE CU – LSA – MC – 014
+COPPER CONNECTIVITY
+SECTION THREE
+LSA Arrester Magazine 2/10 8x6,
+2-pole / 3-pole
+• Ov erview: Overvoltage protection
+magazine for connection and
+disconnection modules 2/10 coarse
+protection.
+• Type: H / T
+Frames
+• Profile: For receiving LSA modules on
+profile rods.
+• B ack mount: For receiving LSA modules
+2/10.
+Overvoltage / Overcurrent
+Protection 2/1
+• Ov erview: 1 pair coarse and fine
+protection and failsafe.
+• Overcurrent protection by PTC
+(resettable fuse).
+• Nominal operating current: range
+available.
+• Max. Nominal discharge current (8/20
+microseconds): range available.
+• Attachable to LSA disconnection and
+safety edges Series 2.
+• Operating Voltage DC : range available.
+• Maximum continuous voltage DC :
+range available.
+• Max. Transmission Frequency: range
+available.
+Flexible Back Mount
+• Ov erview: Stainless Steel.
+• For receiving LSA modules.
+• 3 repeating different perforation patterns.
+• Individual modules are interconnected
+with bridges, which are easily separated
+with a side cutter.
+COPPER 2. MODULAR CONNECTOR RANGE
+CODE CU – LSA – MC – 015
+CODE CU – LSA – MC – 016
+CODE CU – LSA – MC – 017
+CODE CU – LSA – MC – 018
+CODE CU – LSA – MC – 019
+CODE CU – LSA – MC – 020
+COPPER CONNECTIVITY
+SECTION THREE
+• Insulation displacement connection according to IEC 352-4 part 4 and DIN 41 611-6-C-EL-CL
+• Overview: High packing density. Ease of
+installation leads to time and cost
+savings.
+• LSA connection technology with
+contacts at a 45° angle.
+• Connection and disconnection modules
+are available.
+• Plug-in locations for overvoltage
+protection, splitters, test plugs, etc.
+• SGS-tested and approved by Deutsche
+Telekom AG.
+D E T A I L S
+Climate Area
+For application in dry or damp rooms with or without
+condensation.
+• Temperature range during storage - 40 to +90 °C (-40 to 194
+°F).
+• Temperature range during operation -40 to +80 °C (-40 to 176
+°F)
+Mechanical Values for Housing
+• Material: PBT
+• Flammability according to UL94: self-extinguishing, V10
+• Dimensions: Width 129.7 mm, Height 12.5 mm, Depth 42.0 mm
+• Weight: 44 g
+M echanical Values for Plastic Insulated Copper Conductors
+• Wire diameter: Connection with one solid wire 0.40 to 0.80
+mm^ AWG 26 to 20
+• Connection with two solid wires (same diameter and same
+type) 0.40 to 0.65mm^ AWG 26 to 22.
+• Connection with one stranded wire, tin-plated 7x 0.12 to 0.32
+mm^ AWG 28 to 20.
+• Overall diameter (insulation PVC and PE) 0.70 to 1.60 mm
+• Repeatability of the wire connecting
+• With strands or solid wires 0.40 to 0.65 mm 200x
+• With solid wires 0.80 mm 50x
+• Contact material special brass, silver-plated 0.5 μm, in contact
+area ≥5 μm
+Communication Transmission Values
+• The LSA-HD® modules are suitable for the following
+communication services:
+• Analog and digital telecommunication services^ Other
+communication services
+• Ethernet (10BaseT) with 10 MBit/s^ Token Ring with 4 or 16
+MBit/s^ TPDDI with 100 MBit/s
+The electrical values were
+collected after 4Pday storage
+in a constant climate
+environment at 40 °C (104 °F)
+and 93 % relative humidity.
+• Insulation resistance >5 x
+104 MΩ
+• Dielectric strength 2 kVrms
+• Impulse strength (waveform
+1.2/50 μs) 3.6 kV
+• Permitted current carrying
+capacity (waveform 8/20 μs)
+of the LSA contact
+• Wire diameter ≥ 0.6 mm 10
+kA
+• Wire diameter < 0.6 mm 5
+kA
+• Contact resistance (wire
+connection)
+• Typical 1.0 mΩ
+• Guaranteed ≤2.5 mΩ
+• Total resistance
+disconnection contact incl.
+≤10.0 mΩ
+COPPER 2. MODULAR CONNECTOR RANGE
+CODE CU – LSA – MC – 021
+A P P L I C A T I O N
+T E C H . S P E C I F I C A T I O N S E L E C T R I C A L
+V A L U E S
+LSA–HD
+COPPER CONNECTIVITY
+SECTION THREE
+LSA-HD® Module
+• O verview: LSA-HD® connection module for
+10 pairs
+• LSA-HD® connection module for 10 pairs for
+core diameters up to 1.8 mm (i.e. for circuit
+integrity cables)
+• LSA-HD® separation module for 10 pairs
+• LSA-HD® separation module for 10 pairs
+• Core diameter 1.8 mm for cables with
+functional integrity.
+Module Label Holder HD
+• O verview: Can be fitted to free spaces.
+• Both sides can be labelled, with unprinted
+paper plate and glass cover.
+• Unilaterally labelled with printed paper label.
+LSA-Punch Down Tool with
+Sensor
+• O verview: With sensor for detection of wire
+end-position.
+• Housing colour: green/grey
+• For termination of wires with the conductor.
+• Diameter range 0.35 P 0.9 mm (overall
+• Diameter range 0.7 P 2.6 mm) on LSA
+modules
+• Scissors can be deactivated so that a
+• potential can be through-connected to other
+contacts
+• Fold-out blade and extraction hook
+Hinged Label Holder HD – 10 Pairs
+• O verview: Attached onto LSA-P-HD® modules
+and surge protection magazine.
+• Allows labelling on both sides with blank paper
+labels and transparent covers.
+Disconnection Plug HD - 1 Pair
+• O verview: For separating a pair in LSA-HD®.
+Designation Kit
+• O verview: For marking of LSA-HD® modules
+and LSA modules Series 2
+• C olour: Grey
+Marking Cap HD - 1 Pair
+• O verview: To identify important pairs of LSA-
+HD® modules
+• C olour Coding: 0 = grey^ 1 = yellow^ 2 = green^
+3 = blue^ 5 = red^ 6 = brown^ 9 = white
+COPPER 2. MODULAR CONNECTOR RANGE
+CODE CU – LSA – MC – 030
+CODE CU – LSA – MC – 029
+CODE CU – LSA – MC – 028
+CODE CU – LSA – MC – 027
+CODE CU – LSA – MC – 026
+CODE CU – LSA – MC – 025
+CODE CU – LSA – MC – 024
+CODE CU – LSA – MC – 023
+CODE CU – LSA – MC – 022
+COPPER CONNECTIVITY
+SECTION THREE
+Bridge Plug HD
+• O verview: The bridges of pairs in LSA-HD®
+connection and disconnection modules.
+• Bridge plug can be separated by means of
+diagonal cutters with draw-out.
+• S izes: 1 pair (2-pole)^ 5 pairs (10-pole)^ 10
+pairs (20-pole).
+LSA-HD® Overvoltage GDT
+Magazine - 10 pairs
+• O verview: Equipped with 10 3-pole arresters
+6x8, 230 V, 5 kA, fail-safe.
+• Overvoltage protection magazine for LSA-
+HD®.
+• Connection and Disconnection modules.
+• Coarse protection.
+Test Cord HD
+• O verview: For LSA-HD® connection and
+disconnection modules.
+• O ffered in the following configurations: 2-pole
+and 4-pole.
+• Equipped with LSA-HD® plug and 2 sockets (4
+mm) for banana plugs
+• Le ngth: 0.2m^ 0.5m^ 1.0m^ 1.5m^ 2.0m^ 3.0m^
+4.0m^ 5.0m.
+Mount Adapter LSA-HD®/LSA
+Series 2/10-Profile Round Bar
+• O verview: Fastens by latching onto the profile
+rods.
+• Tool-less installation.
+• Stainless Steel.
+• Complete set.
+Connection Cord HD
+• O verview: For LSA-HD® connection and
+disconnection modules.
+• Equipped with 2 LSA-HD® plugs and RJ45
+plug
+• O ffered in the following configurations: 2-pole –
+configuration: 1:1 and 4-pole – configuration: a-
+4, a’-5, b-3, b’-6
+• C o nfiguration: 1:1
+• Le ngth: 0.2m^ 0.5m^ 1.0m^ 1.5m^ 2.0m^ 3.0m^
+4.0m^ 5.0m
+• Type: 2 = 2-pole^ 4 = 4-pole
+Disconnection Plug HD 10 Pair
+• O verview: For separating 10 pairs of LSA-HD®
+modules.
+COPPER 2. MODULAR CONNECTOR RANGE
+CODE CU – LSA – MC – 031
+CODE CU – LSA – MC – 039
+CODE CU – LSA – MC – 035
+CODE CU – LSA – MC – 038
+CODE CU – LSA – MC – 037
+CODE CU – LSA – MC – 036
+CODE CU – LSA – MC – 034
+CODE CU – LSA – MC – 033
+CODE CU – LSA – MC – 032
+COPPER CONNECTIVITY
+SECTION THREE
+Colour:
+• Connection module: Jumper RAL 7035 (light grey), cable side RAL 6018 (green)
+• Disconnection module: Jumper RAL 9010 (pure white), cable side RAL 6018 (green)
+• Overview: Module with LSA-TL-contacts (45°
+angle) for connecting plastic-insulated copper
+conductors with solid or stranded copper cores.
+• Complies with IEC 60352J4 and DIN 41611-6-C-EL-
+CL.
+• Both permanent and removable overvoltage
+protection possible.
+• Printed with numerals “1 ... 0”
+• Meets technical requirements of Deutsche
+Telekom AG.
+D E T A I L S
+Climate Area
+For application in dry or damp rooms with or without
+condensation.
+• Temperature range during storage - 40 to +90 °C (-40 to 194
+°F).
+• Temperature range during operation -40 to +80 °C (-40 to 176
+°F)
+M echanical Characteristics for Housing Material: PBT-PC
+• UL 94 flammability rating: self-extinguishing, V10
+• Dimensions: Width 112mm, Height 12.5mm, Depth 42mm,
+Weight 29g
+Mechanical Values for Plastic Insulated Copper Conductors
+• Head diameter: Circuit with two massive cores (Same
+diameter and the same type) 0.35 to 0.65 mmc AWG 27 to 22
+• Simple circuit with strand tinned 7x 0.12 to 0,32 mmc AWG 28
+to 20
+• Outer diameter (insulation PVC and PE).0.60 to 1.40mm
+• Repeatability of the wires connections: With stranded or solid
+conductors 0.35 to 0.65 mm 200x
+• With solid conductors 0.80 mm 50x
+• Contact material: Special brass plated
+Transmission Technical Values
+• The LSA-HD® P-profile bars are suitable for the following
+communications applications:
+• xDSL and other analog and digital telephone service
+• Ethernet (10BaseT) mit 10 MBit/s
+• Token Ring mit 4 or 16 MBit/s
+• TPDDI with 100 MBit/s
+• More data and communication services
+The electrical parameters
+were determined after 4 days
+of storage under constant
+conditions at 40°C (104 ° F)
+and 93% relative humidity.
+• Insulation resistance: 500
+V >5x104 MΩ
+• AC resistance: 2kVeff
+• Impulse withstand voltage
+(waveform 1,2/50 μs) 3,6kV
+• Permissible surge current
+(waveform 8/20
+microseconds) of the LSA
+contact
+• At Core diameter ≥ 0.6
+mm 10kA
+• At Core diameter < 0.6
+mm 5kA
+• Contact resistance (wire
+connection)
+• Typical: 1,0mΩ
+• Guaranteed: ≤2,5mΩ
+COPPER 2. MODULAR CONNECTOR RANGE
+CODE CU – LSA – MC – 040
+A P P L I C A T I O N
+T E C H . S P E C I F I C A T I O N E L E C T R I C V A L U E S
+LSA–HD–RS and LSA–HD–P-RS
+COPPER CONNECTIVITY
+SECTION THREE
+LSA-HD-P connection module with
+permanent overvoltage protection.
+LSA-HD-P disconnection module with
+permanent overvoltage protection.
+LSA-HD-P connection module without
+permanent overvoltage protection
+LSA-HD-P disconnection module without
+permanent overvoltage protection.
+COPPER 2. MODULAR CONNECTOR RANGE
+CODE CU – LSA –MC – 041
+CODE CU – LSA - MC – 042
+CODE CU – LSA - MC – 043
+CODE CU – LSA - MC – 044
+COPPER CONNECTIVITY
+SECTION THREE
+• M ounting Mechanism: Fixed to timber
+aerial telephone pole through coach
+screws. Metal adapter is also available to
+fit housing to concrete.
+• Op eration: Fitted with modular
+connectors to provide a cost-effective
+solution in populating the subscriber
+terminal boxes to any pair count
+required rather than pre-tailed terminal
+blocks.
+• Utilised for terminating cables within
+the secondary telephone network and
+forming a distribution point where the
+cable pairs and subscriber lines meet.
+• The drop wire modular connector
+system incorporates both overvoltage
+and overcurrent capabilities as well as
+providing remote test access.
+• Waterproof Rating: IP54-rated overhead distribution
+box
+• Cab le Entry and Sealing: Cables enter through base of
+the housing. Sealing is achieved through rubber
+grommets.
+• Locking Mechanism: Box lid is hinged and securely
+closed by latches which can be locked.
+D E T A I L S
+• IP54 waterproof
+• Available in multiple sizes
+• Pre-terminated solution minimizes
+installation time
+• Aerial distribution point before customer’s
+premises in access networks
+COPPER 3. DISTRIBUTION POINT AND CABLING
+CODE CU – DP – 001
+D E S C R I P T I O N F E A T U R E S A N D B E N E F I T S
+A P P L I C A T I O N
+Subscriber Overhead Distribution Box
+• External distribution boxes and domes.
+• Equipment for the customer’s premises.
+• Pre-terminated cabling solutions.
+O U R R A N G E I N C L U D E S
+COPPER CONNECTIVITY
+SECTION THREE
+Outdoor Aerial Distribution Box
+(10 / 20 Pair)
+• Waterproof Rating: IP54 rated overhead
+distribution box.
+• C able Entry and Sealing: Cables enter through the
+base of the housing. Sealing is achieved with
+rubber grommets.
+• Lo cking Mechanism: Box lid is hinged and securely
+closed by latches which can be locked
+• O peration: Fitted with modular connectors and
+capable of being fitted with overvoltage protection
+modules.
+• M aximum capacity is 2 standard LSA connectors –
+20 pairs.
+• F e atures & Benefits: IP54 waterproof
+• Pre-terminated solution minimizes installation
+time.
+• Can be quickly incorporated into the legacy
+network.
+• A pplication: Aerial distribution point before
+customer’s premises in access networks.
+Outdoor Aerial Distribution Box
+(40 Pair)
+• Waterproof Rating: IP54 rated overhead
+distribution box.
+• C able Entry and Sealing: Cables enter through the
+base of the housing. Sealing is achieved with
+rubber grommets.
+• Lo cking Mechanism: Box lid is hinged and securely
+closed by latches which can be locked
+• O peration: Fitted with modular connectors and
+capable of being fitted with overvoltage protection
+modules.
+• M aximum capacity is 4 standard LSA connectors –
+40 pairs
+• F e atures & Benefits: IP54 waterproof
+• Pre-terminated solution minimizes installation
+time.
+• Can be quickly incorporated into the legacy
+network.
+• A pplication: Aerial distribution point before
+customer’s premises in access networks.
+Distribution Dome
+• Waterproof Rating: IP68 – suitable for aerial
+mounting and submersion in underground
+networks.
+• C able Entry and Sealing: Cables enter through the
+base of the housing. Sealing is achieved through
+Dexbond sealant.
+• Lo cking Mechanism: Re-openable clamp at
+interface between base and dome.
+• O peration: Modular connectors fitted inside the
+terminal unit.
+• Incorporates both over voltage and over current
+capabilities as well as providing remote test access.
+• P re-Terminated: Therefore, have all quality control
+checks performed prior to deployment in the
+access network.
+• F e atures & Benefits: IP68 waterproof.
+• Pre-terminated cables minimizes installation time.
+• A pplication: Aerial / Underground distribution point
+before customer’s premises in access networks.
+Internal Distribution Box
+• Indoor box
+• C able Entry: Enters through the base of the unit
+• Lo cking Mechanism: Plastic latches, lockable
+• O peration: Highly versatile connection box loaded
+with LSA modules from 20 to 100 pairs
+• Used to provide a transition point so that outlet
+positions can be moved frequently and efficiently
+without disturbing the horizontal cabling.
+• Includes 10-way stainless steel mounting frame -
+modules ordered separately.
+• F e atures & Benefits: Compact
+• Easy to use.
+• A pplication: Customer’s Premises
+• Internal Use.
+20-Pair
+50-Pair
+100-Pair
+COPPER 3. DISTRIBUTION POINT AND CABLING
+CODE CU – DP – 002
+CODE CU – DP – 003
+CODE CU – DP – 004
+CODE CU – DP – 008
+CODE CU – DP – 007
+CODE CU – DP – 006
+CODE CU – DP – 005
+COPPER CONNECTIVITY
+SECTION THREE
+Customer Connection Box (Internal)
+• Indoor box
+• C able Entry: Enters through sides of the unit
+• Lo cking Mechanism: Unit is closed through screw
+down.
+• O peration: Compact box to be placed inside the
+customer’s premises to connect cables together.
+• F e atures & Benefits: Compact
+• Easy to use.
+• A pplication: Customer’s Premises
+• Internal Use.
+Network Termination Unit (NTU)
+• Indoor use
+• C able Entry: Enters through back and front of unit
+• Lo cking Mechanism: Lockable, openable door
+• O peration: Standard method for terminating typical 2
+wire copper lines in the home. Unit contains a
+removable customer connection unit (CCU) that
+provides a demarcation point for the Network
+Operator line and customer extension wiring.
+• The unit is also configured to offer a separate alarm
+circuit. An RJ11 socket is standard, together with
+screw terminal connectors.
+• It converts the U termination of the ISDN line to one
+or more standard coding S/T interfaces that are
+suitable for connecting digital ISDN-ready phones
+routers, and other devices to an ISDN line
+• Supports either point-to-point or multipoint
+connections over distances greater than 5km on 26
+AWG copper twisted-pair cabling
+• F e atures & Benefits: Compact and Versatile
+• Easy to install: Basic skill level required
+• A pplication: Customer’s premises
+• Interior Use.
+• Telecommunications.
+• Security and alarms.
+• Installed internally in customer premises.
+Tailed Pre-terminated Cabinets
+• Pre-terminated cables have all quality control checks
+performed prior to deployment in the access network.
+• O peration: Modular connectors that are factory
+terminated to any pair count required.
+• 100% quality control checks performed on them
+• Incorporates both over voltage and over current
+capabilities as well as providing remote test access.
+Suitable for installation in telecom cabinets and
+distribution closures.
+• F e atures & Benefits: Versatile, used for all applications
+of copper wires within customer premises.
+• Easy to install: Basic skill level required.
+• 100% quality tested prior to use.
+• A pplication: Installed within existing network
+applications, i.e. distribution point and telecom
+cabinet.
+Building Entrance Termination Unit
+(ETU)
+• Wat erproof Rating: IP54.
+• C able Entry: Entry ports on interior of unit
+• Lo cking Mechanism: Lockable, openable door
+• O peration: Built onto the exterior wall of customer’s
+premises as a demarcation point between the access
+network and customer’s premises.
+• Multiple cable entry ports at interior of box.
+• F e atures & Benefits: Compact
+• Easy to use.
+• A pplication: Customer’s Premises
+• External Use.
+Customer Protection Box
+• Wat erproof Rating: IP54.
+• C able Entry and Sealing: Enters through base unit and
+sealing is achieved through rubber grommets
+• Lo cking Mechanism: Box lid is hinged and securely
+closed by latches which can be locked.
+• O peration: The customer protection box is designed
+to allow the connection of one or two drop wires with
+a maximum insulation diameter of 5mm each.
+• F e atures & Benefits: Compact
+• Durable
+• Easy to use
+• A pplication: Customer’s Premises
+• Distribution Point
+COPPER 3. DISTRIBUTION POINT AND CABLING
+CODE CU – DP – 009
+CODE CU – DP – 010
+CODE CU – DP – 011
+CODE CU – DP – 012
+CODE CU – DP – 013
+COPPER CONNECTIVITY
+SECTION THREE
+• Excellent environmental and mechanical
+characteristics.
+• Available in multiple sizes.
+• Wide range of closure accessories available.
+• Waterproof Rating: IP54 (without Dexbond sealant); IP68 with
+Dexbond sealant).
+• Cable Entry and Sealing: Entry through base of closure.
+• Sealing: Aerial: putty at base.
+• Underground: Dexbond sealant.
+• Locking Mechanism: Re-openable clamp between base and
+dome of closure.
+• M ounting Mechanism: Aerial: Universal bracket fixed to pole.
+• Underground: Can be placed on ground.
+D E T A I L S
+• Ready access copper joint closure for distribution of radial, through radial and maintenance copper cable
+splicing applications. The Neptune Ready Access Closure is quick and easy to install and requires no
+specialist tooling.
+• Knockouts in the base section accurately position the cables entering the closure.
+• A variety of cable entry seals are used to manage all cable types.
+• To ensure the integrity of the closure installation “flash testing” of the joint can be undertaken.
+• Accelerated aging tests have been performed to ensure a minimum life of 25 years’ service.
+• Underground and overhead in the telecom
+access network
+COPPER 4. CLOSURES
+CODE CU – CLO – 001
+F E A T U R E S A N D B E N E F I T S A P P L I C A T I O N
+O P E R A T I O N
+Ready Access Dome Joint Closures
+COPPER CONNECTIVITY
+SECTION THREE
+COPPER 4. CLOSURES
+COPPER CONNECTIVITY
+SECTION THREE
+COPPER 4. CLOSURES
+COPPER CONNECTIVITY
+SECTION THREE
+COPPER 4. CLOSURES
+COPPER CONNECTIVITY
+SECTION THREE
+Small Cap-End
+• Total Pair Count: 20-Pair Closure
+Small Inline
+• Total Pair Count: 20-Pair Closure
+MJC- WEDGE (01)
+• 2x5PR Cable Diameter: 8.5mm
+• 2x20PR Cable Diameter: 15mm
+MJC- WEDGE (02)
+• 4x5PR Cable Diameter: 8.5mm
+MJC- WEDGE (03)
+• 2x5PR Cable Diameter: 8.5mm
+• 1x20PR Cable Diameter: 15mm
+MJC- WEDGE (04)
+• 3x10PR Cable Diameter: 12mm
+MJC- WEDGE (05)
+• 3x20PR Cable Diameter: 15mm
+MJC- WEDGE (06)
+• 1x5PR 6DW Cable Diameter: 8.5mm
+Extra Small New Work
+• Capacity: up to 30-pair (0.40mm cables)
+• Application: Suitable for water-block cable
+• Especially developed for small
+underground chambers where existing
+small closures are too large.
+• Aerial and underground use
+COPPER 4. CLOSURES
+CODE CU – CLO - 002
+CODE CU – CLO - 003
+CODE CU – CLO - 004
+CODE CU – CLO - 005
+CODE CU – CLO - 006 CODE CU – CLO - 010
+CODE CU – CLO - 009
+CODE CU – CLO - 008
+CODE CU – CLO - 007
+COPPER CONNECTIVITY
+SECTION THREE
+Small New Work
+• Capacity: up to 50-pair (0.40mm cables)
+• Application: Not suitable for water-block cable
+• Caters for new cable entry
+• New work application only
+• Aerial and underground use
+Small Maintenance
+• Capacity: up to 50-pair (0.40mm cables)
+• Application: Suitable for water-block cable.
+• Maintenance port allows quick remakes.
+• Spare Cable ports for cable reinsertion in the
+future (maintenance use).
+• Aerial and underground use.
+Large New Work
+• Capacity: up to 100-pair (0.40mm cables).
+• Application: Not suitable for water-block cable.
+• New work application only.
+• Aerial and underground use.
+Large Maintenance
+• Capacity: up to 100-pair (0.40mm cables).
+• Application: Suitable for water-block cable.
+• Maintenance use - multiple cable entries;
+future insertion of cables.
+• Aerial and underground use.
+Extra Large New Work
+• Capacity: up to 100-pair (0.40mm cables) or 100
+pair (0.64mm cables) or 50-pair (0.90mm
+cables).
+• Application: Suitable for water-block cable.
+• Maintenance use - multiple cable entries.
+• Aerial and underground use.
+Above Ground Closure
+• Waterproof Rating: IP54 (aerial use)
+• Cable Entry and Sealing: Enters through sides
+of closure and seals via silicone membranes on
+interior
+• Locking Mechanism: Re-openable latch
+• M ounting Mechanism: Free-hanging to joint
+cable aerially
+• Operation: Designed to accommodate an inline
+joint to repair damaged aerial cable.
+• Accommodates one cable at the incoming end
+and up to two cables at the outgoing end.
+• Cable Types: Cable aerial drop wire 55 (CAD55),
+drop wire 10/12 and cable down lead. Obsolete
+type drop wires can also be accommodated in
+one end.
+• After the joint is made, the cables are simply
+pushed into the two grooves and then the
+closure is snapped firmly together giving full
+environmental protection.
+• Features & Benefits: Quick repair of damaged
+aerial cable.
+• Application: New build or maintenance.
+• Aerial use.
+• Demarcation between access network and
+customer premises.
+COPPER 4. CLOSURES
+CODE CU – CLO - 016
+CODE CU – CLO - 015
+CODE CU – CLO - 011
+CODE CU – CLO - 012
+CODE CU – CLO - 013
+COPPER CONNECTIVITY
+SECTION THREE
+Aerial in-line Closure
+• Waterproof Rating: IP54 (aerial use)
+• Cable Entry and Sealing: Enters through sides
+of closure and seals via rubber gaskets.
+• Locking Mechanism: Quick release re-openable
+clamp (one-piece free breathing housing).
+• M ounting Mechanism: Clamped to wire to fix-in
+position through metal clamp.
+• Operation: End seals provide a quick and easy
+method of installing cables.
+• Cable supports provided .
+• 6 sizes in the range managing cable pair
+counts from 30- through to 800-pair.
+• Features & Benefits: Multiple sizes available in
+the range.
+• Application: New build or maintenance.
+Gel-Filled Closures
+• Waterproof Rating: IP68 (water-submersion;
+direct buried).
+• Cable Entry and Sealing: Entry through sides of
+closure, sealing is achieved through non-flowing
+gel.
+• Locking Mechanism: Re-openable latch
+• M ounting Mechanism: Hanger provided allows
+hanging closure for aerial use. Alternatively, it
+can be placed free-hanging or on the surface.
+• Operation: All cables entering the splice case are
+strain relieved discrete IDC, modular and single
+pair inline connectors can be used.
+• In-line, butt and branched splicing
+configurations can be spliced
+• Can be wrapped in tape for direct buried or
+water submersed applications.
+• No special tools are required to close the splice
+case securely.
+• Features & Benefits: Quick installation
+• Suitable for small underground chambers where
+other closures are too large
+• Suitable for water-block cable
+• No special tools required
+• Many connector types can be accommodated
+• Easy, clean re-entry
+• Excellent environmental performance
+• Application: New build or maintenance.
+COPPER 4. CLOSURES
+CODE CU – CLO - 017
+CODE CU – CLO - 016
+COPPER CONNECTIVITY
+SECTION THREE
+2-Pair Screw-Down
+• Capacity: up to 2-pair (0.40mm cables)
+• Application: Aerial and underground use.
+• The closure is non re-enterable - 1 use only.
+2-Pair Screw-Flapper
+• Capacity: up to 2-pair (0.40mm cables)
+• Application: Aerial and underground use.
+• The closure is non re-enterable - 1 use only
+5-Pair Screw-Down
+• Capacity: up to 5-pair (0.40mm cables)
+• Application: Aerial and underground use.
+• The closure is non re-enterable - 1 use only
+5-Pair Screw-Flapper
+• Capacity: up to 5-pair (0.40mm cables)
+• Application: Aerial and underground use.
+• The closure is non re-enterable - 1 use only
+10-pair Gel-filled Inline
+• Capacity: up to 10 pair (0.40mm cables).
+• Application: Aerial and underground use.
+• The closure is non re-enterable - 1 use only
+2/2/5-pair Gel-filled Inline
+• Capacity: Designed for the following cables:
+2/0.5 and 5/0.5.
+• Application: Can be used for inline, butt and T–
+splice applications.
+• The closure is non re-enterable - 1 use only.
+• Built-in hangers for hanging in manholes.
+Tape Closure Wrapping
+• Ov erview: To provide an adequate air/water
+proof seal for damaged cables, pressurised,
+unpressurised and various other closures that
+will be required to be direct buried
+COPPER 4. CLOSURES
+CODE CU – CLO - 018
+CODE CU – CLO - 019
+CODE CU – CLO - 020
+CODE CU – CLO - 021
+CODE CU – CLO - 022
+COPPER CONNECTIVITY
+SECTION THREE
+Airblock Closures
+• Waterproof Rating: IP68 (submersible in water).
+• Cable Entry and Sealing: Cables enter through
+side of the closure. Sealing is achieved via flame
+application to heatshrink material and air
+blocking resin application.
+• M ounting Mechanism: Fitted onto the frame or
+directly buried.
+• Operation: Essential to verify that no gas is
+present around the proximity of the jointing
+chamber prior to carrying out new or
+maintenance work.
+• The flame of the torch is to be angled in the
+shrinking direction and the flame is to be moved
+continuously around the sleeve to avoid hot
+spots, sleeve wrinkles and air pockets while
+performing the heatshrink procedure.
+• Features & Benefits: Multiple sizes offered
+depending on customer requirement.
+• Application: New build or Maintenance.
+C U - C L O - 0 2 3
+100-Pair
+C U - C L O - 0 2 4
+200/600-Pair
+C U - C L O - 0 2 5
+800/1600-Pair
+C U - C L O - 0 2 6
+1600/4800-Pair
+Sleeve Branding
+Dome Pressure Tester
+• Locking Mechanism: Clamp locked around the
+base of closure.
+• Sealing Mechanism: Relies on the seal of closure.
+Pressure tester tests the seal.
+• Operation: Used for pressure testing all closure
+types & fitted with quick connect male
+connector.
+• It does not include the handheld pump and
+universal pressure test gauge.
+• These are available as handheld pumps and
+Universal Pressure Test Gauge
+• Features & Benefits: Quickly validate that
+closures are sealed.
+• Available in kit
+• Application: To be used with: Extra Small Dome
+Tester; Small Dome Tester; Large Heat-Shrink
+Dome Tester; Large Dome Tester; Extra Large
+Dome Tester; Pump Handheld.
+Handheld Pump
+• Ov erview: Used with manifold/gauge/relief valve
+kit 5
+• Available in kit
+• Features & Benefits: Quickly validate that
+closures are sealed.
+• Available in kit
+• Application: To be used with: Extra Small Dome
+Tester; Small Dome Tester; Large Heat-Shrink
+Dome Tester; Large Dome Tester; Extra Large
+Dome Tester; Pump Handheld.
+Openable Clamp
+• Ov erview: Replacement clamp for openable
+heatshrink / ready access dome closure.
+O-Ring
+• Ov erview: Heatshrink / Ready access dome
+closure openable joint O-ring. Nitrile rubber, for
+heatshrink openable joint enclosure.
+COPPER 4. CLOSURES
+CODE CU – CLO - 027
+CODE CU – CLO - 028
+CODE CU – CLO - 029
+CODE CU – CLO - 030
+CODE CU – CLO - 031
+COPPER CONNECTIVITY
+SECTION THREE
+Mounting Bracket and Spigot
+M ounting bracket kit. For pole/manhole/pit
+m ounting of large and extra large enclosures.
+Consists of:
+• Mounting bracket
+• Uni-block
+• Bracket pin
+• Screws, 10G x 3/4 countersunk
+Aerial Closure Kit (L)
+Used to convert the DexGreen Large
+M aintenance
+Closure for aerial applications. This is suitable
+f or 0.40mm cable. Consists of:
+• Metal cable retainer
+• Universal Pole Mounting Bracket &
+retaining pin
+• 2 x screws
+• 2 x rawl plugs (for wall fitting)
+• 1 x instruction sheet
+Aerial Closure Kit (XL)
+Used to convert the DexGreen Extra Large
+Closure for aerial applications. This is suitable
+f or 0.64mm cable. Consists of:
+• Metal H piece cable retainer
+• Universal Pole Mounting Bracket &
+retaining pin
+• 2 x bolts
+• 2 x rawl plugs (for wall fitting)
+• 6 x cable ties
+• 1 x instruction sheet
+• 2 x cable insert grommets
+Putty
+• Putty block approx. 1 kg. For use on closure
+bases to create a dam to prevent sealant
+from leaking during pouring.
+• Suitable to seal closures for aerial use.
+External Cable Restraint
+• Cable restraining bracket for use with all
+closure sizes.
+Silica Gel
+• Self-indicating silica gel bag.
+• Multiple sizes available
+• Different sizes required depending on
+closure size.
+Leak Detection Fluid
+• Harmless soapy mixture that, when
+sprayed over the closure base (cable entry
+area) detects leak paths in the form of air
+bubbles.
+• To be used in conjunction with a dome
+pressure tester.
+COPPER 4. CLOSURES
+CODE CU – CLO - 032
+CODE CU – CLO - 038
+CODE CU – CLO - 034
+CODE CU – CLO - 033
+CODE CU – CLO - 035
+CODE CU – CLO - 036
+CODE CU – CLO - 037
+COPPER CONNECTIVITY
+SECTION THREE
+Electrical Tape
+• Used for cable pressure wrap (air seal),
+blocking flow of epoxy resin into cable and
+sealing external RF coaxial connections.
+Vinyl Non-adhesive Tape
+• E-Z wrap is a tough, thin (3.0mm) elastic
+vinyl material which sticks to itself when
+wrapped in layers.
+• Protects wire groups, splice bundles and
+paper-insulated wire
+Tape Closure Wrapping
+• Used as an overwrap on lead-In closures
+(2pr, 5pr & 10pr) 513/00205).
+• Provides increased protection for buried
+joints or closures in hostile environments.
+COPPER 4. CLOSURES
+CODE CU – CLO - 040
+CODE CU – CLO - 039
+CODE CU – CLO - 041
+COPPER CONNECTIVITY
+SECTION THREE
+8A 2-wire Connector
+• Ov erview: 8A copper cable splice crimp
+connector efficiently splices telephone cable
+conductors without stripping insulation.
+• Capacity: 2-wire connector. Accommodates
+conductors from 0.4mm to 0.9mm. This single-
+wire (discrete) connector can be used to splice
+two wires.
+• Operation: Polypropylene plastic parts are
+resistant to fungi, heat, solvents and stress-
+cracking agents and compatible with metals
+and other materials used in cable
+manufacturing, such as conductor insulation
+and filling compounds.
+• All metal components are resistant to or
+protected against general and localised
+corrosion, including stress corrosion cracking
+and pitting.
+• Gel-filling gives excellent environmental
+protection. It will not produce galvanic corrosion
+effects on other metals present, even in wet or
+humid conditions.
+• Packing Information: Supplied in a box of 500.
+• Features & Benefits: Compact – ideal for cable
+splicing within small closures and housings
+• Durable – excellent environmental protection
+from moisture and contamination
+• Versatile – available in multiple configurations
+(gel-filled, no gel, colour-coded, and more).
+• Application: Cable Splicing - Ideal for
+applications involving aerial, buried and
+underground construction, which are exposed to
+various temperatures, humidity, pollutants and
+craftsman-applied chemicals.
+8A 3-wire Connector
+• Operation: Ideally suited for all types of cable
+splicing, requiring only simple tools and providing
+a small splice bundle. Designed to endure harsh
+climate conditions, the 8B uses a single crimp to
+displace the insulation and provide a cold-solder
+connection, which delivers low contact resistance.
+• Packing Information: Supplied in a box of 250.
+• Capacity: 3-wire connector.
+• M aterial: Polypropylene, colour-coded covers for
+easy identification. Various versions are available.
+Gel-filled.
+• Features & Benefits: Compact
+• Durable
+• Versatile
+• Application: Cable Splicing - Ideal for aerial, buried
+and underground construction applications.
+8C Half Tap Connector
+• Operation: Gel-filled polypropylene half-tap
+connector. Wires are pushed inside the portholes
+of the connector. Manual pre-crimping with an
+approved tool is required prior to crimping to
+ensure a reliable connection.
+• Packing Information: Supplied in a box of 250.
+• Capacity: 2 wire connector. Designed for
+conductors from 0.4 mm to 0.9 mm in diameter,
+with a maximum 2.08 diameter insulation.
+• M aterial: Polypropylene Colour-coded covers for
+easy identification, and various versions are
+available. Gel-filled.
+• Features & Benefits: Compact
+• Durable
+• Versatile
+• Application: Cable Splicing - Ideal for aerial, buried
+and underground construction applications.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 001 CODE CU – CON - 003
+CODE CU – CON - 002
+COPPER CONNECTIVITY
+SECTION THREE
+11A Make-before-break Connector
+• Operation: The 11A is used on working pairs to cut
+out connectors previously in circuit, and a pre-
+crimp facility lets the connector be held in
+position prior to crimping.
+• Two entry ports allow conductors to pass both
+through the connector and in from the sides,
+giving greater flexibility in application.
+• Uses U-type insulation displacement connectors
+(IDCs) and an integral cut-off blade to form a
+connection between two insulated conductors.
+• Capacity: 2 wire connector. Designed for
+conductors from 0.4 mm to 0.9 mm in diameter,
+with a maximum 2.08 diameter insulation.
+• M aterial: Polypropylene colour-coded covers for
+easy identification and various versions available.
+Gel-filled.
+• Packing Information: Supplied in box of 500.
+• Features & Benefits: Make-before-break - Once
+the connector is crimped, electrical contact
+through the contact elements occurs prior to
+wire cut-off and any excess conductor length is
+cut off, leaving an easily accessed and sealable
+test point.
+• Compact
+• Easy to use
+• Application: Cable Splicing
+• Ideal for applications involving aerial, buried and
+underground construction
+• Maintenance
+ECM1B - Subscriber Terminal Block
+System
+• Operation: Highly reliable watertight connection
+module designed to withstand all outside plant
+environments.
+• Highly compact product, applicable in multiple
+applications depending on the customer’s
+requirements.
+• No special tool is required, the user needs to use
+a standard screwdriver to operate.
+• Capacity: Gauge range 0.4 to 1.0mm ø
+• Insulation diameter 5mm max ø
+• M aterial: Housing body: Transparent
+polycarbonate VO glass-fibre reinforced
+polycarbonate.
+• Insertion contacts: Tinned phosphor bronze.
+• Packing Information: Supplied in box of 10.
+• Features & Benefits: Compact
+• Easy to use
+• No special tool required
+• Application: Interface boxes in
+underground/aerial networks.
+• Distribution Points
+• Customer termination devices
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 004 CODE CU – CON - 005
+COPPER CONNECTIVITY
+SECTION THREE
+VX Module - Subscriber Terminal
+Block System
+• Operation: The VX module block system is a
+highly reliable connection module designed to
+withstand any climate.
+• The watertight design provides top-quality
+service for interface boxes of UG and aerial
+networks, distribution points and customer
+termination devices.
+• Ideal for replacing existing worn or damaged
+blocks, as it fits on DIN 25 rails, has compact
+overall dimensions and requires just a standard
+screwdriver to operate.
+• Capacity: Gauge range 0.4 to 1.0mm ø
+• Insulation diameter 5mm max ø
+• M aterial: Housing body: Transparent
+polycarbonate VO glass fibre reinforced
+polycarbonate.
+• Insertion contacts: Tinned phosphor bronze
+• Packing Information: Supplied in box of 10.
+• Features & Benefits: Compact
+• Easy to use
+• No special tool required
+• Application: Interface boxes in
+underground/aerial networks.
+• Distribution Points.
+• Customer Termination Devices.
+BT41 - UY4C Connector
+• Operation: Easy to use tool-less gel-filled
+connector
+• Connectors can be easily opened and reopened
+by hand for visual verification or testing with 6A
+test clips.
+• The UY4C accommodates a wide range of
+conductor diameters in straight-splice and half-
+tap configurations, and the pair-per-connector
+design produces smaller, neater splice bundles.
+• Accessories include 2-way and 3-way cradles
+• Capacity: 2 wires in and 2 wires out. Compatible
+with a maximum insulation diameter of 1.5mm
+and the following ranges of conductor
+diameters: 0.4mm, 0.5mm, 0.63mm, and 0.9mm.
+• M aterial: Body and cover: Polycarbonate
+• Contact: Phosphorous bronze
+• Compound: Gel-filling with superior thermal,
+oxidative and hydrolytic stability.
+• Packing Information: Supplied in box of 100.
+• Features & Benefits: Compact
+• Easy to use
+• Tool-Less
+• Application: Cable Splicing.
+• Connects the line wire and subscriber wire in
+series and makes a parallel connection.
+• Ideally suited to uplift work through any skilled
+engineer replacing legacy connectors, therefore,
+there is minimum disruption to service.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 006 CODE CU – CON - 007
+COPPER CONNECTIVITY
+SECTION THREE
+2A - Drop Wire Connector
+• Operation: Versatile In-Line Full pair drop wire
+connector for splicing different types of drop
+wires.
+• Encapsulated with gel-filling for environmental
+resistance.
+• Designed with pre-crimp feature to hold the
+wires in place before final crimping.
+• Capacity: 2 wire connector. Accepts copper or
+copper-coated steel conductors with diameters
+from 0.9 mm to 1.3 mm.
+• M aterial: Body & Cover: Polycarbonate
+• Contact: Phosphorous Bronze
+• Gel Filling compound: with superior thermal,
+oxidative and hydrolytic stability.
+• Packing Information: Supplied in box of 100.
+• Features & Benefits: Compact
+• Easy to use
+• Durable
+• Application: Aerial connection between 2 solid
+drop wires.
+• It insulates and provides moisture protection to
+the connection
+Cable Splicing Connector Range
+• Operation: Full range of cable splicing
+connectors that can be customized to meet
+many customer applications.
+• Designed and built around proven insulation
+displacement connection (IDC) technology
+• Endures harsh climatic conditions. A single
+crimp displaces the insulation and provides a
+cold solder equivalent connection, delivering
+low contact resistance.
+• Available in different types and versions for all
+splicing applications and solutions. The
+connector covers are colour-coded for easy
+identification.
+• Full range of products with 2 or 3 wires for
+straight, half-tap or bridge splicing.
+• Capacity: Various, depending on customer’s
+requirement.
+• M aterial: Multiple different types can be used
+depending on customer’s requirement. Comes
+with or without gel-filling, as required.
+• Packing Information: Supplied in any box size
+required.
+• Features & Benefits: Full range of products with
+2 or 3 wires for straight, half-tap or bridge
+splicing
+• The 2C and 2P series connectors accept a wide
+copper conductor wire range from 0.32mm to
+0.90mm
+• Application: Cable Splicing.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 008 CODE CU – CON - 009
+COPPER CONNECTIVITY
+SECTION THREE
+UY C
+• Type: Straight Splicing Butt-type
+F e ature: 2 wire, filled connector with
+polycarbonate body.
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.52
+• Insulation Type: PIC, pulp or paper.
+UY P
+• Type: Straight Splicing Butt-type
+F e ature: Similar to UY C, but made of
+polypropylene for solvent resistance. Most
+economical.
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.52
+• Insulation Type: PIC, pulp or paper.
+UY2 P
+• Type: Straight Splicing Butt-type
+F e ature: Full wire range, 2 wire, filled,
+polypropylene connector. Best suited for
+general application.
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08
+• Insulation Type: PIC, pulp or paper.
+UY2 PD
+• Type: Straight Splicing Butt-type
+F e ature: Dry version of UY2 P, for specific
+application. (no sealant filling)
+• C olour Code: White
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: Unfilled PIC, pulp or paper.
+UY2 C
+• Type: Straight Splicing Butt-type
+F e ature: New version of UY2 P made of
+polycarbonate plastic, 2 wire, full wire range
+and filled with sealant
+• C olour Code: Yellow
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08
+• Insulation Type: PIC, pulp or paper.
+UR C
+• Type: Bridge/ Straight Splicing.
+F e ature: A 3 wire, filled connector, for straight
+or bridge splicing, made of polycarbonate.
+• C olour Code: Red
+• Wi re size in mm: Conductor 0.32-.7.
+• Insulation O.D max 1.52
+• I nsulation Type: PIC, pulp or paper.
+UR2 P
+• Type: Bridge/ Straight Splicing.
+F e ature: 3 wire, filled, full wire range connector
+made of polypropylene for straight or bridge
+splicing.
+• C olour Code: Red
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: PIC, pulp or paper.
+UR2 PD
+• Type: Bridge/ Straight Splicing.
+F e ature: Dry version of YR2 P, made of
+polypropylene for pressurized joints or specific
+application.
+• C olour Code: White
+• Wi re size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: PIC, pulp or paper.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 010
+CODE CU – CON - 011
+CODE CU – CON - 012
+CODE CU – CON - 013
+CODE CU – CON - 010
+CODE CU – CON - 011
+CODE CU – CON - 012
+CODE CU – CON - 013
+COPPER CONNECTIVITY
+SECTION THREE
+UR2 C
+• Type: Bridge/ Straight Splicing.
+Feature: A new version of UR2 P, filled
+connector made of polycarbonate, for special
+application needs.
+• Colour Code: Red
+• Wire size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08.
+• Insulation Type: PIC, pulp or paper.
+UB C
+• Type: Tap Splicing.
+Feature: Tapping connector with pre-crimp
+feature for transfer without service
+interruption. UB C - filled and UB D is the dry
+version.
+• Colour Code: C-Blue
+• Wire size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.30.
+• Insulation Type: UB C for jelly filled.
+UB D
+• Type: Tap Splicing.
+Feature: Tapping connector with pre-crimp
+feature for transfer without service
+interruption. UB C - filled and UB D is the dry
+version.
+• Colour Code: D-White
+• Wire size in mm: Conductor 0.32-.7. Insulation
+O.D max 1.30.
+• Insulation Type: UB D for paper.
+UB2 P
+• Type: Tap Splicing.
+Feature: Tapping connector made of
+polypropylene similar to UB C, for transfer
+without service interruption. UB C - Filled
+and UB D is dry version.
+• Colour Code: P-Blue
+• Wire size in mm: Conductor 0.32-.9. Insulation
+O.D max 2.08mm
+• Insulation Type: UB2 P for jelly filled.
+UB2 PD
+• Type: Tap Splicing.
+Feature: Tapping connector made of
+polypropylene similar to UB C, for transfer
+without service interruption. UB C - Filled
+and UB D is dry version.
+• Colour Code: PD-White
+• Wire size in mm: Conductor 0.32-.9.
+Insulation O.D max 2.08mm
+• Insulation Type: UB2 PD for paper or pulp
+UG C
+• Type: Tap Splicing.
+Feature: The UG C made of polycarbonate
+is filled, tap connector with double contact
+and accepts larger cable diameters.
+• Colour Code: Green
+• Wire size in mm: Conductor 0.32-.9.
+Insulation O.D max 1.7
+• Insulation Type: PIC, pulp or paper.
+COPPER 5. DISCRETE AND MODULAR SPLICING CONNECTORS
+CODE CU – CON - 018
+CODE CU – CON - 019
+CODE CU – CON - 020 CODE CU – CON - 023
+CODE CU – CON - 022
+CODE CU – CON - 021
+Non-pressurised Heatshrink
+Waterproof rating: IP68 (for UG unpressurised telecom network)
+Cable Entry and Sealing: Entry through sides of closure. Sealing
+achieved via the application of flame to heat shrink material.
+Capacity: Multiple capacities offered - up to 200-pair
+Operation:
+• Heat-shrinkable joint closure
+• Excellent mechanical and environmental protects joints in the
+unpressurised access network: aerial, buried or ducted, non-filled
+or jelly-filled, with polyethylene, lead, steel or aluminium sheaths
+• Metal canister protects the splice bundle.
+F e atures & Benefits A pplication
+Excellent environmental and
+mechanical characteristics
+Pressurised access network -
+aerial, buried and ducted
+applications
+C o de S plice Bundle Diameter
+(D) (mm)
+C able Diameter
+(d) (mm)
+M ax Joint Gap
+(L) (mm)
+S leeve Length
+(S ) (mm)
+43/8-100 43 8 100 345
+43/8-150 43 8 150 400
+43/8-200 43 8 200 450
+43/8-240 43 8 240 445
+43/8-350 43 8 350 600
+43/8-500 43 8 500 755
+55/12-240 55 12 240 450
+75/15-240 75 15 240 495
+75/15-250 75 15 250 505
+75/15-340 75 15 340 590
+75/15-400 75 15 400 650
+75/15-500 75 15 500 710
+75/15-600 75 15 600 860
+92/25-300 92 25 300 665
+92/25-500 92 25 500 830
+92/25-600 92 25 600 985
+122/30-300 122 30 300 680
+122/30-500 122 30 500 860
+122/30-650 122 30 650 1010
+160/42-500 160 42 500 920
+160/42-720 160 42 720 1100
+200/50-500 200 50 500 940
+200/50-720 200 50 720 1120
+COPPER 6. HEATSHRINKS
+Pressurised Heatshrink
+Waterproof Rating: IP68 (for UG pressurised telecom network)
+Cable Entry and Sealing: Entry through sides of closure. Sealing
+achieved via the application of flame to heat shrink material.
+Capacity: Multiple capacities offered
+Operation:
+• High performance heat-shrinkable closure for pressurised
+applications
+• Excellent mechanical and environmental protection of joints in
+the pressurised access network.
+• Suitable for aerial, buried and ducted applications
+• Applicable for polyethylene and metal jacketed cables
+• Pre-installed valve for pressure access and measuring
+• Suitable for use with all standard connector systems
+• Wraparound closure suitable for both maintenance and new
+construction
+• Interchangeable air valve/connector
+M O A pplication
+Excellent environmental and
+mechanical characteristics
+Pressurised access network -
+aerial, buried and ducted
+applications
+Co d e
+S p lice Bundle
+D i ameter
+( D ) (mm)
+Ca b le Diameter
+( d ) (mm)
+M a x Joint Gap
+( L ) (mm)
+S l eeve Length
+( S ) (mm)
+62/15-350 62 15 350 670 52 40 N/A
+62/15-500 62 15 500 850 52 40 N/A
+62/15-350 62 15 650 1000 52 40 N/A
+92/30-500 92 30 350 690 82 70 58
+92/30-650 92 30 500 850 82 70 58
+92/30-350 92 30 650 1000 82 70 58
+122/38-500 122 38 500 80 112 100 88
+122/38-650 122 38 650 1020 112 100 88
+160/55-300 160 55 300 790 142 130 118
+160/55-500 160 55 500 970 142 130 118
+160/55-650 160 55 650 1060 142 130 118
+160/55-720 160 55 720 1150 142 130 118
+160/55-900 160 55 900 1380 142 130 118
+200/65-720 200 65 720 1150 172 160 148
+200/65-720 200 65 900 1380 172 160 148
+02-Out
+03-Out
+Max diameter of Branch Cables
+COPPER 6. HEATSHRINKS
+Heatshrink - Tubular Sleeve
+Waterproof Rating: IP68 submersible
+Sealing Mechanism: Flame applied to heat shrink material
+Capacity: Multiple sizes available for low pair count cable
+Operation: Heatshrink tubular sleeve, air pressure or water block for
+low pair count cable
+F e atures & Benefits A pplication
+Excellent environmental and
+mechanical characteristics
+Pressurised access network -
+aerial, buried and ducted
+applications
+02-Out
+03-Out
+Max diameter of Branch Cables
+Heatshrink – Cap-ended
+Waterproof Rating: IP68 submersible
+Sealing mechanism: Flame applied to heat shrink material
+Capacity: Multiple sizes available
+Operation:
+• Heatshrink end cap available in multiple sizes
+• Can be supplied with / without Schrader valve
+• Used to seal plastic cable ends
+• Thin to medium wall tube
+• Adhesive-lined
+F e atures & Benefits A pplication
+Excellent environmental and
+mechanical characteristics
+Cable sealing
+COPPER 6. HEATSHRINKS
+• Greater than 60% of legacy closures are open to moisture
+• Uneconomic and practically impossible to remove all leaking closures
+• Closure sealant 10B, seals closures quickly and easily
+• We recommend all closures are sealed as standard or on programmed work as basic fundamental
+engineering
+• Dexbond Closure Sealant 10B
+• Dexblock Airlock
+• Cabinet Base Resin
+• Duct Sealant 14B
+• Pole Repair Sealant
+• 9B Fibre Closure Sealant
+P R O D U C T S
+• Trend Reduction in Fault by 20%
+• Stability of the Network
+• No Spikes in Faults during Heavy Rains
+COPPER 7. SEALANT
+CODE CU – SL - 001
+Airblock Compound
+O V E R V I E W
+C l osure
+S e alant A i rblock M o isture
+Bar rier
+P o le/
+C avity
+S e alant
+Sealant
+Type
+Product
+Range
+1) Dexbond
+2) 9B Sealant
+1) Dexblock
+2) PBCS
+3) Vertical
+Cones Airblock
+1) 6C – Resin for
+Sealing the
+Base of
+Cabinets
+1) Pole Sealant
+Purpose
+1) Seal around
+cables
+2) Physical
+barrier for
+components
+housed within
+closure
+3) Cable
+retention
+1) Physical
+block / barrier
+against
+moisture /
+water /
+contamination
+/ air / gases
+2) Can be
+installed
+horizontally or
+vertically
+1) Physical
+block / barrier
+against
+moisture /
+water /
+contamination
+/ air / gases
+2) Can be
+installed
+horizontally or
+vertically
+1) Seal cavities
+to provide
+additional
+structural
+integrity
+2) Prevent
+ingress of
+contamination
+Sealants
+C o de De s cription P r oduct
+CU-SL-002 Used to dispense sealant cartridges
+Caulking
+CU-SL-003 Used to dispense duplex sealant
+cartridges
+Duplex Caulking Gun
+CU-SL-004
+Spare nozzles and accessories for 10B
+sealant to avoid wastage of sealants.
+Multiple application of sealants from
+the same cartridge requires a new
+nozzle
+Nozzle Pack
+Sealant Accessories
+COPPER 7. SEALANT
+Airblock Compound
+• Resin pack 2B is a two-component
+polyurethane compound specially
+formulated to construct horizontal and
+vertical air blocks in pressurised
+telecommunication cables
+Aerial Closure Kit (L)
+• Resin pack 6B is a two-component
+polyurethane compound formulated
+specifically to seal the concrete bases of
+cabinets against moisture ingress and
+other contamination
+Dexbond Joint Closure Sealant
+• Dexbond 10B sealant is a unique
+polyurethane sealant that ensures
+telecommunications joints and cables are
+effectively sealed against the ingress of water
+and water vapor.
+20D Joint Closure Sealant
+• Fast closure sealant 20D is a yellow-coloured
+sealant for the following applications:
+• 1. Repairing by top up sealing of cable ports in
+all sizes of PVC, legacy H/S OJss and
+Dexgreen Neptune closures.
+• 2. New grease cable insertion in all existing
+closures including PVC, legacy H/S OJ and
+Neptune closures where a spare port exists.
+Pole Repair Sealant
+• Varying environmental conditions can
+weaken wooden utility poles over time,
+leading to connection failure and disrupted
+service to customers.
+• Rapid-cure pole resin repair sealant
+strengthens existing poles, avoiding the cost
+of installing replacements
+COPPER 7. SEALANT
+CODE CU – SL - 005
+CODE CU – SL - 006
+CODE CU – SL - 007
+CODE CU – SL - 008
+CODE CU – SL - 009
+• Ov erview: The HT1000 handheld instrument
+offers copper wire provisioning and
+maintenance technicians the most critical tests
+at the touch of a button.
+• One tester for all copper testing
+• Full range of test functions for all appropriate
+copper testing
+• Simple, easy to use for all skill levels
+• Bluetooth module test instrument
+• Test data can be uploaded to a central server via
+a new Mobile application
+D E T A I L S
+• Reliable, Rugged and Versatile: The durable, water
+resistant design, 1/4 VGA LCD screen and powerful
+backlight allow you to work with confidence in any
+environment.
+• Technicians can select up to seven auto tests and
+use the integrated incremental pair test program.
+• The HT1000 offers 200-pair pre-/post-test storage
+and a USB port to download updates and upload
+test result data and uses either AC or DC power.
+• The noise finder uses a 30MHz spectrum analysis.
+• Universal test adapter
+• One test instrument for Quante, Krone
+Modules, and LSA-TL
+• Facilitates ease of testing for technicians
+• Competitively priced
+COPPER 8. TEST EQUIPMENT
+CODE CU – TE -001
+HT1000 Copper Wire Analyser
+U N I V E R S A L T E S T A D A P T E R
+O P E R A T I O N
+D E S C R I P T I O N F E A T U R E S A N D B E N E F I T S
+SmartSwitch
+• The SmartSwitch Test Adapter can be used with any test, measure or fault
+location instrument that is fitted with suitably protected 4mm, male banana
+plugs that will not exceed the specifications of the SmartSwitch’s range of
+test leads.
+Mimtel Tester
+• The Mimtel 444B device provides a simple
+audio output when detecting
+electromagnetic signals, which can cause
+interference to communications services
+HT1000 Copper Wire Analyser
+• The HT1000 handheld instrument offers
+copper wire provisioning and maintenance
+technicians the most critical tests at the
+touch of a button.
+• Line Access, non-interrupting, Monitoring
+• Access to the Exchange side by simple switching, without changing lead
+connections
+• Access to the Customer side by simple switching, without changing lead
+connections
+• Access to both the Exchange and Customer individually at the same time by
+simple
+• switching, without changing lead connections
+• Safety of the operator from non-standard, dangerous voltages on the line
+COPPER 8. TEST EQUIPMENT
+CODE CU – TE – 001
+CODE CU – TE – 002 CODE CU – TE – 003
+Duct Plugs
+• Ov erview: Prevents air/water ingress
+entering 2-pair duct from joint boxes,
+which can cause corrosion of the NT
+(sockets).
+• M ultiple Sizes Available: Duct plug available
+in 25mm; 28mm; 32mm and 37mm in
+packs of 10
+Roll Springs
+• Ov erview: Constant pressure roll springs
+can be supplied in a range of sizes
+specifically designed to meet the demands
+of the cable jointing industry
+Lined Mesh
+• Used for earthing on tower structures of
+antenna feeder cables
+PF Wipes
+• Ov erview: PF solvent is a full strength
+solvent de-greasing agent for cable
+cleaning prior to jointing, maintenance of
+cables, switchgear, network equipment
+and electrical equipment cleaning and de-
+greasing.
+Absorber pole
+• O verview: Simple and cost-effective solution to
+remove humidity from cabinets
+• Maintaining the cabinet moisture free is very
+Important, using silica gel is not always
+practical
+Fibre Rope
+• Product: PP Fibre Rope
+• Colour: Blue (with white mark)
+• Construction: 3 strands
+• Composition:
+• Polyethylene (PP/PEHD)
+• UV Inhibitor
+• Colour master batch
+D EX-PPR-04 D EX-PPR-08 DEX-PPR-12 DEX-PPR-16
+Diameter 4mm 8mm 12mm 16mm
+P roduct Information
+Weight/ coil (kg) 1.43 7.4 12 20.5
+Length/ coil (m) 220 220 220 220
+T e chnical Information
+Characteristics Value Value Value Value
+Linear Density
+(gram/ m)
+6.5 33.6 54.5 93.2
+Tensile Strength
+(kN)
+2.8 10 22 38
+Further Information
+This product is produced and tested according to European standards EN ISO 1345-fibre ropes-PP split
+film, mono-filament and multi-filament (PP2) and polypropylene high-density multi-filament (PP3) - 3, 4
+and 8 strand ropes.
+COPPER 9. MISCELLANEOUS
+CODE CU – MISC - 001
+CODE CU – MISC - 002
+CODE CU – MISC - 003
+CODE CU – MISC - 004
+CODE CU – MISC - 005
+Full range of xDSL POTS splitters to suit a range of
+requirements for operators
+N E T W O R K S C H E M A T I C
+COPPER 10. XCSL POTS SPLITTER
+The new Dexgreen PCP Splitter System has been designed to be installed in the PCP rather than the DSLAM. Only
+one tie cable is required between the PCP and the DSLAM. The splitter block fitted in the PCP has the same
+electrical performance characteristics as the splitters currently fitted in the DSLAM. The Dexgreen Splitter block
+will comply to the same operating conditions as met by our existing PCP Tool Less Connector System.
+• Extended Space for Jumper Wire
+• Separated Test Point for POTS and LINE at
+Jumper side
+• Tool-less Release of the Module
+D E T A I L S
+PCP 10-pair VDSL Gfast Splitter
+Splitter 1p pluggable at cable
+side of the module
+(encapsulated design)
+DSL- signal at cable side
+via translucent slider
+Gel-filled module like
+LSA-TL module
+Test points for POTS and LINE
+at jumper side of the module
+LSA-TL 2-pair test plug
+2 translucent sliders for
+easy terminating of LINE
+and POTS at jumper side
+Blue and green highlighting
+at the termination block for
+better visibility and ease of
+use
+Easy tool-less
+release of the
+module
+fitting to
+TL 300p frame, TL
+400p frame, SID
+frame,
+Top head frame
+COPPER 10. XCSL POTS SPLITTER
+CODE CU - xDLS – 001
+LSA-TL witch Pitch like
+400pr frame
+PCP TL-Splitter
+Pitch
+Extended Space for Jumper Wire
+7.5mm 5.9mm space for Jumpers
+Due the doubled jumper
+wires (20p for LINE and
+POTS) we need more
+space to store and
+route them.
+Separated Test Point for POTS and LINE at Jumper side
+Test points for measurement of LINE
+(blue) and POTS (green) at the jumper
+side of the module for each pair
+installed. This helps to analyse
+connectivity problems and reduce repair
+time.
+Tool-less Release of the Module
+Dimensions
+Locked
+Closed
+Unlocked
+Open
+161mm
+141mm
+171mm
+155mm
+COPPER 10. XCSL POTS SPLITTER
+M TC
+NEW
+Ov erview:
+• 8-port maintenance and new work VDSL splitter for use in primary connection point copper cabinets
+in the external access network
+• Designed to attach to standard 95mm mounting profile systems
+• Compact high-density design
+• All connectors are terminated using a standard IDC punch-down tool
+Connections:
+• Front: POTS and customer LINE
+• B ack: DSL
+Two Types Available:
+• Maintenance unit – IDC contacts are removable (NOTE: IDC contacts are not provided with this product)
+• New work unit – IDC contacts are permanently fixed to the housing
+• Technical Specification
+• Electrical Specification
+• ETSI TS 101 952-1 V1.1.1 (2009-06) Option A & B– Access network xDSL splitters for European
+deployment. Part 1: Generic specification of xDSL over POTS splitters
+• Environmental Specification
+ETSI EN 300 019-2-4 V2.2.1 (2003-03) - Environmental Engineering (EE); Environmental conditions and
+environmental tests for telecommunications equipment; Part 2-4: Specification of environmental tests;
+Stationary use at non-weather protected locations
+COPPER 10. XCSL POTS SPLITTER
+CODE CU - xDLS – 002
+8 PORT VDSL POTS SPLITTER
+Ordering Information
+C o de De s cription
+MTC Cab 8-port VDSL splitter – non-IDC version
+NEW Cab 8-port VDSL splitter with soldered IDC

@@ -157,7 +157,7 @@ def get_summary_from_openai(file_path):
     response = openai.chat.completions.create(model="gpt-4-turbo-preview",
                                               response_format={ "type": "json_object" }, 
                                               messages=[
-                                                  {"role":"system","content":skillsbase_role_1},
+                                                  {"role":"system","content":skillsbase_role_2},
                                                   {"role":"user","content":dexgreen_course_prompt1}
                                               ],
                                               temperature=1

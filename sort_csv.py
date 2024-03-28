@@ -1,9 +1,8 @@
 import csv
 
-
-def process_csv_data(filename):
-    quiz_data = []
-    with open(filename, newline='', encoding='utf-8') as csvfile:
+def process_csv_data(input_filename):
+    output_filename = 'cleaned_csv'
+    with open(input_filename, newline='', encoding='utf-8') as csvfile, open(output_filename, 'w', encoding='utf-8') as outfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             question = row['Question']
@@ -11,6 +10,7 @@ def process_csv_data(filename):
             correct_option_key = f'Option {row["Answer"]}'
             correct_answer = row[correct_option_key]
             
-            quiz_data.append({'Question': question, 'Correct Answer': correct_answer})
-    
-    return quiz_data
+            # Write the question and correct answer to the output file
+            outfile.write(f'Question: {question}\nCorrect Answer: {correct_answer}\n\n')
+
+        return output_filename

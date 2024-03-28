@@ -19,6 +19,8 @@ PATH_TO_SUMMARY = PATH_TO_CONTENT/"skillsbase_prompt1.html"
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
 
+course_name = 'Skillbase Operator Course'
+
 def update_summary(commit_message='Updates summary'):
     """
     Update and push changes to the repository.
@@ -43,19 +45,19 @@ def write_summary_to_html(summary_json):
 
     # HTML content initialization
     html_content = [
-        """
+        f"""
         <!DOCTYPE html>
         <html lang="en">
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Skillsbase Course Summary</title>
+            <title>{course_name}</title>
             <link rel="stylesheet" href="../static/styles.css">
         </head>
         <body>
             <div class="center-content">
         """,
-        "<h1>Skillsbase CSP Course Summary</h1>"
+        f"<h1>{course_name}</h1>"
     ]
 
     def handle_value(key, value, heading_level=2):
@@ -163,7 +165,7 @@ def get_summary_from_openai(file_path):
 # Example usage:
 summary = get_summary_from_openai("/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt")
 print(summary)
-update_summary('Updates course summary on website')
+
 
 
 
@@ -205,4 +207,4 @@ with open(output_file, 'w', encoding='utf-8') as f:
 print(f'{output_file} has been generated with links to all HTML files in the {contents_folder} folder.')
 
 
-
+update_summary('Updates course summary on website')

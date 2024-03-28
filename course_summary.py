@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"csp_summary.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"skillsbase_prompt1.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -99,27 +99,38 @@ def write_summary_to_html(summary_json):
     with open(PATH_TO_SUMMARY, 'w') as file:
         file.write('\n'.join(html_content))
 
+# example test files
+
+with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/test_contents.txt', 'r') as file:
+    train_contents = file.read()
+
+with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/product_cata.txt', 'r') as file:
+    dexgreen_cata = file.read()
+
+with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt', 'r') as file:
+    skillsbase_contents = file.read()
+
 # prompt engineeing
 
-general_prompt = "Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on."
+# system roles
+    
+general_role = "Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on."
 
-skillsbase_course_prompt1 = "Given information from"
+skillsbase_role_1 = "Given information from"
 
-skillsbase_course_prompt2 = "Given a training course from Skillsbase Ltd, provide a summary by picking an 'overview' of the course and then the information, format the summary in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on."
+skillsbase_role_2 = "Given a training course from Skillsbase Ltd, provide a summary by picking an 'overview' of the course and then the information, format the summary in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on."
 
+# user prompts
+
+skillsbase_course_prompt1 = f"""
+The below content is taken from mobile app based training courses. These training courses are composed of various interactive modules like videos, images with text, quizzes, checklists and more. 
+
+{skillsbase_contents}
+ 
+Based on the content provide a summary of the entire course. This summary is meant for someone that has just finished the course and wants to review the main learning points."""
 
 def get_summary_from_openai(file_path):
-    with open(file_path, 'r') as file:
-        file_contents = file.read()
 
-    with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/test_contents.txt', 'r') as file:
-        train_contents = file.read()
-
-    with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/product_cata.txt', 'r') as file:
-        dexgreen_cata = file.read()
-
-    with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt', 'r') as file:
-        skillsbase_contents = file.read()
 
     
     filename = 'csp.csv'
@@ -133,8 +144,8 @@ def get_summary_from_openai(file_path):
     response = openai.chat.completions.create(model="gpt-3.5-turbo-0125",
                                               response_format={ "type": "json_object" }, 
                                               messages=[
-                                                  {"role":"system","content":skillsbase_course_prompt2},
-                                                  {"role":"user","content":csp_course}
+                                                  {"role":"system","content":skillsbase_role_2},
+                                                  {"role":"user","content":skillsbase_course_prompt1}
                                               ])
     
     summary = response.choices[0].message.content

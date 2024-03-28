@@ -14,12 +14,12 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"csp_content_only.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreencata_prompt1.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
 
-course_name = 'Skillbase CSP Course'
+course_name = 'Dexgreen Catalogue'
 
 def update_summary(commit_message='Updates summary'):
     """
@@ -141,6 +141,12 @@ The below content is taken from mobile app based training courses. These trainin
  
 Based on the content provide a summary of the entire course. This summary is meant for someone that has just finished the course and wants to review the main learning points."""
 
+dexgreen_course_prompt1 = f"""
+The below content is taken from mobile app based training courses. These training courses are composed of various interactive modules like videos, images with text, quizzes, checklists and more. 
+
+{dexgreen_cata}
+ 
+Based on the content provide a summary of the entire course. This summary is meant for someone that has just finished the course and wants to review the main learning points."""
 
 def get_summary_from_openai(file_path):
 
@@ -157,7 +163,7 @@ def get_summary_from_openai(file_path):
                                               response_format={ "type": "json_object" }, 
                                               messages=[
                                                   {"role":"system","content":skillsbase_role_2},
-                                                  {"role":"user","content":csp_course}
+                                                  {"role":"user","content":dexgreen_course_prompt1}
                                               ])
     
     summary = response.choices[0].message.content

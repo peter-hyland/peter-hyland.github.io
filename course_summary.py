@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"cspcourse_t1_p1.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"gpt4.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -154,7 +154,7 @@ def get_summary_from_openai(file_path):
     Fetches the course summary using the OpenAI API and writes it to summary.html.
     """
     # prompt = create_prompt()  # Assuming create_prompt returns the desired text
-    response = openai.chat.completions.create(model="gpt-3.5-turbo-0125",
+    response = openai.chat.completions.create(model="gpt-4-turbo-preview",
                                               response_format={ "type": "json_object" }, 
                                               messages=[
                                                   {"role":"system","content":skillsbase_role_2},

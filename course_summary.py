@@ -147,7 +147,7 @@ The below content is taken from mobile app based training courses. These trainin
 
 {dexgreen_cata}
  
-Based on the content provide a summary of the entire course. This summary is meant for someone that has just finished the course and wants to review the main learning points."""
+Based on the content provide a summary of the entire course."""
 
 def get_summary_from_openai(file_path):
     """

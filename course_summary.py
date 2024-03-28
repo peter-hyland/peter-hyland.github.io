@@ -170,7 +170,8 @@ def get_summary_from_openai(file_path):
                                                   {"role":"system","content":skillsbase_role_2},
                                                   {"role":"user","content":dexgreen_course_prompt2}
                                               ],
-                                              temperature=1
+                                              temperature=1,
+                                              max_tokens=4096
                                               )
     
     summary = response.choices[0].message.content

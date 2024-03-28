@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"skillsbase_summary.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreen_summary.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)

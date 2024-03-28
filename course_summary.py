@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreencata_prompt1.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreencata_only_content.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -149,12 +149,6 @@ The below content is taken from mobile app based training courses. These trainin
 Based on the content provide a summary of the entire course. This summary is meant for someone that has just finished the course and wants to review the main learning points."""
 
 def get_summary_from_openai(file_path):
-
-
-    
-
-    
-
     """
     Fetches the course summary using the OpenAI API and writes it to summary.html.
     """
@@ -163,20 +157,14 @@ def get_summary_from_openai(file_path):
                                               response_format={ "type": "json_object" }, 
                                               messages=[
                                                   {"role":"system","content":skillsbase_role_2},
-                                                  {"role":"user","content":dexgreen_course_prompt1}
+                                                  {"role":"user","content":dexgreen_cata}
                                               ])
     
     summary = response.choices[0].message.content
 
-
-
-
     write_summary_to_html(summary)  # Save the summary to summary.html
     return summary
 
-# prompts
-# {"role":"system","content":"Given a training course from Skillsbase Ltd, provide a summary by picking out the main goals of the course"}
-# {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on. Do not create a list above 5 items in json dict, make a sentence if it is"},
 
 # Example usage:
 summary = get_summary_from_openai("/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt")

@@ -1,0 +1,669 @@
+Question: What unique feature does the CSP box lid include?
+Correct Answer: Locks at 45
+
+Question: What is the primary function of the CSP Demarcation Box?
+Correct Answer: For installation of copper connections.
+
+Question: How is the CSP sealed after installation is completed?
+Correct Answer: The CSP seals when you close the lid.
+
+Question: How should you mount the CSP to the customer's wall?
+Correct Answer: Mount the CSP using glue.
+
+Question: Where can you find a list of all the tools needed for the installation?
+Correct Answer: Use any tools you have available.
+
+Question: Which layer of Inside/Out cable is suitable for use outside of the customer premises?
+Correct Answer: Only the outer sheathing is UV protected for use outside the customer premises.
+
+Question: Which piece of equipment is used to manage the bend radius of the cable leading from inside to outside the dwelling?
+Correct Answer: Inside/Out Cable.
+
+Question: When measuring the length of Inside/Out cable needed for the installation what lengths need to be taken into account?
+Correct Answer: Only the length from the CSP to the ONT.
+
+Question: Where in the CSP should the outgoing Inside/Out cable slack be stored?
+Correct Answer: In the inner slack storage.
+
+Question: Which tool is used for stripping the Inside/Out Fibre Cable?
+Correct Answer: An open-edged blade.
+
+Question: If a fault is found in the Inside/Out cable during testing, what action should be taken?
+Correct Answer: Proceed with the installation anyway.
+
+Question: What does the CSP Demarcation Box use for cable retention/sealing?
+Correct Answer: DexTidy cable retention system.
+
+Question: What method is used to split the grommets?
+Correct Answer: Any sharp blade can be used.
+
+Question: What tool is used to remove the copper provisioning knockout at the back of the CSP?
+Correct Answer: A Flathead screwdriver.
+
+Question: What knockouts are available at the rear of the CSP?
+Correct Answer: Copper provisioning only.
+
+Question: If any of your tools are damaged or not in working order, what should you do?
+Correct Answer: Skip the steps where the specific tool is needed.
+
+Question: Which piece of equipment should be used to ensure the CSP is securely mounted to the wall.
+Correct Answer: Glue.
+
+Question: After the installation is finished, if the customer does NOT have a valid connection what should you do?
+Correct Answer: Remove the CSP and attempt a new install.
+
+Question: What should you do if your CSP is damaged before the installation?
+Correct Answer: Proceed with the installation anyway.
+
+Question: What do you need to check with your electrical equipment before installing a CSP?
+Correct Answer: It is not necessary to check electrical equipment.
+
+Question: Where are the copper connector cables routed?
+Correct Answer: Through the small 101A hole in the rear centre of the box.
+
+Question: In a UG installation, where will you often find the incoming copper cables?
+Correct Answer: There is no copper provisioning on a UG install.
+
+Question: Where do the copper cables come from in a UG installation?
+Correct Answer: Copper cable comes from the ECLI.
+
+Question: When routing the copper provisioning into the CSP, where should you ensure the black sheathing of the copper pair be aligned with.
+Correct Answer: It's not important where the copper sheathing is stored.
+
+Question: When routing the copper provisioning into the CSP, how much of the black outer sheathing should go into the CSP?
+Correct Answer: 5 cm.
+
+Question: In the case of an OH fibre cable installation, where should the CSP be mounted on the customer's premises?
+Correct Answer: As high as possible on the external wall of the customer premises.
+
+Question: During an OH installation who should you speak in advance and agree on the location of the CSP?
+Correct Answer: Your manager.
+
+Question: Which type of installation requires a gas block connector?
+Correct Answer: ROC Drop Cable.
+
+Question: During a UG installation, where is the CSP typically mounted on the customer's premises?
+Correct Answer: Anywhere on the internal walls of the household.
+
+Question: During a UG installation where are the incoming cables routed?
+Correct Answer: The incoming cable is cleated to the wall coming from a telephone pole.
+
+Question: When should the capping 25 be replaced during the installation?
+Correct Answer: After sealing the CSP.
+
+Question: A UG installation is the installation of cables routed from
+Correct Answer: A telephone pole.
+
+Question: Where should the incoming cable be inserted in the slack tray?
+Correct Answer: Through the outer ring of slack management, counterclockwise.
+
+Question: Which cable type requires you to flip the strain relief and screw in through the concave side?
+Correct Answer: OH Corning Fibre Cable.
+
+Question: Where in the CSP is the incoming cable slack stored?
+Correct Answer: In the outer slack management clips.
+
+Question: When populating a CSP with 4 fibres, which port does the first outgoing cable enter?
+Correct Answer: Through any port.
+
+Question: What position should the first splice be stored in the splice cradle?
+Correct Answer: Anywhere.
+
+Question: What position should the second splice be stored in the splice cradle?
+Correct Answer: On top of the first splice in the middle position.
+
+Question: When should the splice protector be slid over the exposed fibre?
+Correct Answer: Before stripping the cable to bare fibre.
+
+Question: Where should the spliced cable be stored?
+Correct Answer: Use glue or tape to secure the spliced cable to the box.
+
+Question: What is the recommended amount of cable to be uncoiled from CSP when splicing?
+Correct Answer: 2.05 metre.
+
+Question: If a splice fails, what process should be followed?
+Correct Answer: Install a new Inside/Out Cable.
+
+Question: What should be used to clean the exposed fibre before splicing?
+Correct Answer: Any piece of cloth
+
+Question: What is the purpose of a site investigation during the planning stage of a project?
+Correct Answer: To ensure plans are current
+
+Question: What action should be taken at the planning stage of a project to ensure that plans are current?
+Correct Answer: Carry out a site investigation
+
+Question: What must the asset owner do when information is requested about buried services in a proposed work area by an enquirer?
+Correct Answer: Provide enquirers with up to date, readable plans for the proposed work area
+
+Question: Who is responsible for providing enquirers with up to date, readable plans of all known services buried in the proposed work area?
+Correct Answer: The asset owner
+
+Question: Why must the date of issue be checked when receiving plans?
+Correct Answer: To ensure plans are current
+
+Question: What information should be checked to ensure plans are current?
+Correct Answer: Date of issue
+
+Question: Why must the location of services be marked clearly prior to excavation?
+Correct Answer: To reduce the risk of damage to the service
+
+Question: What action should be taken to reduce the risk of damage to underground services following a successful site survey using a detection devices on a grass verge?
+Correct Answer: Mark the location of services using wooden pegs
+
+Question: What action should be taken to reduce the risk of damage to underground services following a successful survey of the site using a detection devices?
+Correct Answer: Mark the position of the service
+
+Question: What is the purpose of marking the location of services following a successful survey of the site using a detection device?
+Correct Answer: To reduce the risk of damage to the service
+
+Question: What is the most likely consequence to members of the public following damage to an underground service that has not been marked?
+Correct Answer: Inconvenience caused by disruption to service
+
+Question: Why must services be traced and marked throughout the full extent of the site?
+Correct Answer: To note the line of services as they change direction
+
+Question: What is the colour of a low pressure polyethylene (PE) gas service?
+Correct Answer: Yellow
+
+Question: What service would typically be constructed using blue polyethylene pipe?
+Correct Answer: Water
+
+Question: What colour are low voltage electricity cables?
+Correct Answer: Black
+
+Question: What is the colour of the water service?
+Correct Answer: Blue
+
+Question: Which of the following services would be made from a blue pipe marked with brown stripes?
+Correct Answer: Water in contaminated ground
+
+Question: Which of the following services can be constructed using an earthenware pipe?
+Correct Answer: Surface water drainage
+
+Question: What is the colour of a high voltage (HV) electricity cable?
+Correct Answer: Red
+
+Question: Which of the following services would be laid within a green service duct?
+Correct Answer: Cable television
+
+Question: What colour are intermediate pressure (IP) gas mains?
+Correct Answer: Orange
+
+Question: Which of these should be included in a site-specific risk assessment?
+Correct Answer: Identified hazards of work location
+
+Question: What is the highest risk to personal safety while detecting and marking underground services on a public highway?
+Correct Answer: Injury from road traffic
+
+Question: What information within a site specific risk assessment would provide you with the precautions to take to safely reduce or eliminate risks?
+Correct Answer: The control measure
+
+Question: How is the risk rating calculated on a site specific risk assessment?
+Correct Answer: Likelihood x severity
+
+Question: What personal protective equipment (PPE) is used to reduce the risks associated with road traffic when detecting and marking underground services on a public highway?
+Correct Answer: High visibility clothing
+
+Question: When selecting an appropriate control measure to reduce a risk, what does the term "So far as is reasonably practicable" mean?
+Correct Answer: The level of risk is balanced against cost, time or trouble
+
+Question: What is the most common type of injury associated with damaging electric cables?
+Correct Answer: Severe burns
+
+Question: What is the most likely consequence of striking liquified petroleum gas (LPG)?
+Correct Answer: Explosion
+
+Question: What is the most common type of injury associated with damaging gas services?
+Correct Answer: Severe burns
+
+Question: What is the most common type of injury associated with damaging water mains?
+Correct Answer: Hypothermia
+
+Question: Which of the following items must not be removed under any circumstances when excavating near a water main?
+Correct Answer: Trench blocks
+
+Question: What is the main risk to workers following damage to a sewer pipe?
+Correct Answer: Exposure to raw sewage
+
+Question: What control measure should be used to reduce the risk of mechanical excavators damaging gas pipes?
+Correct Answer: Do not use mechanical excavators within 500mm of a gas pipe
+
+Question: Before excavating, what actions should be taken by operatives to reduce the risk of damaging underground utility apparatus and highway services?
+Correct Answer: Refer to plans and survey the work area to identify and mark the position of services
+
+Question: What equipment should be used to reduce the risk of trench collapse as a result of a damaged water service?
+Correct Answer: Shoring equipment
+
+Question: What documentation should be used to minimise the risk of damaging underground apparatus and services?
+Correct Answer: Site specific risk assessments and method statements
+
+Question: What personal protective equipment (PPE) can be worn to reduce the risks from damaged electric or gas services?
+Correct Answer: Flame retardant overalls
+
+Question: What action should be taken when an electrical cable crosses a trench that is more than 1m wide?
+Correct Answer: Support the cable at 500mm intervals using strong timber and ratchet straps
+
+Question: What is the purpose of informing the asset owner/operator in the event of damage to a telecommunications service?
+Correct Answer: To ensure that the service is repaired properly
+
+Question: What is the purpose of keeping people well clear of the work area in the event of an electricity cable being damaged?
+Correct Answer: To ensure the safety of site personnel and members of the public
+
+Question: What is the purpose of keeping people well clear of the work area in the event of a gas pipe being damaged?
+Correct Answer: To ensure the safety of site personnel and members of the public
+
+Question: Which of the following services would a conventional detection device be unable to locate?
+Correct Answer: Polyethylene (PE) water service
+
+Question: What can prevent a detection device used in power mode from being able to locate a live electric cable?
+Correct Answer: Cables have direct current (DC) flowing through it
+
+Question: What is an established limitation when using radio frequency detectors to locate metallic pipe?
+Correct Answer: Other metallic objects can reradiate the signal and results may vary
+
+Question: Which of the following services would a conventional detection device be unable to locate?
+Correct Answer: Polyethylene (PE) gas service
+
+Question: Which of the following will prevent a detection device, used in power mode, from being able to locate a live electric cable?
+Correct Answer: Cables where there is little or no current flowing
+
+Question: Why might it be difficult to locate a telecommunication cable when using radio frequency detectors?
+Correct Answer: The cable is too short to radiate a traceable signal
+
+Question: Which of the following statements is a feature of the Provision and Use of Work Equipment Regulations (PUWER)?
+Correct Answer: The employer is responsible for suitability of work equipment
+
+Question: How often should detection equipment undergo testing and recalibration?
+Correct Answer: Dependant on the manufacturerâ€š's instructions
+
+Question: What document will provide an operative with the specific checks to ensure that the selected equipment is fit for purpose before it is used?
+Correct Answer: The manufacturerâ€š's instructions.
+
+Question: Why should an operative consider the conditions and risks that exist in the intended workplace when selecting equipment?
+Correct Answer: To ensure that it is suitable for its intended use
+
+Question: Why must the person selecting detection methods have a good understanding of the available equipment and its limitations?
+Correct Answer: To ensure the equipment is fit for purpose
+
+Question: Who is responsible for the suitability of work equipment?
+Correct Answer: The employer
+
+Question: What action should be taken if discrepancies are found between search results and site plans?
+Correct Answer: Inform the asset owner to allow them to amend their records
+
+Question: What action should be taken if the work completed changes the path or depth of a service and makes the current version of the plans inaccurate?
+Correct Answer: Inform the asset owner and they should amend their records
+
+Question: Why must the asset owner be contacted if a service is found to be located well away from its recorded position?
+Correct Answer: To allow them to update their records
+
+Question: Who can provide additional advice or assistance in the event that services recorded in a plan cannot be located using detection equipment?
+Correct Answer: The asset owner
+
+Question: What action should be taken where underground services cannot be found using detection equipment?
+Correct Answer: Dig trial holes using safe techniques
+
+Question: What action should be taken where underground services cannot be found using detection equipment or by digging multiple trial holes?
+Correct Answer: Obtain more information from asset owner
+
+Question: What is the purpose of site specific risk assessments?
+Correct Answer: To identify the immediate hazards and risks associated with the work
+
+Question: Why should work site surveys be carried out?
+Correct Answer: To risk assess the location and decide the traffic management layout
+
+Question: How should the appropriate traffic management layout and correct equipment be determined ahead of planned works?
+Correct Answer: By carrying out a work site survey and site specific risk assessment
+
+Question: What action must be taken where motorists cannot see the first sign (Road Works) due to limited visibility?
+Correct Answer: Place additional signs
+
+Question: What equipment should be used to provide light vehicle access to premises during excavation work on a footway?
+Correct Answer: Footway boards
+
+Question: What equipment must be provided to enable pedestrians to negotiate kerbs safely when diverted to temporary walkways in the carriageway?
+Correct Answer: Footway ramps
+
+Question: What traffic control equipment should be used for very short periods when manoeuvring plant or works vehicles on a low risk site?
+Correct Answer: Stop works sign
+
+Question: What equipment should be used to assist visually impaired people using an obstructed footway?
+Correct Answer: Pedestrian barriers with a tapping rail
+
+Question: On a site, what is the minimum clearance between a works vehicle and the works area on a 40mph road?
+Correct Answer: 5 metres
+
+Question: What is the main factor to consider when selecting temporary traffic control?
+Correct Answer: Traffic flow
+
+Question: When using temporary traffic lights, what is the All Red time for a site length of 160m?
+Correct Answer: 20 seconds
+
+Question: Which of the following portable traffic signal controls reduces delay to vehicles by ensuring that the green time is adjusted automatically?
+Correct Answer: Vehicle Actuated (VA)
+
+Question: What type of work can be carried out at one or more intermittent stops, each lasting less than 60 minutes (30 minutes in Scotland)?
+Correct Answer: Short-duration static work
+
+Question: What type of work is carried out from a vehicle moving significantly slower than the general traffic?
+Correct Answer: Mobile works
+
+Question: When should mobile and short-duration static works be carried out?
+Correct Answer: During periods of low risk when there is good visibility
+
+Question: Which combination of Personal Protective Equipment (PPE) should be used when removing signs from a carriageway and loading them onto a stationary vehicle?
+Correct Answer: High-visibility clothing, helmet, safety gloves and safety footwear
+
+Question: How should an employee determine the correct level of personal protective equipment (PPE) for signing, lighting and guarding activities?
+Correct Answer: Carry out a site specific risk assessment
+
+Question: What is the most appropriate combination of personal protective equipment (PPE) when setting out signing, lighting and guarding?
+Correct Answer: High-visibility clothing, safety helmet, safety gloves and safety footwear
+
+Question: What area of the site layout should plant be operated and manoeuvred in?
+Correct Answer: Working space
+
+Question: On a static site, what is the minimum clearance between a works vehicle and the works area on a 30mph road?
+Correct Answer: 2m
+
+Question: What should be used to segregate pedestrians from any works?
+Correct Answer: A barrier system incorporating a tapping rail
+
+Question: What is the minimum size of signage permitted on single carriageway roads with a speed limit of 40mph?
+Correct Answer: 750mm
+
+Question: What determines the siting distance to the first sign on a single carriageway static site?
+Correct Answer: Speed of road
+
+Question: What is the minimum siting distance to the first sign on a single carriageway 50mph road?
+Correct Answer: 275m
+
+Question: What is the minimum size of a temporary sign to use on a 50mph road?
+Correct Answer: 750mm
+
+Question: What is the minimum visibility distance to the first sign for a single carriageway with a speed limit of 50mph or more?
+Correct Answer: 75
+
+Question: When must the 'Road Works End' sign be used?
+Correct Answer: Where the site length exceeds 50m
+
+Question: When working on a footway, what is the ideal width to leave for pedestrians?
+Correct Answer: 1.5m
+
+Question: What is the absolute minimum width of the shuttle lane for normal traffic using Stop and Go traffic control?
+Correct Answer: 3m
+
+Question: What is the absolute minimum unobstructed width on an existing footway?
+Correct Answer: 1m
+
+Question: What is the minimum sideways safety zone on a road with a maximum speed limit of 40mph?
+Correct Answer: 0.5m
+
+Question: What is the main purpose of a safety zone?
+Correct Answer: To protect site operatives from passing traffic
+
+Question: What is the minimum width of a temporary walkway in the carriageway in order for a visually impaired person being guided to pass safely?
+Correct Answer: 1.2 metres
+
+Question: What is the maximum permitted height of warning lights on a 40mph road?
+Correct Answer: 1.5 metres
+
+Question: Which of the following speed limits are flashing warning lights not permitted to be used where the road is street lit?
+Correct Answer: 50mph
+
+Question: What is the maximum permitted height of warning lights on a 50mph road?
+Correct Answer: 1.2 metres
+
+Question: What is the recommended method to secure road signs?
+Correct Answer: Use a sign with built-in weights
+
+Question: How should pedestrian barriers be protected from continual unauthorised alterations and separation?
+Correct Answer: Use clamps or ties that require a tool for removal
+
+Question: What additional measures could be used to securely install pedestrian barriers in strong winds?
+Correct Answer: Use ballast or cross-bracing
+
+Question: What is the minimum distance the lower edge of all signs should be from ground level?
+Correct Answer: 300mm
+
+Question: What standard must the size, shape and style of signs and traffic cones comply with?
+Correct Answer: TSRGD or TSR (NI)
+
+Question: How often should equipment be checked at an attended site to ensure it is not damaged or dirty?
+Correct Answer: At the start of work, regularly during work and before you leave site
+
+Question: What sign should be set up first when installing advanced signing?
+Correct Answer: Road works ahead
+
+Question: Which sign should be placed immediately after the Road Works sign when using a Give and Take method of control?
+Correct Answer: Road Narrows with Single File Traffic supplementary plate
+
+Question: Which sign should be placed immediately after the â€š'Road Narrowsâ€š' sign when using a â€š'Stop and Goâ€š' method of control?
+Correct Answer: When Stop Sign Shows Wait Here
+
+Question: What must be on site in the event that temporary traffic signals fail?
+Correct Answer: Stop and go boards
+
+Question: Which mode on temporary traffic signals can be used where one of the vehicle detectors has failed?
+Correct Answer: Fixed time
+
+Question: What is the possible cause of portable traffic signals not changing after one stream of traffic has passed, even though vehicles are waiting?
+Correct Answer: Faulty detector (MVD)
+
+Question: What is the maximum site length for using temporary traffic signals?
+Correct Answer: 300m
+
+Question: What action should be taken where drivers at the â€š'Wait Hereâ€š' sign have poor visibility of portable traffic signals?
+Correct Answer: Use an additional signal head on the approach
+
+Question: Within what distance must portable traffic signals not be used near a railway level crossing with wig-wag traffic signals?
+Correct Answer: 50 metres
+
+Question: What action should be taken to keep traffic disruption to a minimum when installing and commissioning portable traffic signals?
+Correct Answer: Signs and equipment should be placed ready for use and signals tested
+
+Question: Where can you find information on the installation and set-up of portable traffic controls?
+Correct Answer: The Pink Book
+
+Question: Why must you have stop and go boards on site when installing, positioning, maintaining and removing portable traffic signals?
+Correct Answer: In case the portable traffic signals breakdown
+
+Question: When using temporary traffic lights, what is the All Red time for a site length of 230m?
+Correct Answer: 25 seconds
+
+Question: When using temporary traffic lights what alteration to the timings should be made where the last vehicle does not leave the shuttle lane at the start of the next green?
+Correct Answer: Increase the all red periods
+
+Question: What action should be taken where substantial queues begin to form and vehicles take more than one green period to get through the site?
+Correct Answer: Adjust the maximum green setting incrementally
+
+Question: What is the maximum coned length of a site when using Stop and Go traffic control where the traffic count is 63 vehicles counted over a 3 minute period?
+Correct Answer: 200 metres
+
+Question: When using priority signs to control traffic on a 40mph road, what distance should the required visibility be?
+Correct Answer: 70 metres
+
+Question: What is the maximum speed limit of a road or street when controlling traffic using the â€š'Give and Takeâ€š' method?
+Correct Answer: 30mph
+
+Question: What are the characteristics of a rigid construction?
+Correct Answer: A structure where the concrete road slab also performs the function of the base
+
+Question: What is the configuration of a composite road?
+Correct Answer: Composed of cement bound granular material with bituminous surfacing layers
+
+Question: What is a modular footway?
+Correct Answer: A structure where the surface is composed of setts, blocks, pavers or paving slabs
+
+Question: What is a high duty footway?
+Correct Answer: A principle route used by a large number of pedestrians
+
+Question: What is a high amenity route?
+Correct Answer: A route constructed to a high standard with decorative, textured or coloured finish
+
+Question: What category of footway is a route which has been surfaced specifically for decorative purposes?
+Correct Answer: High amenity
+
+Question: What equipment should be used to cut a smooth and vertical edge on the surface of a flexible road?
+Correct Answer: Road saw
+
+Question: What equipment should be used to rough cut material in a rigid road surface?
+Correct Answer: Road breaker
+
+Question: What would be the most appropriate piece of equipment to excavate within the precautionary area of a tree?
+Correct Answer: Suction excavator
+
+Question: Which regulation places responsibility upon businesses and organisations to ensure that work equipment is constructed or adapted to be suitable for the purpose it is used or provided for?
+Correct Answer: Provision and Use of Work Equipment Regulations (PUWER)
+
+Question: Which document defines the specific service and calibration requirements of equipment?
+Correct Answer: Manufacturer's instructions
+
+Question: What document would define the requirements that equipment must meet to be considered fit for purpose for a specific task or activity?
+Correct Answer: Method statement and Risk Assessments
+
+Question: Which document provides information relating to the reuse of excavated materials?
+Correct Answer: Specification for the Reinstatement of Openings in the Highway/Roads
+
+Question: What is the purpose of HSG47?
+Correct Answer: To provide guidance about the dangers of working near underground service
+
+Question: Which document defines the typical construction layers of roads and footways?
+Correct Answer: Specification for the Reinstatement of Openings in the Highway/Roads
+
+Question: How should areas of high danger relating to excavation activities identified?
+Correct Answer: Completing a risk assessment
+
+Question: Why must excavations be inspected by a competent person at the start of each shift and after any events such as the fall of rock or earth?
+Correct Answer: To identify any areas of high risk that may lead to collapse
+
+Question: What is the purpose of conducting site specific risk assessments for excavation activities?
+Correct Answer: To identify risks and the appropriate control measures
+
+Question: What safety measure should be in place to reduce the risks from traffic when excavating in the highway?
+Correct Answer: Traffic control methods
+
+Question: What personal protective equipment (PPE) must be worn by operatives working outside of the working space in the highway?
+Correct Answer: High visibility clothing
+
+Question: What equipment should be used to maintain a route for pedestrians and provide light vehicles access to premises during excavation works in the footway?
+Correct Answer: Footway boards
+
+Question: What clothing should be worn to reduce the risk of burns?
+Correct Answer: Multiple layers of flame-resistant clothing, including base layers
+
+Question: What distance is the minimum safety exclusion zone for using a mechanical excavator near gas pipes?
+Correct Answer: 500mm
+
+Question: After conducting a survey of a work area on a grass verge, what additional precautions should be taken to ensure that the identified services are not damaged during excavation?
+Correct Answer: Mark the line of identified services using wooden pegs
+
+Question: What classifies an excavation patch to be a 'deep excavation'?
+Correct Answer: Depth of cover over the apparatus is 1.5m
+
+Question: What is the maximum width allowed for a trench to be classified as a 'narrow trench'?
+Correct Answer: 300mm
+
+Question: Which excavation or trench category describes excavations or trenches with a depth greater than 1.5 metres?
+Correct Answer: Deep opening
+
+Question: What method should be used to ensure that the excavation has sufficient space to accommodate the materials for reinstatement of construction layers?
+Correct Answer: Measure the excavation to confirm the depth is in line with specification
+
+Question: Which specification document provides guidance on the measures required to ensure that excavations can accommodate materials and equipment for compaction and reinstatement?
+Correct Answer: Specification for the Reinstatement of Openings in the Highway/Roads
+
+Question: What measures should be taken to ensure that excavations in flexible or composite roads can accommodate materials for reinstatement?
+Correct Answer: Bitumen bound edges are smooth, vertical, and have no significant undercutting
+
+Question: Which of the following actions could result in a metallic water main suddenly failing?
+Correct Answer: Removal of thrust blocks
+
+Question: Which of the following incidents could happen if a metallic gas main was damaged whilst excavating?
+Correct Answer: Explosion
+
+Question: What is the most likely injury to occur if a high voltage power cable is penetrated using a road breaker and chisel bit?
+Correct Answer: Severe burns
+
+Question: Who should be contacted in the first instance when a gas main has been damaged?
+Correct Answer: The national gas emergency line
+
+Question: What action should be taken where an unearthed damaged electric cable is found?
+Correct Answer: Clear the area, contact the asset owner and stay clear until made safe
+
+Question: Who should a damaged sewer pipe be reported to?
+Correct Answer: The regional water authority
+
+Question: How should exposed water pipes be protected during cold weather?
+Correct Answer: Insulate using suitable pipe lagging
+
+Question: What is the recommended distance that ratchet straps should be spaced when supporting cables within a temporary split duct which is suspended from a support beam?
+Correct Answer: 1 metre
+
+Question: Which of the following is the most appropriate method of supporting an exposed metallic gas pipe with a joint?
+Correct Answer: Suspended from beam using a wooden spine and ratchet straps either side of the joint
+
+Question: What document would provide a trained operative with the procedure to safely install and use trench support systems?
+Correct Answer: Method statement
+
+Question: Why should trench support equipment be used for an excavation in an area with significant traffic?
+Correct Answer: Vibration from the traffic can lead to trench collapse
+
+Question: When should trench support equipment be used?
+Correct Answer: When identified within the site specific risk assessment
+
+Question: What backfill material classification are graded granular materials?
+Correct Answer: Class A
+
+Question: When testing the moisture content of Class D materials, what would indicate that they were suitable for re-use?
+Correct Answer: The material can be rolled to not less than the diameter and length of a standard pencil
+
+Question: Which of these tests would determine if granular excavated materials are suitable for re-use as backfill?
+Correct Answer: Field identification test number 3
+
+Question: What classification of backfill material is organic matter such as peat?
+Correct Answer: Class E
+
+Question: What are Class E backfill materials?
+Correct Answer: Unacceptable
+
+Question: Which of these tests would determine if cohesive/granular materials with less than 50% granular content are suitable for reuse?
+Correct Answer: Field identification test 2
+
+Question: When is it acceptable to reuse excavated materials to reinstate an excavation?
+Correct Answer: Where materials comply with backfill reinstatement classifications
+
+Question: Why is the re-use of excavated materials as backfill encouraged in verges and unmade ground?
+Correct Answer: It is more environmentally sustainable
+
+Question: How can clay that has been excessively dried during site storage be re-used as a backfill material?
+Correct Answer: It can be moistened to comply with the specification
+
+Question: Why should re-usable excavated materials be segregated?
+Correct Answer: To prevent contamination
+
+Question: How should re-usable excavated materials be protected from becoming excessively dry?
+Correct Answer: Keep covered at all times
+
+Question: Why should re-usable excavated materials be stockpiled, covered and bund?
+Correct Answer: To avoid excessive loss of fines
+
+Question: How should excavated materials unsuitable for reuse be stored if they cannot be removed from site immediately?
+Correct Answer: Segregated and stockpiled within the site barriers
+
+Question: Why should Class E materials be stockpiled safely and separately from acceptable materials before removal?
+Correct Answer: To prevent contamination
+
+Question: Where should materials classed as unsuitable for reuse be taken once removed from site?
+Correct Answer: Licensed recycling site
+
+Question: Which of the following performance requirements will be the most effected following the use of unsuitable reinstatement material for the sub-base?
+Correct Answer: Structural integrity
+
+Question: What is the undertaker required to do if the reinstatement fails the specified performance requirements during a guarantee period following the use of unsuitable backfill materials?
+Correct Answer: Restore the reinstatement to a compliant condition
+
+Question: What is the most likely implication of using unsuitable materials as a backfill?
+Correct Answer: Reinstatement fails specified performance requirements
+

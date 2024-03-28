@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreen_summary.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"csp_summary.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -55,7 +55,7 @@ def write_summary_to_html(summary_json):
         <body>
             <div class="center-content">
         """,
-        "<h1>Skillsbase Course Summary</h1>"
+        "<h1>Skillsbase CSP Course Summary</h1>"
     ]
 
     def handle_value(key, value, heading_level=2):
@@ -134,7 +134,7 @@ def get_summary_from_openai(file_path):
                                               response_format={ "type": "json_object" }, 
                                               messages=[
                                                   {"role":"system","content":skillsbase_course_prompt2},
-                                                  {"role":"user","content":dexgreen_cata}
+                                                  {"role":"user","content":csp_course}
                                               ])
     
     summary = response.choices[0].message.content

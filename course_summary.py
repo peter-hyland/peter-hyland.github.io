@@ -115,7 +115,7 @@ def get_summary_from_openai(file_path):
     Fetches the course summary using the OpenAI API and writes it to summary.html.
     """
     # prompt = create_prompt()  # Assuming create_prompt returns the desired text
-    response = openai.chat.completions.create(model="gpt-3.5-turbo",
+    response = openai.chat.completions.create(model="gpt-3.5-turbo-0125",
                                               response_format={ "type": "json_object" },
                                               messages=[
                                                   {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on."},

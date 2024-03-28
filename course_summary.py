@@ -105,7 +105,7 @@ general_prompt = "Given a large amount of information, provide a summary 'overvi
 
 skillsbase_course_prompt1 = "Given information from"
 
-skillsbase_course_prompt2 = "Given a training course from Skillsbase Ltd, provide a summary by picking an 'overview' of the course and then the information, format the summary in json dict"
+skillsbase_course_prompt2 = "Given a training course from Skillsbase Ltd, provide a summary by picking an 'overview' of the course and then the information, format the summary in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on."
 
 
 def get_summary_from_openai(file_path):

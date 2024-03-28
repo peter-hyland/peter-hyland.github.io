@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 from git import Repo
 from pathlib import Path
 import json 
+from sort_csv import process_csv_data
 
 # Load environment variables and set OpenAI API key
 load_dotenv()
@@ -111,6 +112,11 @@ def get_summary_from_openai(file_path):
     with open('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/skillsbase_operator.txt', 'r') as file:
         skillsbase_contents = file.read()
 
+    filename = "csp.csv"
+    csp_data = process_csv_data(filename)
+    print(csp_data)
+    
+
     """
     Fetches the course summary using the OpenAI API and writes it to summary.html.
     """
@@ -121,7 +127,10 @@ def get_summary_from_openai(file_path):
                                                   {"role":"system","content":"Given a large amount of information, provide a summary 'overview' that will be shown at the end of the course, format it in json dict, for example: \"Overview\" (list of all main topics), \"(name of topic 1)\" (key and value information),\"(name of topic 2)\" (key and value information) and so on."},
                                                   {"role":"user","content":skillsbase_contents},
                                               ])
+    
     summary = response.choices[0].message.content
+
+
     # response = openai.chat.completions.create(model="gpt-3.5-turbo",
     #                                         messages=[
     #                                             {"role":"system","content":"Given a json dict, if lists in the dict are more than 5 items long turn the list into a sentence "},

@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreengencata_t1_p1_4_role2.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreengencata_t1_p1_4_nested_test.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -56,46 +56,46 @@ def write_summary_to_html(summary_json):
             <link rel="stylesheet" href="../static/styles.css">
         </head>
         <body>
-            <div class="center-content">
+            <div class="container">
         """,
         f"<h1>{course_name}</h1>"
     ]
 
-    def handle_value(key, value, heading_level=2):
+    def handle_value(key, value, heading_level=2, is_nested=False):
         """
         Recursively handles values in the summary, adjusting heading levels for nested content and aligning paragraphs.
+        Uses 'inner-section' class for nested sections.
         """
         html = []
         heading_tag = f"h{min(heading_level, 6)}"  # Limit heading level to h6
-        
-        # Wrap each section in a div for alignment
-        html.append(f"<div class='content-section'>")
+        section_class = "inner-section" if is_nested else "content-section"
+
+        # Wrap each section in a div with the appropriate class
+        html.append(f"<div class='{section_class}'>")
         
         if isinstance(value, list):
             html.append(f"<{heading_tag}>{key}</{heading_tag}><div class='list-container'><ul>")
             for item in value:
                 if isinstance(item, (dict, list)):
-                    # Increment heading level for nested lists/dicts
-                    html.extend(handle_value(key, item, heading_level+1))
+                    # Increment heading level for nested lists/dicts, mark as nested
+                    html.extend(handle_value(key, item, heading_level+1, True))
                 else:
                     html.append(f"<li>{item}</li>")
-            html.append("</ul></div>")  # Close both the ul and the div here
+            html.append("</ul></div>")
         elif isinstance(value, dict):
             html.append(f"<{heading_tag}>{key}</{heading_tag}>")
             for sub_key, sub_value in value.items():
-                # Increment heading level for nested dicts
-                html.extend(handle_value(sub_key, sub_value, heading_level+1))
+                # Increment heading level for nested dicts, mark as nested
+                html.extend(handle_value(sub_key, sub_value, heading_level+1, True))
         else:
-            # Use paragraph for non-list/dict values
             html.append(f"<p><strong>{key}:</strong> {value}</p>")
         
-        # Close the section div
         html.append("</div>")
         
         return html
 
     for section_title, section_content in summary_data.items():
-        html_content.extend(handle_value(section_title, section_content, 2))  # Start with h3 for the top level
+        html_content.extend(handle_value(section_title, section_content, 2))  # Start with h2 for the top level
 
     html_content.append("</div></body></html>")
     

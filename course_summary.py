@@ -62,38 +62,48 @@ def write_summary_to_html(summary_json):
 
     ]
 
-    def handle_value(key, value, heading_level=2, is_nested=False):
+    def handle_value(key, value, heading_level=2, is_nested=False, insert_heading_once=True):
         """
         Recursively handles values in the summary, adjusting heading levels for nested content and aligning paragraphs.
-        Uses 'inner-section' class for nested sections.
+        Uses 'inner-section' class for nested sections and inserts a page heading before the first section if specified.
         """
         html = []
         heading_tag = f"h{min(heading_level, 6)}"  # Limit heading level to h6
         section_class = "inner-section" if is_nested else "content-section"
 
+        # Optionally insert a heading before the first section
+        if insert_heading_once and not is_nested:
+            html.append(f"<h1>{course_name}</h1>")  # Customize your page heading text
+            insert_heading_once = False  # Prevent further insertions
+
         # Wrap each section in a div with the appropriate class
         html.append(f"<div class='{section_class}'>")
-        html.append(f"<h1>Dexgreen Catalogue Summary</h1>")
         if isinstance(value, list):
             html.append(f"<{heading_tag}>{key}</{heading_tag}><div class='list-container'><ul>")
             for item in value:
                 if isinstance(item, (dict, list)):
-                    # Increment heading level for nested lists/dicts, mark as nested
-                    html.extend(handle_value(key, item, heading_level+1, True))
+                    # Increment heading level for nested lists/dicts, mark as nested, and pass the insert_heading_once flag
+                    html.extend(handle_value(key, item, heading_level + 1, True, insert_heading_once))
+                    insert_heading_once = False  # Ensure the heading is not inserted again
                 else:
                     html.append(f"<li>{item}</li>")
             html.append("</ul></div>")
         elif isinstance(value, dict):
             html.append(f"<{heading_tag}>{key}</{heading_tag}>")
             for sub_key, sub_value in value.items():
-                # Increment heading level for nested dicts, mark as nested
-                html.extend(handle_value(sub_key, sub_value, heading_level+1, True))
+                # Increment heading level for nested dicts, mark as nested, and pass the insert_heading_once flag
+                html.extend(handle_value(sub_key, sub_value, heading_level + 1, True, insert_heading_once))
+                insert_heading_once = False  # Ensure the heading is not inserted again
         else:
             html.append(f"<p><strong>{key}:</strong> {value}</p>")
         
         html.append("</div>")
         
         return html
+
+# When calling the function initially, insert_heading_once is True by default, allowing the heading to be inserted.
+# For any recursive calls, ensure to pass insert_heading_once=False if you wish to prevent further headings from being added.
+
 
     for section_title, section_content in summary_data.items():
         html_content.extend(handle_value(section_title, section_content, 2))  # Start with h2 for the top level
@@ -169,7 +179,7 @@ def get_summary_from_openai(file_path):
                                               response_format={ "type": "json_object" }, 
                                               messages=[
                                                   {"role":"system","content":skillsbase_role_2},
-                                                  {"role":"user","content":dexgreen_course_prompt2}
+                                                  {"role":"user","content":skillsbase_contents}
                                               ],
                                               temperature=1,
                                               max_tokens=4096                                           

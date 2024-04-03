@@ -24,7 +24,12 @@ body {
     color: var(--text-color);
     background-color: var(--secondary-color);
     line-height: 1.5;
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1)), url('/images/login-bg.jpg'); /* Add gradient on top of image */
+    background-size: cover; /* Cover the entire page */
+    background-position: top; /* Align the image to the top */
+    background-attachment: fixed; /* Optional: keeps the background image fixed during scroll */
 }
+
 
 a {
     color: var(--primary-color);
@@ -44,9 +49,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: clamp(1.5rem, 5vw, 2.5rem);
-    color: var(--background-color);
+    /* font-size: clamp(1.5rem, 5vw, 2.5rem); */
+    color: var(--secondary-color);
     margin: 2em;
+}
+
+.img-heading {
+    border-radius: 1em;
+    
+    max-width: 50%;
 }
 
 h2, h3, h4 {
@@ -56,6 +67,7 @@ h2, h3, h4 {
 
 h2 {
     font-size: 2rem;
+    text-decoration: underline;
 }
 
 h3 {
@@ -77,9 +89,16 @@ p {
     max-width: 600px; /* Sets a maximum width for the content */
     text-align: center; /* Adjust text-align for direct children */
     background-color: #f8f9fa;
-    border-radius: 2em;
+    border-radius: 1em;
     padding: 2em;
     margin-top: 2em;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* X-offset, Y-offset, Blur, Color */
+}
+
+
+.inner-section h3{
+    color: var(--secondary-color)
+    
 }
 
 .list-container ul, .content-section ul {
@@ -88,6 +107,7 @@ p {
     padding: 0 1em; /* Adjust padding as needed */
     margin: 0; /* Removes default margin */
     list-style-position: inside; /* Ensures bullets/numbers are aligned with text */
+    
 }
 
 .list-container ul li, .content-section ul li {

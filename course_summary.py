@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 PATH_TO_BLOG_REPO = Path('/Users/peterhyland/Documents/GitHub/peter-hyland.github.io/.git')
 PATH_TO_BLOG = PATH_TO_BLOG_REPO.parent
 PATH_TO_CONTENT = PATH_TO_BLOG/"content"
-PATH_TO_SUMMARY = PATH_TO_CONTENT/"dexgreengencata_t1_p1_4_nested_test.html"
+PATH_TO_SUMMARY = PATH_TO_CONTENT/"test.html"
 
 # Ensure the content directory exists
 PATH_TO_CONTENT.mkdir(exist_ok=True, parents=True)
@@ -58,7 +58,8 @@ def write_summary_to_html(summary_json):
         <body>
             <div class="container">
         """,
-        f"<h1>{course_name}</h1>"
+        f'<h1><img  class="img-heading" src="../images/skillsbase.png" alt="skillsbase logo"></h1>'
+
     ]
 
     def handle_value(key, value, heading_level=2, is_nested=False):
@@ -72,7 +73,7 @@ def write_summary_to_html(summary_json):
 
         # Wrap each section in a div with the appropriate class
         html.append(f"<div class='{section_class}'>")
-        
+        html.append(f"<h1>Dexgreen Catalogue Summary</h1>")
         if isinstance(value, list):
             html.append(f"<{heading_tag}>{key}</{heading_tag}><div class='list-container'><ul>")
             for item in value:
@@ -171,7 +172,7 @@ def get_summary_from_openai(file_path):
                                                   {"role":"user","content":dexgreen_course_prompt2}
                                               ],
                                               temperature=1,
-                                              max_tokens=4096
+                                              max_tokens=4096                                           
                                               )
     
     summary = response.choices[0].message.content

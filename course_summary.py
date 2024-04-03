@@ -62,19 +62,26 @@ def write_summary_to_html(summary_json):
 
     ]
 
-    def handle_value(key, value, heading_level=2, is_nested=False, insert_heading_once=True):
+    def handle_value(key, value, heading_level=2, is_nested=False, insert_heading=None):
         """
         Recursively handles values in the summary, adjusting heading levels for nested content and aligning paragraphs.
-        Uses 'inner-section' class for nested sections and inserts a page heading before the first section if specified.
+        Uses 'inner-section' class for nested sections. Optionally inserts a page heading before the first section.
+        :param key: The key from the dict being processed
+        :param value: The value associated with the key; can be list, dict, or simple type
+        :param heading_level: The current heading level, which increments in nested sections
+        :param is_nested: Flag to indicate if currently processing a nested section
+        :param insert_heading: The page heading to insert before the first section; None if no heading is to be inserted
+        :return: A list of HTML strings representing the processed content
         """
         html = []
+
+        # Insert page heading before the first section if provided
+        if insert_heading and not is_nested:
+            html.append(f"<h1>{insert_heading}</h1>")
+            insert_heading = None  # Ensure the heading is inserted only once
+
         heading_tag = f"h{min(heading_level, 6)}"  # Limit heading level to h6
         section_class = "inner-section" if is_nested else "content-section"
-
-        # Optionally insert a heading before the first section
-        if insert_heading_once and not is_nested:
-            html.append(f"<h1>{course_name}</h1>")  # Customize your page heading text
-            insert_heading_once = False  # Prevent further insertions
 
         # Wrap each section in a div with the appropriate class
         html.append(f"<div class='{section_class}'>")
@@ -82,24 +89,23 @@ def write_summary_to_html(summary_json):
             html.append(f"<{heading_tag}>{key}</{heading_tag}><div class='list-container'><ul>")
             for item in value:
                 if isinstance(item, (dict, list)):
-                    # Increment heading level for nested lists/dicts, mark as nested, and pass the insert_heading_once flag
-                    html.extend(handle_value(key, item, heading_level + 1, True, insert_heading_once))
-                    insert_heading_once = False  # Ensure the heading is not inserted again
+                    # Increment heading level for nested lists/dicts, mark as nested
+                    html.extend(handle_value(key, item, heading_level + 1, True, insert_heading))
                 else:
                     html.append(f"<li>{item}</li>")
             html.append("</ul></div>")
         elif isinstance(value, dict):
             html.append(f"<{heading_tag}>{key}</{heading_tag}>")
             for sub_key, sub_value in value.items():
-                # Increment heading level for nested dicts, mark as nested, and pass the insert_heading_once flag
-                html.extend(handle_value(sub_key, sub_value, heading_level + 1, True, insert_heading_once))
-                insert_heading_once = False  # Ensure the heading is not inserted again
+                # Increment heading level for nested dicts, mark as nested
+                html.extend(handle_value(sub_key, sub_value, heading_level + 1, True, insert_heading))
         else:
             html.append(f"<p><strong>{key}:</strong> {value}</p>")
-        
+
         html.append("</div>")
-        
+
         return html
+
 
 # When calling the function initially, insert_heading_once is True by default, allowing the heading to be inserted.
 # For any recursive calls, ensure to pass insert_heading_once=False if you wish to prevent further headings from being added.

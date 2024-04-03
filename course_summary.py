@@ -73,7 +73,6 @@ def write_summary_to_html(summary_json):
 
         # Wrap each section in a div with the appropriate class
         html.append(f"<div class='{section_class}'>")
-        html.append(f"<h1>Dexgreen Catalogue Summary</h1>")
         if isinstance(value, list):
             html.append(f"<{heading_tag}>{key}</{heading_tag}><div class='list-container'><ul>")
             for item in value:

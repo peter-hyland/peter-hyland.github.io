@@ -1,0 +1,224 @@
+/* Root Variables and Basic Reset */
+:root {
+    --primary-color: #13A8B6;
+    --secondary-color: #EF525B;
+    --background-color: #f8f9fa;
+    --text-color: #212529;
+    --font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --font-size-base: 1rem;
+    --font-size-large: 1.25rem;
+    --font-size-small: 0.875rem;
+    --spacing-base: 1rem;
+    --header-padding: 1rem 0;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-bold: 700;
+    --border-radius: 0.25rem;
+    --transition-speed: 0.15s;
+    --box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+#skillsbase_logo {
+    display: block;       /* Ensures the logo is treated as a block-level element */
+    max-width: 300px;     /* Keeps your existing max-width */
+    margin: 0 auto;       /* Auto margins on both sides to center it horizontally */
+    position: relative;   /* Keeps your existing position rule */
+}
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-family);
+    height: 100%;
+    /* background-image: url('login-bg.jpg'); */
+}
+
+/* Container for Quiz */
+.container {
+    background-color: white; /* Light and neutral background */
+    padding: var(--spacing-base);
+    border-radius: var(--border-radius);
+    width: 80%;
+    max-width: 600px;
+    margin: 2rem auto; 
+    box-shadow: var(--box-shadow);
+}
+
+/* Styling for headings */
+h1 {
+    color: var(--secondary-color); /* Eye-catching header color */
+    text-align: center;
+    margin-bottom: var(--spacing-base);
+}
+
+/* Input area layout */
+#inputArea {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: var(--spacing-base);
+}
+
+/* Text input styling */
+input[type="text"] {
+    width: 70%; 
+    padding: 10px;
+    border: 2px solid var(--primary-color);
+    border-radius: var(--border-radius);
+    font-size: var(--font-size-base);
+}
+
+/* Button styling */
+button {
+    width: 25%;
+    background-color: var(--primary-color); /* Vibrant button color */
+    color: white;
+    border: none;
+    border-radius: var(--border-radius);
+    padding: 10px;
+    cursor: pointer;
+    font-size: var(--font-size-base);
+    transition: background-color var(--transition-speed) ease-in-out;
+}
+
+button:hover {
+    background-color: var(--secondary-color); /* Change on hover for interaction */
+}
+
+/* Additional margin and styling for form */
+#quizForm {
+    margin-top: var(--spacing-base);
+    padding: var(--spacing-base);
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent to reduce harshness */
+    border-radius: var(--border-radius);
+}
+
+/* Styling for each question block */
+.question-text {
+    background-color: var(--background-color);
+    padding: var(--spacing-base);
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    border-radius: var(--border-radius);
+    margin-bottom: var(--spacing-base);
+    box-shadow: var(--box-shadow);
+}
+
+/* Header in each question for better visibility */
+.question h2 {
+    font-size: var(--font-size-large);
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+/* Styling for the list of choices */
+.choices {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0;
+}
+
+.choice-label {
+    display: block;
+    padding: 10px;
+    margin-bottom: 0.5rem;
+    border: 2px solid var(--background-color);
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    transition: all var(--transition-speed);
+}
+
+.choice-label:hover,
+.choice-label:focus {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+}
+input[type="radio"] {
+    opacity: 0;
+    position: absolute;
+    width: 0;
+}
+
+
+input[type="radio"]:checked + .choice-label {
+    border-color: var(--primary-color);
+    background-color: var(--background-color); /* Optional: add a light blue background */
+    color: var(--primary-color);
+}
+
+/* Styling for correct choice */
+.choice-label.correct {
+    border: 2px solid green;
+    color: green;
+}
+
+
+/* Styling for incorrect choice */
+.choice-label.incorrect {
+    border: 2px solid red;
+    color: red;
+}
+
+.correct_con {
+    border-radius: var(--border-radius);
+    /* border: 2px solid green; */
+    background-color: green;
+    color: black;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.incorrect_con {
+    border-radius: var(--border-radius);
+    /* border: 2px solid red; */
+    background-color: red;
+    color: black;
+    padding: 10px;
+    margin-bottom: 30px;
+
+}
+
+
+#loader {
+    padding-top: 20px;
+    display: block;       /* Ensures the logo is treated as a block-level element */
+    max-width: 50px;     /* Keeps your existing max-width */
+    margin: 0 auto;       /* Auto margins on both sides to center it horizontally */
+    position: relative;
+
+}
+.alert-message {
+    color: red;  /* Red color for error messages */
+    font-weight: bold;  /* Make the message bold */
+    padding: 10px;  /* Add some padding around the message */
+    margin-bottom: 10px;  /* Space before the submit button */
+}
+
+#submitQuiz {
+    display: block;       /* Ensures the logo is treated as a block-level element */
+    margin: 0 auto;       /* Auto margins on both sides to center it horizontally */
+    position: relative; 
+
+}
+
+
+
+
+
+
+/* Responsive Design Adjustments */
+@media (max-width: 768px) {
+    .container, #inputArea input, button {
+        width: 90%; /* More screen space usage on smaller devices */
+        margin: auto;
+    }
+
+    #inputArea {
+        flex-direction: column; /* Stack elements vertically on small screens */
+        align-items: center;
+    }
+
+    button {
+        width: auto;
+        margin-top: 10px; /* Add space between input and button on small screens */
+    }
+}

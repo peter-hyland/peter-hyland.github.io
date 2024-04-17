@@ -1,0 +1,244 @@
+Issue Date: 28/09/2023
+  Universal Fibre Solution
+App-Based Training Intro and Happy/ Unhappy Guides
+Website: https://www.dexgreen.com Email: sales@dexgreen.com
+ 1
+Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+ 
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+Table of Contents
+Installation Guide............................................................................ 2
+3-Port .................................................................................................. 4
+1.1 Strain Relief ................................................................................................. 4 1.2 Port Not Fixed in Place ............................................................................ 4 1.3 Order of Ports ............................................................................................ 5 1.4 Bumble Bee ............................................................................................... 5 1.5 Gas Blocking .............................................................................................. 6
+FTTP .................................................................................................... 7
+2.1 Fan Out Management ............................................................................. 7 2.2 Fan Out Routing ....................................................................................... 7 2.3 Cable Management to Ports ................................................................ 8
+Splice Through ................................................................................ 8
+3.1 Cable Strain Relief .................................................................................... 8 3.2 Port Securing ............................................................................................ 9
+Ethernet ............................................................................................ 10
+4.1 Dressing MPO to SC/APC ...................................................................... 10
+Fibre Management ....................................................................... 11
+5.1 Storing Slack in Tray ............................................................................... 11 5.2 Routing to Splice Protectors ............................................................... 12 5.3 Routing From Top Left Port ................................................................... 12 5.4 Routing From Top Right Port ................................................................ 13 5.5 Routing From Bottom Right Port ........................................................ 13 5.6 Routing Outgoing Fibres From Trays ................................................. 14 5.7 Routing Incoming Fibres to Trays ...................................................... 14
+ClosingtheClosure...................................................................... 15
+  6.1 Locking the Closure ................................................................................
+15
+ 2
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution
+ISSUE DATE: 28/09/2023
+ App-Based Training Intro and Happy/ Unhappy Guides
+  What is the UFS?
+• Universal Fibre Solution is a fully modular, low footprint enclosure that caters for multiple configurations, i.e., BFT (Blown Fibre Tubes), splitter (in various counts), connectorised and various others according to the Operators’ requirements.
+• The enclosure achieves this via a series of interchangeable entry ports and grommets, which make it suitable to receive all cable structures in the network at the same time in one compact consolidated closure
+• These ports can accommodate a multitude of cables in various diameters. These are all supplied with closure as standard
+For App Support: Contact app@dexgreen.com
+Download the DexGreen Openreach App from the Comp Portal app and register with your Openreach email for immediate
+     access or go to:
+www.dexgreen.com/ufs
+  Overview of the App-Based Modules
+   3D Interactive Model
+Showcasing the different configurations of the UFS and press the buttons to animate the different positions of the UFS
+Happy/ Unhappy Guides
+Interactive Scenarios designed to teach you about the common Dos and Don'ts when using the UFS
+Kit Contents
+See all the item codes and accessories for the UFS – including reference information.
+Self-Assessment
+Question Bank Assessment gives you a proof of learning confirmation PDF.
+Video Guides
+View the Two Installation videos broken into step- by-step chunks, designed for maximum knowledge retention.
+Upload Evidence
+Submit samples of your UFS work to win DexGreen merch and to help train our Next-Gen AI Virtual Buddy tool – Similar to our CSP AI.
+      3
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+   3-Port – 1.1 Strain Relief
+For Videos and more:
+Download the DexGreen Openreach App from your Comp Portal
+      Happy
+The cable is correctly used on the central strength member and screwed in place. This ensures that the cable won’t become loose if it is tugged.
+3-Port – 1.2 Port not fixed in place
+Unhappy
+Not using the central strength member as the cable enters may result in the cable becoming loose.
+       Happy
+When adding new ports to the UFS, ensure the following:
+1. All ports are screwed in place.
+2. The ports are correctly aligned within
+the rail.
+3. Screws are correctly aligned.
+Unhappy
+This image shows where a port has been incorrectly installed. There is no screw, or the screw has been incorrectly aligned. And the port is not aligned with its rail.
+ 4
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+   3-Port – 1.3 Order of Ports
+For Videos and more:
+Download the DexGreen Openreach App from your Comp Portal
+      Happy
+The incoming port is always located on the bottom left. Outgoing ports should be used in the following order:
+1. Bottom Right
+2. Top Right
+3. Top Left.
+3-Port – 1.4 Bumble Bee
+Unhappy
+Starting from other port points will cause issues with the box hygiene and cable messiness for future installations. You may also inadvertently introduce kinks and harsh bends on the fibre.
+       Happy
+When using the yellow/ black Bumble Bees, affix them to the holder correctly. This ensures that the tubes leave the connectors correctly and cause no fibre routing issues and secure the connectors within the box.
+Unhappy
+If the yellow/ black Bumble Bee connectors are incorrectly affixed within the UFS, it will result in a poor seal on the cable. Cables may become loose in the box, and overall fibre hygiene could be disrupted.
+ 5
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+   3-Port – 1.5 Gas Blocking
+Happy
+Seal the bottom of the cone at the cable entry point and fill the cone with resin to ensure a gas-blocked seal. Use the guide rail in the box to ensure that the cone is secured within the enclosure. Use the strain relief to give an extra layer of strength.
+For Videos and more:
+Download the DexGreen Openreach App from your Comp Portal
+Unhappy
+If the cable is not correctly gas blocked, it may cause health and safety concerns. Common faults include not using putty, not using enough gas block resin, or not letting the gas block resin set before inserting it into the box. If cone is not inserted into the rails or the strain relief is not used, the cone may become loose.
+      6
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+   FTTP – 2.1 Fan Out Management
+For Videos and more:
+Download the DexGreen Openreach App from your Comp Portal
+       Happy
+The manifold is fixed in the correct position with the 2mm cable feeding from the left. This will allow for the fan out to be managed neatly in a confined space.
+FTTP – 2.2 Fan Out Routing
+Unhappy
+The manifold is fixed in the incorrect position with the 2mm cable feeding from the right. This may cause difficulty with managing the fan out neatly in a confined space.
+       Happy
+The fan out has gradual curves to ensure that the minimum bend radius is safely within tolerances. It uses both mandrels to direct the cable into a position where it can be terminated into adapters.
+Unhappy
+When the fan out has harsh bends, it may result in a degraded customer connection and can open the cable up to the risk of further damage. Not making use of both mandrels may cause either an excess or lack of fan out length which can cause the fibre cables to become damaged or kinked.
+ 7
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+For Videos and more:
+FTTP – 2.3 Cable Management to Ports Download the DexGreen Openreach App from
+        Happy
+The fibre cable is managed neatly when terminated to ports. This allows an even bend radiuses to be maintained and avoids kinks and damage to the fibre cable.
+your Comp Portal
+Unhappy
+The fibre cables are not managed correctly when terminated to ports, which can cause kinks and damage to the fibre cable. The mandrels must be used properly to protect the bend radiuses.
+ Splice Through – 3.1 Cable Strain Relief
+Happy
+The cable is correctly used on the strain relief, this ensures that the cable won’t become loose if it is tugged. Securing the cable, grommet and Kevlar will insure optimum strain relief.
+      Unhappy
+Not using the strain relief may result in the cable becoming loose or damaged.
+ 8
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+   Splice Through – 3.2 Port Securing
+Happy
+Ensure the following when securing the connector ports:
+1. All ports are independently secured with the cable tie when a cable is inserted, ensure the fibre cable strength member is doubling back on itself when using the cable tie.
+2. All ports are present i.e., no gaps.
+3. All ports are within their rails.
+4. All ports are in the correct orientation.
+For Videos and more:
+Download the DexGreen Openreach App from your Comp Portal
+Unhappy
+1. If the ports and fibre cable are not correctly secured with a cable tie, the ports and cables may become loose, causing damage.
+2. All 2A ports must be present, and in the rails, otherwise the other connectors will fall out.
+3. When using the Ports, they must be flipped in the correct orientation i.e., flat edge facing into the box.
+       9
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+  For Videos and more:
+Download the DexGreen Openreach App from your Comp Portal
+Unhappy
+When the fan out has harsh bends, it may result in a degraded customer connection and can open the cable up to the risk of further damage.
+Not storing the fan out in the correct location may cause it to be interfered by other cables entering the closure.
+Not carrying out a figure of 8 will cause the SC/UPC connectorised end of the fan out to not be managed correctly.
+ Ethernet – 4.1 Dressing MPO to SC/APC
+Happy
+When dressing the MPO fanout onto the SC/UPC, ensure that the fan out is correctly managed with no excess or harsh bends within the centre of the overlength manager.
+The cable must follow figure of 8 routing to ensure bend management for both ends of the fan out.
+      10
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+For Videos and more:
+Fibre Management – 5.1 Storing slack in Tray Download the DexGreen Openreach
+        Happy
+Ensure that the COF950 cable is routed into the box correctly. The COF950 tubes should not go up into the splice trays as the tubing will kink and the cable may get damaged. The Fibre Cables will access trays on the opposite side of the tray to where the splice will need to be made.
+App from your Comp Portal
+Unhappy
+If the COF950 cable tubing is brought up into the splice trays, it will cause the tubing to kink, damaging the cable, and insufficient slack will be stored, resulting in insufficient cable to complete rework or customer connections.
+The fibre cables must enter the splice trays from the opposite side to where the
+splice will be made, this ensures that the fibre bend radius is met, and the cable will be stored correctly.
+ 11
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution
+ISSUE DATE: 28/09/2023
+ App-Based Training Intro and Happy/ Unhappy Guides
+Fibre Management – 5.2 Routing to splice protectors
+For Videos and more: Download the DexGreen Openreach App from your Comp Portal
+         Happy
+The fibre cable is routed properly to splice point. The fibre cables must enter the splice trays from the opposite side to where the splice will be made, this ensures that the fibre bend radius is met, and the cable will be stored correctly.
+Unhappy
+Fibre Management – 5.3 Routing from top left port
+The fibre cable is routed badly to splice point. The fibre cables must enter the splice trays from the opposite side to where the splice will be made, this ensures that the fibre bend radius is met, and the cable will be stored correctly.
+       Happy
+The fibre cable from the splice through the top left is routed nicely to overlength.
+Unhappy
+The fibre cable is not stored in an appropriate track, which can result in insufficient storage for rework or completing the customer connection.
+ 12
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution
+ISSUE DATE: 28/09/2023
+ App-Based Training Intro and Happy/ Unhappy Guides
+Fibre Management – 5.4 Routing from top right port
+For Videos and more: Download the DexGreen Openreach App from your Comp Portal
+        Happy
+The fibre cable from splice through top right being routed nicely into overlength.
+Unhappy
+The fibre cable is not stored in an appropriate track, which can result in insufficient storage for rework or completing the customer connection.
+ Fibre Management – 5.5 Routing from bottom right port
+      Happy
+Unhappy
+The tubes are stored correctly within The tubes stored are around overlength overlength. which is incorrect.
+ 13
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+Fibre Management – 5.6 Routing Outgoing fibres from trays
+        Happy
+The outgoing pigtails are routed up to right channel, ensuring that the cable is protected and correctly managed.
+Unhappy
+The outgoing pigtails routed up to left channel which can result in insufficient storage for rework or completing the customer connection. It will also reduce the quality of the box hygiene.
+ Fibre Management – 5.7 Routing Incoming fibres to trays
+      Happy
+The incoming fibres are going up the left- hand side channel.
+Unhappy
+The incoming fibres are going up the right-hand side channel, which is incorrect.
+For Videos and more:
+Download the DexGreen Openreach App from your Comp Portal
+ 14
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+For Videos and more:
+Closing the Closure– 6.1 Locking the Closure Download the DexGreen Openreach
+        Happy
+Ensure the door is fully closed with all latch points in place.
+App from your Comp Portal
+Unhappy
+Ensure that the door is fully closed. From this image, you can see that two latch points are loose.
+ 15
+ Tel: +353 21 4317 955 Email: sales@dexgreen.com 28/09/2023 © Copyright DexGreen Ltd. All Rights Reserved.
+  
+ 
+    Universal Fibre Solution ISSUE DATE: 28/09/2023 App-Based Training Intro and Happy/ Unhappy Guides
+    For More Information
+Scan the QR Code Above or go to dexgreen.com/ufs
+Issue Date: 28/09/2023 © Copyright

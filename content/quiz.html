@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Micro-learning Questions</title>
+    <link rel="stylesheet" href="../static/styles/styles.css">
+</head>
+<body>
+    <header>
+        <img id="skillsbase_logo" src="../static/images/skillsbase.png">
+    </header>
+
+    <main class="container">
+        <h1>Micro-learning Questions</h1>
+
+        <section class="quiz-section">
+            <div class="input-area">
+                <input type="text" id="courseInput" placeholder="Enter Course Code">
+                <button onclick="getQuizFromInput()">Get Quiz</button>
+            </div>
+
+            <div id="loading" style="display: none;">
+                <img id="loader" src="../static/images/loading.gif" alt="Loading..." />
+            </div>
+
+            <div id="quizForm" class="quiz-form"></div>
+        </section>
+
+        <div id="submitContainer" style="display: none;">
+            <button id="submitQuiz">Submit Quiz</button>
+        </div>
+
+
+    </main>
+
+    <script src="../static/scripts/quiz.js"></script>
+</body>
+</html>

@@ -56,13 +56,16 @@ h1 {
 
 .img-heading {
     border-radius: 1em;
-    
-    max-width: 50%;
+    max-width: 40%;
 }
 
-h2, h3, h4 {
+h2, h4 {
     color: var(--primary-color);
     margin-top: 1em;
+}
+ 
+strong {
+    color: var(--secondary-color);
 }
 
 h2 {
@@ -72,6 +75,7 @@ h2 {
 
 h3 {
     font-size: 1.75rem;
+    color: var(--secondary-color);
 }
 
 h4 {

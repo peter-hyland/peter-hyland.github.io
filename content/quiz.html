@@ -5,6 +5,203 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Micro-learning Questions</title>
     <link rel="stylesheet" href="../static/styles/styles.css">
+    <script>let currentQuizData = {
+        "Additional Quiz Questions": [
+            {
+                "Question": "What is the first step in ensuring proper fibre hygiene before conducting the splicing process?",
+                "Choices": [
+                    "Use an OPM and OLS to confirm reference reading",
+                    "Ensure connectors are cleaned correctly",
+                    "Use Kevlar Scissors to unsheathe the cable",
+                    "Place a splice protector over the exposed tight buffer tube"
+                ],
+                "Answer": "Ensure connectors are cleaned correctly",
+                "Explanation": "The first step in ensuring proper fibre hygiene is to clean the connectors correctly before starting the splicing process. This helps in preventing contamination and potential issues in the splice."
+            },
+            {
+                "Question": "Why is it important to clean the bare fibre with fibre cleaning fluid and a fibre cleaning wipe?",
+                "Choices": [
+                    "To increase the flexibility of the fibre",
+                    "To make the fibre easier to handle",
+                    "To prevent potential signal loss or physical damage",
+                    "To remove any contaminants and ensure a high-quality splice"
+                ],
+                "Answer": "To remove any contaminants and ensure a high-quality splice",
+                "Explanation": "Cleaning the bare fibre with fibre cleaning fluid and a fibre cleaning wipe is crucial to remove any potential contaminants. This step ensures a high-quality splice by preventing issues that might arise from dirty fibres."
+            },
+            {
+                "Question": "What was the result of not using fibre gloves and failing to clean the fibre correctly?",
+                "Choices": [
+                    "No noticeable effect on the splice quality",
+                    "The splice was stronger",
+                    "A significant loss difference of 0.26dB was noticed",
+                    "The process was faster"
+                ],
+                "Answer": "A significant loss difference of 0.26dB was noticed",
+                "Explanation": "Not using fibre gloves and failing to clean the fibre correctly resulted in a poor splice procedure with a significant loss difference of 0.26dB. This underlines the importance of maintaining proper fibre hygiene."
+            },
+            {
+                "Question": "How does incorrect splice hygiene, such as not sufficiently cooling the splice protector, impact the splice?",
+                "Choices": [
+                    "Makes the splice process quicker",
+                    "Improves the aesthetic appearance of the splice",
+                    "Has no effect on the splice's durability",
+                    "Makes the splice fragile and potentially affects its performance"
+                ],
+                "Answer": "Makes the splice fragile and potentially affects its performance",
+                "Explanation": "Incorrect splice hygiene, such as not sufficiently cooling the splice protector, makes the splice fragile. This can negatively affect the splice's performance and durability, leading to potential issues."
+            }
+        ]
+    };
+    document.addEventListener('DOMContentLoaded', () => {
+        displayQuiz(currentQuizData);
+        document.getElementById('submitQuiz').addEventListener('click', submitQuiz);
+    });
+
+    function submitQuiz() {
+        const questions = document.querySelectorAll('.question');
+        let allAnswered = true;  // Flag to check if all questions have been answered
+    
+        // Remove any existing alert messages before checking the answers
+        const existingAlert = document.querySelector('.alert-message');
+        if (existingAlert) {
+            existingAlert.remove();
+        }
+    
+        questions.forEach((questionBlock, index) => {
+            const selectedInput = questionBlock.querySelector('input[type="radio"]:checked');
+            if (!selectedInput) {
+                allAnswered = false;  // Set the flag to false if any question is unanswered
+            }
+        });
+    
+        // If not all questions are answered, display a message just above the submit button and exit the function
+        if (!allAnswered) {
+            const answerAll = document.createElement('p');
+            answerAll.className = 'alert-message';  // A specific class for styling this message
+            answerAll.textContent = 'Please answer all of the questions above!';
+            answerAll.style.color = 'red';  // Make the text color red for visibility
+    
+            const submitButton = document.getElementById('submitQuiz');
+            submitButton.parentNode.insertBefore(answerAll, submitButton);
+    
+            return;  // Stop the function if there are unanswered questions
+        }
+        questions.forEach((questionBlock, index) => {
+            const selectedInput = questionBlock.querySelector('input[type="radio"]:checked');
+            const labels = questionBlock.querySelectorAll('label');
+            const inputs = questionBlock.querySelectorAll('input[type="radio"]'); // Select all radio inputs
+            const correctAnswer = currentQuizData['Additional Quiz Questions'][index].Answer;
+    
+            // Disable all radio buttons to prevent reselection
+            inputs.forEach(input => {
+                input.disabled = true;
+            });
+    
+            // Clear previous results before appending new content
+            questionBlock.querySelectorAll('.result-text, .explanation-text, .correct_con, .incorrect_con').forEach(el => el.remove());
+    
+            labels.forEach(label => {
+                const input = label.previousElementSibling;
+                if (input.value === correctAnswer) {
+                    label.classList.add('correct');
+                    label.classList.remove('incorrect');
+                } else {
+                    label.classList.add('incorrect');
+                    label.classList.remove('correct');
+                }
+            });
+    
+            if (selectedInput) {
+                const isSelectedCorrect = selectedInput.value === correctAnswer;
+                const resultContainer = document.createElement('div');
+                resultContainer.className = isSelectedCorrect ? 'correct_con' : 'incorrect_con';
+            
+                const resultText = document.createElement('p');
+                resultText.className = isSelectedCorrect ? 'correct' : 'incorrect';
+                resultText.textContent = isSelectedCorrect ? 'Correct!' : 'Incorrect!';
+                resultContainer.appendChild(resultText); // Append result text to the container
+    
+                const correctAnsLabel = document.createElement('p');
+                correctAnsLabel.className = isSelectedCorrect ? 'correct' : 'incorrect';
+                correctAnsLabel.textContent = `Correct answer: ${correctAnswer}`
+                resultContainer.appendChild(correctAnsLabel); // Append result text to the container
+            
+                // Create and append the "Explanation:" label
+                const explanationLabel = document.createElement('p');
+                explanationLabel.className = 'explanation-label';
+                explanationLabel.textContent = 'Explanation:';
+                resultContainer.appendChild(explanationLabel); // Append the label to the container
+            
+                const explanationText = document.createElement('p');
+                explanationText.className = 'explanation-text';
+                explanationText.textContent = currentQuizData['Additional Quiz Questions'][index].Explanation;
+                resultContainer.appendChild(explanationText); // Append explanation text to the container
+            
+                questionBlock.appendChild(resultContainer);
+            }        
+            
+        });
+    }
+
+    function displayQuiz(quizData) {
+    const quizContainer = document.getElementById('quizForm');
+    quizContainer.innerHTML = ''; // Clear the quiz container before adding new content
+
+    quizData['Additional Quiz Questions'].forEach((question, index) => {
+        const questionBlock = document.createElement('div');
+        questionBlock.className = 'question';
+
+        const questionText = document.createElement('div');
+        questionText.className = 'question-text';
+        questionText.innerHTML = `<h2>Q${index + 1}: ${question.Question}</h2>`;
+
+        const choicesContainer = document.createElement('div');
+        choicesContainer.className = 'choices-container';
+
+        const choicesList = document.createElement('ul');
+        choicesList.className = 'choices';
+
+        question.Choices.forEach((choice, choiceIndex) => {
+            const choiceItem = document.createElement('li');
+            const input = document.createElement('input');
+            input.type = 'radio';
+            input.id = `choice_${index}_${choiceIndex}`;
+            input.name = `question_${index}`;
+            input.value = choice;
+
+            const label = document.createElement('label');
+            label.htmlFor = input.id;
+            label.textContent = choice;
+            label.className = 'choice-label';
+
+            choiceItem.appendChild(input);
+            choiceItem.appendChild(label);
+            choicesList.appendChild(choiceItem);
+        });
+
+        choicesContainer.appendChild(choicesList);
+        questionBlock.appendChild(questionText);
+        questionBlock.appendChild(choicesContainer);
+        quizContainer.appendChild(questionBlock);
+    });
+
+    document.getElementById('submitContainer').style.display = 'block';
+    attachChoiceEventListeners();
+}
+
+    function attachChoiceEventListeners() {
+        const choices = document.querySelectorAll('.choices li label');
+        choices.forEach(choice => {
+            choice.addEventListener('click', function() {
+                const allChoicesInGroup = choice.closest('ul').querySelectorAll('label');
+                allChoicesInGroup.forEach(c => c.classList.remove('selected'));
+                choice.classList.add('selected');
+            });
+        });
+    }
+
+    </script>
 </head>
 <body>
     <header>
@@ -15,25 +212,13 @@
         <h1>Micro-learning Questions</h1>
 
         <section class="quiz-section">
-            <div class="input-area">
-                <input type="text" id="courseInput" placeholder="Enter Course Code">
-                <button onclick="getQuizFromInput()">Get Quiz</button>
-            </div>
-
-            <div id="loading" style="display: none;">
-                <img id="loader" src="../static/images/loading.gif" alt="Loading..." />
-            </div>
-
             <div id="quizForm" class="quiz-form"></div>
         </section>
 
         <div id="submitContainer" style="display: none;">
             <button id="submitQuiz">Submit Quiz</button>
         </div>
-
-
     </main>
 
-    <script src="../static/scripts/quiz.js"></script>
 </body>
 </html>

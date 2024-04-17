@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Micro-learning Questions</title>
     <link rel="stylesheet" href="../static/styles/styles.css">
-    <script>let currentQuizData = {
+    <script>
+    let currentQuizData = {
         "Additional Quiz Questions": [
             {
                 "Question": "What is the first step in ensuring proper fibre hygiene before conducting the splicing process?",
@@ -53,102 +54,49 @@
             }
         ]
     };
-    document.addEventListener('DOMContentLoaded', () => {
-        displayQuiz(currentQuizData);
-        document.getElementById('submitQuiz').addEventListener('click', submitQuiz);
-    });
 
-    function submitQuiz() {
-        const questions = document.querySelectorAll('.question');
-        let allAnswered = true;  // Flag to check if all questions have been answered
-    
-        // Remove any existing alert messages before checking the answers
-        const existingAlert = document.querySelector('.alert-message');
-        if (existingAlert) {
-            existingAlert.remove();
-        }
-    
-        questions.forEach((questionBlock, index) => {
-            const selectedInput = questionBlock.querySelector('input[type="radio"]:checked');
-            if (!selectedInput) {
-                allAnswered = false;  // Set the flag to false if any question is unanswered
+    document.addEventListener('DOMContentLoaded', () => {
+    const params = new URLSearchParams(window.location.search);
+    const questionsToDisplay = params.get('questions'); // Get the 'questions' parameter from the URL
+    displayQuiz(currentQuizData, questionsToDisplay);
+    document.getElementById('submitQuiz').addEventListener('click', submitQuiz);
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+    const params = new URLSearchParams(window.location.search);
+    const questionsToDisplay = params.get('questions'); // Get the 'questions' parameter from the URL
+    displayQuiz(currentQuizData, questionsToDisplay);
+    document.getElementById('submitQuiz').addEventListener('click', submitQuiz);
+});
+
+function displayQuiz(quizData, questionsToDisplay) {
+    const quizContainer = document.getElementById('quizForm');
+    quizContainer.innerHTML = ''; // Clear the quiz container
+
+    let questionIndexes = [];
+    if (questionsToDisplay) {
+        // Adjust split operation to handle different potential delimiters
+        const parts = questionsToDisplay.replace(/\s+/g, '+').split('+'); // Replaces all spaces with '+' and then splits
+        console.log('Split parts:', parts); // Debugging: Check the parts array
+
+        for (let i = 0; i < parts.length; i++) {
+            const num = parseInt(parts[i]);
+            if (!isNaN(num)) {
+                questionIndexes.push(num - 1); // Convert to zero-based index
+            } else {
+                console.error('Invalid number parsed:', parts[i]); // Error logging for invalid numbers
             }
-        });
-    
-        // If not all questions are answered, display a message just above the submit button and exit the function
-        if (!allAnswered) {
-            const answerAll = document.createElement('p');
-            answerAll.className = 'alert-message';  // A specific class for styling this message
-            answerAll.textContent = 'Please answer all of the questions above!';
-            answerAll.style.color = 'red';  // Make the text color red for visibility
-    
-            const submitButton = document.getElementById('submitQuiz');
-            submitButton.parentNode.insertBefore(answerAll, submitButton);
-    
-            return;  // Stop the function if there are unanswered questions
         }
-        questions.forEach((questionBlock, index) => {
-            const selectedInput = questionBlock.querySelector('input[type="radio"]:checked');
-            const labels = questionBlock.querySelectorAll('label');
-            const inputs = questionBlock.querySelectorAll('input[type="radio"]'); // Select all radio inputs
-            const correctAnswer = currentQuizData['Additional Quiz Questions'][index].Answer;
-    
-            // Disable all radio buttons to prevent reselection
-            inputs.forEach(input => {
-                input.disabled = true;
-            });
-    
-            // Clear previous results before appending new content
-            questionBlock.querySelectorAll('.result-text, .explanation-text, .correct_con, .incorrect_con').forEach(el => el.remove());
-    
-            labels.forEach(label => {
-                const input = label.previousElementSibling;
-                if (input.value === correctAnswer) {
-                    label.classList.add('correct');
-                    label.classList.remove('incorrect');
-                } else {
-                    label.classList.add('incorrect');
-                    label.classList.remove('correct');
-                }
-            });
-    
-            if (selectedInput) {
-                const isSelectedCorrect = selectedInput.value === correctAnswer;
-                const resultContainer = document.createElement('div');
-                resultContainer.className = isSelectedCorrect ? 'correct_con' : 'incorrect_con';
-            
-                const resultText = document.createElement('p');
-                resultText.className = isSelectedCorrect ? 'correct' : 'incorrect';
-                resultText.textContent = isSelectedCorrect ? 'Correct!' : 'Incorrect!';
-                resultContainer.appendChild(resultText); // Append result text to the container
-    
-                const correctAnsLabel = document.createElement('p');
-                correctAnsLabel.className = isSelectedCorrect ? 'correct' : 'incorrect';
-                correctAnsLabel.textContent = `Correct answer: ${correctAnswer}`
-                resultContainer.appendChild(correctAnsLabel); // Append result text to the container
-            
-                // Create and append the "Explanation:" label
-                const explanationLabel = document.createElement('p');
-                explanationLabel.className = 'explanation-label';
-                explanationLabel.textContent = 'Explanation:';
-                resultContainer.appendChild(explanationLabel); // Append the label to the container
-            
-                const explanationText = document.createElement('p');
-                explanationText.className = 'explanation-text';
-                explanationText.textContent = currentQuizData['Additional Quiz Questions'][index].Explanation;
-                resultContainer.appendChild(explanationText); // Append explanation text to the container
-            
-                questionBlock.appendChild(resultContainer);
-            }        
-            
-        });
+    } else {
+        // Default to displaying all questions if none are specifically requested
+        questionIndexes = quizData['Additional Quiz Questions'].map((_, index) => index);
     }
 
-    function displayQuiz(quizData) {
-    const quizContainer = document.getElementById('quizForm');
-    quizContainer.innerHTML = ''; // Clear the quiz container before adding new content
+    console.log('Question indexes:', questionIndexes); // Debugging: Check the final indexes
 
     quizData['Additional Quiz Questions'].forEach((question, index) => {
+        if (!questionIndexes.includes(index)) return; // Skip if the index is not in the list
+
         const questionBlock = document.createElement('div');
         questionBlock.className = 'question';
 
@@ -186,18 +134,99 @@
         quizContainer.appendChild(questionBlock);
     });
 
-    document.getElementById('submitContainer').style.display = 'block';
-    attachChoiceEventListeners();
+    // Display the submit container if there are any questions
+    if (quizContainer.children.length > 0) {
+        document.getElementById('submitContainer').style.display = 'block';
+    } else {
+        console.error('No questions matched the parameters.'); // Debug error if no questions match
+    }
 }
 
-    function attachChoiceEventListeners() {
-        const choices = document.querySelectorAll('.choices li label');
-        choices.forEach(choice => {
-            choice.addEventListener('click', function() {
-                const allChoicesInGroup = choice.closest('ul').querySelectorAll('label');
-                allChoicesInGroup.forEach(c => c.classList.remove('selected'));
-                choice.classList.add('selected');
+
+
+    function submitQuiz() {
+        const questions = document.querySelectorAll('.question');
+        let allAnswered = true;  // Flag to check if all questions have been answered
+
+        // Remove any existing alert messages before checking the answers
+        const existingAlert = document.querySelector('.alert-message');
+        if (existingAlert) {
+            existingAlert.remove();
+        }
+
+        questions.forEach((questionBlock, index) => {
+            const selectedInput = questionBlock.querySelector('input[type="radio"]:checked');
+            if (!selectedInput) {
+                allAnswered = false;  // Set the flag to false if any question is unanswered
+            }
+        });
+
+        // If not all questions are answered, display a message just above the submit button and exit the function
+        if (!allAnswered) {
+            const answerAll = document.createElement('p');
+            answerAll.className = 'alert-message';  // A specific class for styling this message
+            answerAll.textContent = 'Please answer all of the questions above!';
+            answerAll.style.color = 'red';  // Make the text color red for visibility
+
+            const submitButton = document.getElementById('submitQuiz');
+            submitButton.parentNode.insertBefore(answerAll, submitButton);
+
+            return;  // Stop the function if there are unanswered questions
+        }
+
+        questions.forEach((questionBlock, index) => {
+            const selectedInput = questionBlock.querySelector('input[type="radio"]:checked');
+            const labels = questionBlock.querySelectorAll('label');
+            const inputs = questionBlock.querySelectorAll('input[type="radio"]'); // Select all radio inputs
+            const correctAnswer = currentQuizData['Additional Quiz Questions'][index].Answer;
+
+            // Disable all radio buttons to prevent reselection
+            inputs.forEach(input => {
+                input.disabled = true;
             });
+
+            // Clear previous results before appending new content
+            questionBlock.querySelectorAll('.result-text, .explanation-text, .correct_con, .incorrect_con').forEach(el => el.remove());
+
+            labels.forEach(label => {
+                const input = label.previousElementSibling;
+                if (input.value === correctAnswer) {
+                    label.classList.add('correct');
+                    label.classList.remove('incorrect');
+                } else {
+                    label.classList.add('incorrect');
+                    label.classList.remove('correct');
+                }
+            });
+
+            if (selectedInput) {
+                const isSelectedCorrect = selectedInput.value === correctAnswer;
+                const resultContainer = document.createElement('div');
+                resultContainer.className = isSelectedCorrect ? 'correct_con' : 'incorrect_con';
+
+                const resultText = document.createElement('p');
+                resultText.className = isSelectedCorrect ? 'correct' : 'incorrect';
+                resultText.textContent = isSelectedCorrect ? 'Correct!' : 'Incorrect!';
+                resultContainer.appendChild(resultText); // Append result text to the container
+
+                const correctAnsLabel = document.createElement('p');
+                correctAnsLabel.className = isSelectedCorrect ? 'correct' : 'incorrect';
+                correctAnsLabel.textContent = `Correct answer: ${correctAnswer}`;
+                resultContainer.appendChild(correctAnsLabel); // Append result text to the container
+
+                // Create and append the "Explanation:" label
+                const explanationLabel = document.createElement('p');
+                explanationLabel.className = 'explanation-label';
+                explanationLabel.textContent = 'Explanation:';
+                resultContainer.appendChild(explanationLabel); // Append the label to the container
+
+                const explanationText = document.createElement('p');
+                explanationText.className = 'explanation-text';
+                explanationText.textContent = currentQuizData['Additional Quiz Questions'][index].Explanation;
+                resultContainer.appendChild(explanationText); // Append explanation text to the container
+
+                questionBlock.appendChild(resultContainer);
+            }
         });
     }
 

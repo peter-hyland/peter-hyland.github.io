@@ -1,303 +1,309 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Micro-learning Questions</title>
     <link rel="stylesheet" href="../static/styles/styles.css">
     <script>
-    let currentQuizData = {
-  "Additional Quiz Questions": [
-    {
-      "Question": "What is the CN drawing number for a JMF110?",
-      "Choices": [
-        "CN15083-01",
-        "CN14982-04",
-        "CN14872-03",
-        "CN14762-02"
-      ],
-      "Answer": "CN14982-04",
-      "Explanation": "The CN drawing number for a JMF110 is CN14982-04 as per the standards for construction specifications."
-    },
-    {
-      "Question": "When is it permissible to construct a JMF102 using 2 rings set on a Type 1 granular sub-base?",
-      "Choices": [
-        "Always",
-        "Never",
-        "When specified by a project engineer",
-        "Following industry standards"
-      ],
-      "Answer": "When specified by a project engineer",
-      "Explanation": "It is permissible to construct a JMF102 using 2 rings set on a Type 1 granular sub-base when specifically instructed by a project engineer, ensuring alignment with specified construction standards."
-    },
-    {
-      "Question": "What must you ensure whilst carrying out work with existing joints and cables in the excavation?",
-      "Choices": [
-        "All existing cables are live until proven otherwise",
-        "Direct contact with existing cables is avoided",
-        "All work complies with health and safety standards",
-        "All of the above"
-      ],
-      "Answer": "All of the above",
-      "Explanation": "When working with existing joints and cables in the excavation, it is critical to treat all cables as live until proven otherwise, avoid direct contact, and ensure all activities comply with health and safety standards."
-    },
-    {
-      "Question": "How should excavated material be managed on site?",
-      "Choices": [
-        "Reused for backfilling if suitable",
-        "Disposed of as per environmental regulations",
-        "Sorted based on material type",
-        "All of the above"
-      ],
-      "Answer": "All of the above",
-      "Explanation": "Excavated material should be managed by evaluating its suitability for reuse in backfilling, disposed of in compliance with environmental regulations, and sorted based on material type to optimize resource utilization."
-    },
-    {
-      "Question": "What safety precautions should be taken into consideration for the excavation?",
-      "Choices": [
-        "Wearing appropriate PPE",
-        "Securing excavation walls",
-        "Monitoring atmospheric conditions within the excavation",
-        "All of the above"
-      ],
-      "Answer": "All of the above",
-      "Explanation": "Safety precautions for excavation include wearing proper personal protective equipment (PPE), securing excavation walls to prevent collapses, and monitoring atmospheric conditions to ensure safe air quality."
-    },
-    {
-      "Question": "What is the minimum size diameter for a sump hole in a JMF106?",
-      "Choices": [
-        "150mm",
-        "200mm",
-        "225mm +-10mm",
-        "250mm"
-      ],
-      "Answer": "225mm +-10mm",
-      "Explanation": "The minimum size diameter for a sump hole in a JMF106 is 225mm +-10mm, ensuring adequate drainage and functionality of the sump system."
-    },
-    {
-      "Question": "How much can the duct protrude the modular chamber?",
-      "Choices": [
-        "5mm to 15mm",
-        "Minimum of 10mm and a maximum of 25mm",
-        "30mm to 45mm",
-        "Should be flush with the chamber wall"
-      ],
-      "Answer": "Minimum of 10mm and a maximum of 25mm",
-      "Explanation": "The duct can protrude the modular chamber by a minimum of 10mm and a maximum of 25mm, which is a specification designed to ensure proper fitting and function within the chamber structure."
-    },
-    {
-      "Question": "Is it permissible to drill a ring then cut it vertically?",
-      "Choices": [
-        "Yes, without restrictions",
-        "Only if using a specialized drill",
-        "Yes, as long as a complete ring is installed above and below the cut ring",
-        "No, it is never permissible"
-      ],
-      "Answer": "Yes, as long as a complete ring is installed above and below the cut ring",
-      "Explanation": "It is permissible to drill a ring then cut it vertically as long as a complete ring is installed both above and below the cut ring, ensuring structural integrity and compliance with construction specs."
-    },
-    {
-      "Question": "What type of mesh is used to construct the base of a JMF106?",
-      "Choices": [
-        "B113 mesh",
-        "A393 mesh",
-        "C250 mesh",
-        "D500 mesh"
-      ],
-      "Answer": "A393 mesh",
-      "Explanation": "The base of a JMF106 utilizes A393 mesh for construction, providing the required strength and stability as per the engineering specifications."
-    },
-    {
-      "Question": "At what point must steps be provided on a JMF106?",
-      "Choices": [
-        "When deeper than 600mm",
-        "When deeper than 700mm",
-        "When deeper than 800mm",
-        "No requirement for steps regardless of depth"
-      ],
-      "Answer": "When deeper than 700mm",
-      "Explanation": "Steps must be provided on a JMF106 when the chamber is deeper than 700mm, ensuring safe access and egress for maintenance or inspection activities."
-    }
-  ]
-};
+        let currentQuizData = {
+            "Additional Quiz Questions": [
+                {
+                    "Question": "What is the CN drawing number for a JMF110?",
+                    "Choices": [
+                        "CN15083-01",
+                        "CN14982-04",
+                        "CN14872-03",
+                        "CN14762-02"
+                    ],
+                    "Answer": "CN14982-04",
+                    "Explanation": "The CN drawing number for a JMF110 is CN14982-04 as per the standards for construction specifications."
+                },
+                {
+                    "Question": "When is it permissible to construct a JMF102 using 2 rings set on a Type 1 granular sub-base?",
+                    "Choices": [
+                        "Always",
+                        "Never",
+                        "When specified by a project engineer",
+                        "Following industry standards"
+                    ],
+                    "Answer": "When specified by a project engineer",
+                    "Explanation": "It is permissible to construct a JMF102 using 2 rings set on a Type 1 granular sub-base when specifically instructed by a project engineer, ensuring alignment with specified construction standards."
+                },
+                {
+                    "Question": "What must you ensure whilst carrying out work with existing joints and cables in the excavation?",
+                    "Choices": [
+                        "All existing cables are live until proven otherwise",
+                        "Direct contact with existing cables is avoided",
+                        "All work complies with health and safety standards",
+                        "All of the above"
+                    ],
+                    "Answer": "All of the above",
+                    "Explanation": "When working with existing joints and cables in the excavation, it is critical to treat all cables as live until proven otherwise, avoid direct contact, and ensure all activities comply with health and safety standards."
+                },
+                {
+                    "Question": "How should excavated material be managed on site?",
+                    "Choices": [
+                        "Reused for backfilling if suitable",
+                        "Disposed of as per environmental regulations",
+                        "Sorted based on material type",
+                        "All of the above"
+                    ],
+                    "Answer": "All of the above",
+                    "Explanation": "Excavated material should be managed by evaluating its suitability for reuse in backfilling, disposed of in compliance with environmental regulations, and sorted based on material type to optimize resource utilization."
+                },
+                {
+                    "Question": "What safety precautions should be taken into consideration for the excavation?",
+                    "Choices": [
+                        "Wearing appropriate PPE",
+                        "Securing excavation walls",
+                        "Monitoring atmospheric conditions within the excavation",
+                        "All of the above"
+                    ],
+                    "Answer": "All of the above",
+                    "Explanation": "Safety precautions for excavation include wearing proper personal protective equipment (PPE), securing excavation walls to prevent collapses, and monitoring atmospheric conditions to ensure safe air quality."
+                },
+                {
+                    "Question": "What is the minimum size diameter for a sump hole in a JMF106?",
+                    "Choices": [
+                        "150mm",
+                        "200mm",
+                        "225mm +-10mm",
+                        "250mm"
+                    ],
+                    "Answer": "225mm +-10mm",
+                    "Explanation": "The minimum size diameter for a sump hole in a JMF106 is 225mm +-10mm, ensuring adequate drainage and functionality of the sump system."
+                },
+                {
+                    "Question": "How much can the duct protrude the modular chamber?",
+                    "Choices": [
+                        "5mm to 15mm",
+                        "Minimum of 10mm and a maximum of 25mm",
+                        "30mm to 45mm",
+                        "Should be flush with the chamber wall"
+                    ],
+                    "Answer": "Minimum of 10mm and a maximum of 25mm",
+                    "Explanation": "The duct can protrude the modular chamber by a minimum of 10mm and a maximum of 25mm, which is a specification designed to ensure proper fitting and function within the chamber structure."
+                },
+                {
+                    "Question": "Is it permissible to drill a ring then cut it vertically?",
+                    "Choices": [
+                        "Yes, without restrictions",
+                        "Only if using a specialized drill",
+                        "Yes, as long as a complete ring is installed above and below the cut ring",
+                        "No, it is never permissible"
+                    ],
+                    "Answer": "Yes, as long as a complete ring is installed above and below the cut ring",
+                    "Explanation": "It is permissible to drill a ring then cut it vertically as long as a complete ring is installed both above and below the cut ring, ensuring structural integrity and compliance with construction specs."
+                },
+                {
+                    "Question": "What type of mesh is used to construct the base of a JMF106?",
+                    "Choices": [
+                        "B113 mesh",
+                        "A393 mesh",
+                        "C250 mesh",
+                        "D500 mesh"
+                    ],
+                    "Answer": "A393 mesh",
+                    "Explanation": "The base of a JMF106 utilizes A393 mesh for construction, providing the required strength and stability as per the engineering specifications."
+                },
+                {
+                    "Question": "At what point must steps be provided on a JMF106?",
+                    "Choices": [
+                        "When deeper than 600mm",
+                        "When deeper than 700mm",
+                        "When deeper than 800mm",
+                        "No requirement for steps regardless of depth"
+                    ],
+                    "Answer": "When deeper than 700mm",
+                    "Explanation": "Steps must be provided on a JMF106 when the chamber is deeper than 700mm, ensuring safe access and egress for maintenance or inspection activities."
+                }
+            ]
+        };
 
-    document.addEventListener('DOMContentLoaded', () => {
-    const params = new URLSearchParams(window.location.search);
-    const questionsToDisplay = params.get('questions'); // Get the 'questions' parameter from the URL
-    displayQuiz(currentQuizData, questionsToDisplay);
-    document.getElementById('submitQuiz').addEventListener('click', submitQuiz);
-});
-
-document.addEventListener('DOMContentLoaded', () => {
-    const params = new URLSearchParams(window.location.search);
-    const questionsToDisplay = params.get('questions'); // Get the 'questions' parameter from the URL
-    displayQuiz(currentQuizData, questionsToDisplay);
-    document.getElementById('submitQuiz').addEventListener('click', submitQuiz);
-});
-
-function displayQuiz(quizData, questionsToDisplay) {
-    const quizContainer = document.getElementById('quizForm');
-    quizContainer.innerHTML = ''; // Clear the quiz container
-
-    let questionIndexes = [];
-    if (questionsToDisplay) {
-        // Adjust split operation to handle different potential delimiters
-        const parts = questionsToDisplay.replace(/\s+/g, '+').split('+'); // Replaces all spaces with '+' and then splits
-        console.log('Split parts:', parts); // Debugging: Check the parts array
-
-        for (let i = 0; i < parts.length; i++) {
-            const num = parseInt(parts[i]);
-            if (!isNaN(num)) {
-                questionIndexes.push(num - 1); // Convert to zero-based index
-            } else {
-                console.error('Invalid number parsed:', parts[i]); // Error logging for invalid numbers
-            }
-        }
-    } else {
-        // Default to displaying all questions if none are specifically requested
-        questionIndexes = quizData['Additional Quiz Questions'].map((_, index) => index);
-    }
-
-    console.log('Question indexes:', questionIndexes); // Debugging: Check the final indexes
-
-    quizData['Additional Quiz Questions'].forEach((question, index) => {
-        if (!questionIndexes.includes(index)) return; // Skip if the index is not in the list
-
-        const questionBlock = document.createElement('div');
-        questionBlock.className = 'question';
-
-        const questionText = document.createElement('div');
-        questionText.className = 'question-text';
-        questionText.innerHTML = `<h2>Q${index + 1}: ${question.Question}</h2>`;
-
-        const choicesContainer = document.createElement('div');
-        choicesContainer.className = 'choices-container';
-
-        const choicesList = document.createElement('ul');
-        choicesList.className = 'choices';
-
-        question.Choices.forEach((choice, choiceIndex) => {
-            const choiceItem = document.createElement('li');
-            const input = document.createElement('input');
-            input.type = 'radio';
-            input.id = `choice_${index}_${choiceIndex}`;
-            input.name = `question_${index}`;
-            input.value = choice;
-
-            const label = document.createElement('label');
-            label.htmlFor = input.id;
-            label.textContent = choice;
-            label.className = 'choice-label';
-
-            choiceItem.appendChild(input);
-            choiceItem.appendChild(label);
-            choicesList.appendChild(choiceItem);
+        document.addEventListener('DOMContentLoaded', () => {
+            const params = new URLSearchParams(window.location.search);
+            const questionsToDisplay = params.get('questions'); // Get the 'questions' parameter from the URL
+            displayQuiz(currentQuizData, questionsToDisplay);
+            document.getElementById('submitQuiz').addEventListener('click', submitQuiz);
         });
 
-        choicesContainer.appendChild(choicesList);
-        questionBlock.appendChild(questionText);
-        questionBlock.appendChild(choicesContainer);
-        quizContainer.appendChild(questionBlock);
+        document.addEventListener('DOMContentLoaded', () => {
+            const params = new URLSearchParams(window.location.search);
+            const questionsToDisplay = params.get('questions'); // Get the 'questions' parameter from the URL
+            displayQuiz(currentQuizData, questionsToDisplay);
+            document.getElementById('submitQuiz').addEventListener('click', submitQuiz);
+        });
+
+        function displayQuiz(quizData, questionsToDisplay) {
+            const quizContainer = document.getElementById('quizForm');
+            quizContainer.innerHTML = ''; // Clear the quiz container
+
+            let questionIndexes = [];
+            if (questionsToDisplay) {
+                // Adjust split operation to handle different potential delimiters
+                const parts = questionsToDisplay.replace(/\s+/g, '+').split('+'); // Replaces all spaces with '+' and then splits
+                console.log('Split parts:', parts); // Debugging: Check the parts array
+
+                for (let i = 0; i < parts.length; i++) {
+                    const num = parseInt(parts[i]);
+                    if (!isNaN(num)) {
+                        questionIndexes.push(num - 1); // Convert to zero-based index
+                    } else {
+                        console.error('Invalid number parsed:', parts[i]); // Error logging for invalid numbers
+                    }
+                }
+            } else {
+                // Default to displaying all questions if none are specifically requested
+                questionIndexes = quizData['Additional Quiz Questions'].map((_, index) => index);
+            }
+
+            console.log('Question indexes:', questionIndexes); // Debugging: Check the final indexes
+
+            quizData['Additional Quiz Questions'].forEach((question, index) => {
+                if (!questionIndexes.includes(index)) return; // Skip if the index is not in the list
+
+                const questionBlock = document.createElement('div');
+                questionBlock.className = 'question';
+
+                const questionText = document.createElement('div');
+                questionText.className = 'question-text';
+                questionText.innerHTML = `<h2>Q${index + 1}: ${question.Question}</h2>`;
+
+                const choicesContainer = document.createElement('div');
+                choicesContainer.className = 'choices-container';
+
+                const choicesList = document.createElement('ul');
+                choicesList.className = 'choices';
+
+                question.Choices.forEach((choice, choiceIndex) => {
+                    const choiceItem = document.createElement('li');
+                    const input = document.createElement('input');
+                    input.type = 'radio';
+                    input.id = `choice_${index}_${choiceIndex}`;
+                    input.name = `question_${index}`;
+                    input.value = choice;
+
+                    const label = document.createElement('label');
+                    label.htmlFor = input.id;
+                    label.textContent = choice;
+                    label.className = 'choice-label';
+
+                    choiceItem.appendChild(input);
+                    choiceItem.appendChild(label);
+                    choicesList.appendChild(choiceItem);
+                });
+
+                choicesContainer.appendChild(choicesList);
+                questionBlock.appendChild(questionText);
+                questionBlock.appendChild(choicesContainer);
+                quizContainer.appendChild(questionBlock);
+            });
+
+            // Display the submit container if there are any questions
+            if (quizContainer.children.length > 0) {
+                document.getElementById('submitContainer').style.display = 'block';
+            } else {
+                console.error('No questions matched the parameters.'); // Debug error if no questions match
+            }
+        }
+
+
+
+        function submitQuiz() {
+    const questions = document.querySelectorAll('.question');
+    let allAnswered = true;  // Flag to check if all questions have been answered
+
+    // Remove any existing alert messages before checking the answers
+    const existingAlert = document.querySelector('.alert-message');
+    if (existingAlert) {
+        existingAlert.remove();
+    }
+
+    // First pass: Check if all questions are answered
+    questions.forEach(questionBlock => {
+        const selectedInput = questionBlock.querySelector('input[type="radio"]:checked');
+        if (!selectedInput) {
+            allAnswered = false;  // Set the flag to false if any question is unanswered
+        }
     });
 
-    // Display the submit container if there are any questions
-    if (quizContainer.children.length > 0) {
-        document.getElementById('submitContainer').style.display = 'block';
-    } else {
-        console.error('No questions matched the parameters.'); // Debug error if no questions match
+    // If not all questions are answered, show an alert and stop further processing
+    if (!allAnswered) {
+        const answerAll = document.createElement('p');
+        answerAll.className = 'alert-message';  // A specific class for styling this message
+        answerAll.textContent = 'Please answer all of the questions above!';
+        answerAll.style.color = 'red';  // Make the text color red for visibility
+        const submitButton = document.getElementById('submitQuiz');
+        submitButton.parentNode.insertBefore(answerAll, submitButton);
+        return; // Exit the function early
     }
+
+    // Second pass: All questions are answered, now display the results and remove the submit button
+    questions.forEach(questionBlock => {
+        const selectedInput = questionBlock.querySelector('input[type="radio"]:checked');
+        questionBlock.querySelectorAll('input[type="radio"]').forEach(input => {
+            input.disabled = true;
+        });
+
+        const labels = questionBlock.querySelectorAll('label');
+        const originalIndex = parseInt(questionBlock.querySelector('input[type="radio"]').name.split('_')[1]);
+        const correctAnswer = currentQuizData['Additional Quiz Questions'][originalIndex].Answer;
+        const isSelectedCorrect = selectedInput.value === correctAnswer;
+
+        // Clear previous results
+        questionBlock.querySelectorAll('.result-text, .explanation-text, .correct_con, .incorrect_con').forEach(el => el.remove());
+
+        labels.forEach(label => {
+            const input = label.previousElementSibling;
+            if (input.value === correctAnswer) {
+                label.classList.add('correct');
+                label.classList.remove('incorrect');
+            } else {
+                label.classList.add('incorrect');
+                label.classList.remove('correct');
+            }
+        });
+
+        const resultContainer = document.createElement('div');
+        resultContainer.className = isSelectedCorrect ? 'correct_con' : 'incorrect_con';
+
+        const resultText = document.createElement('p');
+        resultText.className = 'result-text';
+        resultText.textContent = isSelectedCorrect ? 'Correct!' : 'Incorrect!';
+        resultContainer.appendChild(resultText);
+
+        const correctAnsLabel = document.createElement('p');
+        correctAnsLabel.className = 'correct-answer-label';
+        correctAnsLabel.textContent = `Correct answer: ${correctAnswer}`;
+        resultContainer.appendChild(correctAnsLabel);
+
+        const explanationLabel = document.createElement('p');
+        explanationLabel.className = 'explanation-label';
+        explanationLabel.textContent = 'Explanation:';
+        resultContainer.appendChild(explanationLabel);
+
+        const explanationText = document.createElement('p');
+        explanationText.className = 'explanation-text';
+        explanationText.textContent = currentQuizData['Additional Quiz Questions'][originalIndex].Explanation;
+        resultContainer.appendChild(explanationText);
+
+        questionBlock.appendChild(resultContainer);
+    });
+
+    // Remove the submit button now that the quiz is completed
+    const submitButton = document.getElementById('submitQuiz');
+    submitButton.style.display = 'none'; // Hides the submit button, alternatively use submitButton.remove(); to completely remove it
 }
 
 
 
-    function submitQuiz() {
-        const questions = document.querySelectorAll('.question');
-        let allAnswered = true;  // Flag to check if all questions have been answered
 
-        // Remove any existing alert messages before checking the answers
-        const existingAlert = document.querySelector('.alert-message');
-        if (existingAlert) {
-            existingAlert.remove();
-        }
-
-        questions.forEach((questionBlock, index) => {
-            const selectedInput = questionBlock.querySelector('input[type="radio"]:checked');
-            if (!selectedInput) {
-                allAnswered = false;  // Set the flag to false if any question is unanswered
-            }
-        });
-
-        // If not all questions are answered, display a message just above the submit button and exit the function
-        if (!allAnswered) {
-            const answerAll = document.createElement('p');
-            answerAll.className = 'alert-message';  // A specific class for styling this message
-            answerAll.textContent = 'Please answer all of the questions above!';
-            answerAll.style.color = 'red';  // Make the text color red for visibility
-
-            const submitButton = document.getElementById('submitQuiz');
-            submitButton.parentNode.insertBefore(answerAll, submitButton);
-
-            return;  // Stop the function if there are unanswered questions
-        }
-
-        questions.forEach((questionBlock, index) => {
-            const selectedInput = questionBlock.querySelector('input[type="radio"]:checked');
-            const labels = questionBlock.querySelectorAll('label');
-            const inputs = questionBlock.querySelectorAll('input[type="radio"]'); // Select all radio inputs
-            const correctAnswer = currentQuizData['Additional Quiz Questions'][index].Answer;
-
-            // Disable all radio buttons to prevent reselection
-            inputs.forEach(input => {
-                input.disabled = true;
-            });
-
-            // Clear previous results before appending new content
-            questionBlock.querySelectorAll('.result-text, .explanation-text, .correct_con, .incorrect_con').forEach(el => el.remove());
-
-            labels.forEach(label => {
-                const input = label.previousElementSibling;
-                if (input.value === correctAnswer) {
-                    label.classList.add('correct');
-                    label.classList.remove('incorrect');
-                } else {
-                    label.classList.add('incorrect');
-                    label.classList.remove('correct');
-                }
-            });
-
-            if (selectedInput) {
-                const isSelectedCorrect = selectedInput.value === correctAnswer;
-                const resultContainer = document.createElement('div');
-                resultContainer.className = isSelectedCorrect ? 'correct_con' : 'incorrect_con';
-
-                const resultText = document.createElement('p');
-                resultText.className = isSelectedCorrect ? 'correct' : 'incorrect';
-                resultText.textContent = isSelectedCorrect ? 'Correct!' : 'Incorrect!';
-                resultContainer.appendChild(resultText); // Append result text to the container
-
-                const correctAnsLabel = document.createElement('p');
-                correctAnsLabel.className = isSelectedCorrect ? 'correct' : 'incorrect';
-                correctAnsLabel.textContent = `Correct answer: ${correctAnswer}`;
-                resultContainer.appendChild(correctAnsLabel); // Append result text to the container
-
-                // Create and append the "Explanation:" label
-                const explanationLabel = document.createElement('p');
-                explanationLabel.className = 'explanation-label';
-                explanationLabel.textContent = 'Explanation:';
-                resultContainer.appendChild(explanationLabel); // Append the label to the container
-
-                const explanationText = document.createElement('p');
-                explanationText.className = 'explanation-text';
-                explanationText.textContent = currentQuizData['Additional Quiz Questions'][index].Explanation;
-                resultContainer.appendChild(explanationText); // Append explanation text to the container
-
-                questionBlock.appendChild(resultContainer);
-            }
-        });
-    }
 
     </script>
 </head>
+
 <body>
     <header>
         <img id="skillsbase_logo" src="../static/images/skillsbase.png">
@@ -316,4 +322,5 @@ function displayQuiz(quizData, questionsToDisplay) {
     </main>
 
 </body>
+
 </html>

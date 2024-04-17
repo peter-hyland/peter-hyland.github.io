@@ -7,53 +7,119 @@
     <link rel="stylesheet" href="../static/styles/styles.css">
     <script>
     let currentQuizData = {
-        "Additional Quiz Questions": [
-            {
-                "Question": "What is the first step in ensuring proper fibre hygiene before conducting the splicing process?",
-                "Choices": [
-                    "Use an OPM and OLS to confirm reference reading",
-                    "Ensure connectors are cleaned correctly",
-                    "Use Kevlar Scissors to unsheathe the cable",
-                    "Place a splice protector over the exposed tight buffer tube"
-                ],
-                "Answer": "Ensure connectors are cleaned correctly",
-                "Explanation": "The first step in ensuring proper fibre hygiene is to clean the connectors correctly before starting the splicing process. This helps in preventing contamination and potential issues in the splice."
-            },
-            {
-                "Question": "Why is it important to clean the bare fibre with fibre cleaning fluid and a fibre cleaning wipe?",
-                "Choices": [
-                    "To increase the flexibility of the fibre",
-                    "To make the fibre easier to handle",
-                    "To prevent potential signal loss or physical damage",
-                    "To remove any contaminants and ensure a high-quality splice"
-                ],
-                "Answer": "To remove any contaminants and ensure a high-quality splice",
-                "Explanation": "Cleaning the bare fibre with fibre cleaning fluid and a fibre cleaning wipe is crucial to remove any potential contaminants. This step ensures a high-quality splice by preventing issues that might arise from dirty fibres."
-            },
-            {
-                "Question": "What was the result of not using fibre gloves and failing to clean the fibre correctly?",
-                "Choices": [
-                    "No noticeable effect on the splice quality",
-                    "The splice was stronger",
-                    "A significant loss difference of 0.26dB was noticed",
-                    "The process was faster"
-                ],
-                "Answer": "A significant loss difference of 0.26dB was noticed",
-                "Explanation": "Not using fibre gloves and failing to clean the fibre correctly resulted in a poor splice procedure with a significant loss difference of 0.26dB. This underlines the importance of maintaining proper fibre hygiene."
-            },
-            {
-                "Question": "How does incorrect splice hygiene, such as not sufficiently cooling the splice protector, impact the splice?",
-                "Choices": [
-                    "Makes the splice process quicker",
-                    "Improves the aesthetic appearance of the splice",
-                    "Has no effect on the splice's durability",
-                    "Makes the splice fragile and potentially affects its performance"
-                ],
-                "Answer": "Makes the splice fragile and potentially affects its performance",
-                "Explanation": "Incorrect splice hygiene, such as not sufficiently cooling the splice protector, makes the splice fragile. This can negatively affect the splice's performance and durability, leading to potential issues."
-            }
-        ]
-    };
+  "Additional Quiz Questions": [
+    {
+      "Question": "What is the CN drawing number for a JMF110?",
+      "Choices": [
+        "CN15083-01",
+        "CN14982-04",
+        "CN14872-03",
+        "CN14762-02"
+      ],
+      "Answer": "CN14982-04",
+      "Explanation": "The CN drawing number for a JMF110 is CN14982-04 as per the standards for construction specifications."
+    },
+    {
+      "Question": "When is it permissible to construct a JMF102 using 2 rings set on a Type 1 granular sub-base?",
+      "Choices": [
+        "Always",
+        "Never",
+        "When specified by a project engineer",
+        "Following industry standards"
+      ],
+      "Answer": "When specified by a project engineer",
+      "Explanation": "It is permissible to construct a JMF102 using 2 rings set on a Type 1 granular sub-base when specifically instructed by a project engineer, ensuring alignment with specified construction standards."
+    },
+    {
+      "Question": "What must you ensure whilst carrying out work with existing joints and cables in the excavation?",
+      "Choices": [
+        "All existing cables are live until proven otherwise",
+        "Direct contact with existing cables is avoided",
+        "All work complies with health and safety standards",
+        "All of the above"
+      ],
+      "Answer": "All of the above",
+      "Explanation": "When working with existing joints and cables in the excavation, it is critical to treat all cables as live until proven otherwise, avoid direct contact, and ensure all activities comply with health and safety standards."
+    },
+    {
+      "Question": "How should excavated material be managed on site?",
+      "Choices": [
+        "Reused for backfilling if suitable",
+        "Disposed of as per environmental regulations",
+        "Sorted based on material type",
+        "All of the above"
+      ],
+      "Answer": "All of the above",
+      "Explanation": "Excavated material should be managed by evaluating its suitability for reuse in backfilling, disposed of in compliance with environmental regulations, and sorted based on material type to optimize resource utilization."
+    },
+    {
+      "Question": "What safety precautions should be taken into consideration for the excavation?",
+      "Choices": [
+        "Wearing appropriate PPE",
+        "Securing excavation walls",
+        "Monitoring atmospheric conditions within the excavation",
+        "All of the above"
+      ],
+      "Answer": "All of the above",
+      "Explanation": "Safety precautions for excavation include wearing proper personal protective equipment (PPE), securing excavation walls to prevent collapses, and monitoring atmospheric conditions to ensure safe air quality."
+    },
+    {
+      "Question": "What is the minimum size diameter for a sump hole in a JMF106?",
+      "Choices": [
+        "150mm",
+        "200mm",
+        "225mm +-10mm",
+        "250mm"
+      ],
+      "Answer": "225mm +-10mm",
+      "Explanation": "The minimum size diameter for a sump hole in a JMF106 is 225mm +-10mm, ensuring adequate drainage and functionality of the sump system."
+    },
+    {
+      "Question": "How much can the duct protrude the modular chamber?",
+      "Choices": [
+        "5mm to 15mm",
+        "Minimum of 10mm and a maximum of 25mm",
+        "30mm to 45mm",
+        "Should be flush with the chamber wall"
+      ],
+      "Answer": "Minimum of 10mm and a maximum of 25mm",
+      "Explanation": "The duct can protrude the modular chamber by a minimum of 10mm and a maximum of 25mm, which is a specification designed to ensure proper fitting and function within the chamber structure."
+    },
+    {
+      "Question": "Is it permissible to drill a ring then cut it vertically?",
+      "Choices": [
+        "Yes, without restrictions",
+        "Only if using a specialized drill",
+        "Yes, as long as a complete ring is installed above and below the cut ring",
+        "No, it is never permissible"
+      ],
+      "Answer": "Yes, as long as a complete ring is installed above and below the cut ring",
+      "Explanation": "It is permissible to drill a ring then cut it vertically as long as a complete ring is installed both above and below the cut ring, ensuring structural integrity and compliance with construction specs."
+    },
+    {
+      "Question": "What type of mesh is used to construct the base of a JMF106?",
+      "Choices": [
+        "B113 mesh",
+        "A393 mesh",
+        "C250 mesh",
+        "D500 mesh"
+      ],
+      "Answer": "A393 mesh",
+      "Explanation": "The base of a JMF106 utilizes A393 mesh for construction, providing the required strength and stability as per the engineering specifications."
+    },
+    {
+      "Question": "At what point must steps be provided on a JMF106?",
+      "Choices": [
+        "When deeper than 600mm",
+        "When deeper than 700mm",
+        "When deeper than 800mm",
+        "No requirement for steps regardless of depth"
+      ],
+      "Answer": "When deeper than 700mm",
+      "Explanation": "Steps must be provided on a JMF106 when the chamber is deeper than 700mm, ensuring safe access and egress for maintenance or inspection activities."
+    }
+  ]
+};
 
     document.addEventListener('DOMContentLoaded', () => {
     const params = new URLSearchParams(window.location.search);

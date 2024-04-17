@@ -16,6 +16,8 @@
     --border-radius: 0.25rem;
     --transition-speed: 0.15s;
     --box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    --right-answer: rgb(111, 190, 111);
+    --wrong-answer: rgb(255, 94, 94);
 }
 
 #skillsbase_logo {
@@ -147,22 +149,22 @@ input[type="radio"]:checked + .choice-label {
 
 /* Styling for correct choice */
 .choice-label.correct {
-    border: 2px solid green;
-    color: green;
+    border: 2px solid var(--right-answer);
+    color: var(--right-answer);
 }
 
 
 /* Styling for incorrect choice */
 .choice-label.incorrect {
-    border: 2px solid red;
-    color: red;
+    border: 2px solid var(--wrong-answer);
+    color: var(--wrong-answer);
 }
 
 .correct_con {
     border-radius: var(--border-radius);
     /* border: 2px solid green; */
-    background-color: green;
-    color: black;
+    background-color: var(--right-answer);
+    color: white;
     padding: 10px;
     margin-bottom: 30px;
 }
@@ -170,8 +172,8 @@ input[type="radio"]:checked + .choice-label {
 .incorrect_con {
     border-radius: var(--border-radius);
     /* border: 2px solid red; */
-    background-color: red;
-    color: black;
+    background-color:  var(--wrong-answer);
+    color: white;
     padding: 10px;
     margin-bottom: 30px;
 

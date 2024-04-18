@@ -199,6 +199,7 @@ input[type="radio"]:checked + .choice-label {
     display: block;       /* Ensures the logo is treated as a block-level element */
     margin: 0 auto;       /* Auto margins on both sides to center it horizontally */
     position: relative; 
+    margin-bottom: 100px;
 
 }
 

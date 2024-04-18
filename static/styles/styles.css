@@ -17,7 +17,7 @@
     --transition-speed: 0.15s;
     --box-shadow: 0 2px 4px rgba(0,0,0,0.3);
     --right-answer: rgb(111, 190, 111);
-    --wrong-answer: rgb(255, 94, 94);
+    --wrong-answer: var(--secondary-color);
 }
 
 #skillsbase_logo {
@@ -189,7 +189,7 @@ input[type="radio"]:checked + .choice-label {
 
 }
 .alert-message {
-    color: red;  /* Red color for error messages */
+    color: var(--wrong-answer);  /* Red color for error messages */
     font-weight: bold;  /* Make the message bold */
     padding: 10px;  /* Add some padding around the message */
     margin-bottom: 10px;  /* Space before the submit button */
